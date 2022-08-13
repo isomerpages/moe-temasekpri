@@ -19,3 +19,16 @@ links:
         url: /about-us/contact-us/
       - title: School Services
         url: /about-us/school-services/school-bookshop/
+  - title: Pupils Our Pride
+    url: /pupils-our-pride/our-learner-outcomes/
+    sublinks:
+      - title: Our Learner Outcomes
+        url: /pupils-our-pride/our-learner-outcomes/
+      - title: Student Well-being
+        url: /pupils-our-pride/character-education/
+      - title: Co-Curricular Activities (CCA)
+        url: /pupils-our-pride/cca/
+      - title: Programme for Active Learning
+        url: /pupils-our-pride/programme-for-active-learning/
+      - title: Forms
+        url: /pupils-our-pride/forms/
