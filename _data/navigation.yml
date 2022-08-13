@@ -1,8 +1,21 @@
 logo: /images/tpslogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/mission-vision-values-crest/
+    sublinks:
+      - title: Mission, Vision, Values&Crest
+        url: /about-us/mission-vision-values-crest/
+      - title: School History
+        url: /about-us/school-history/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Corporate Logos
+        url: /about-us/our-corporate-logos/
+      - title: Our School Song
+        url: /about-us/our-school-song/
+      - title: School Rules & Regulations
+        url: /about-us/school-rules-and-regulations/overview/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: School Services
+        url: /about-us/school-services/school-bookshop/
