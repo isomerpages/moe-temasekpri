@@ -58,3 +58,18 @@ links:
         url: /partners-our-links/external-partnerships/
       - title: School Visitors
         url: /partners-our-links/school-visitors/overview/
+  - title: Others
+    url: /others/quick-links/
+    sublinks:
+      - title: Quick Links
+        url: /others/quick-links/
+      - title: Teacher's Portal
+        url: /others/teachers-portal/
+      - title: One-Stop Portal ICT @ Temasek
+        url: /others/one-stop-portal-ict-at-temasek/
+      - title: Student's Portal
+        url: /others/students-portal/
+      - title: MOE Kindergarten (MK)
+        url: /others/moe-kindergarten-mk/
+      - title: School Updates
+        url: /others/school-updates/
