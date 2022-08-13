@@ -9,19 +9,10 @@ sections:
   - hero:
       background: /images/temasekbanner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: News & Announcements
+          description: ""
+          url: /news-and-announcements/activities-in-term-3/
+        - title: Communication
+          description: ""
+          url: /communication/40th-anniversary-e-magazine/
 ---
