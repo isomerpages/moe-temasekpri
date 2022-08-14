@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules & Regulations/Come to school punctually.md
       - School Rules & Regulations/Types of Offences.md
       - School Rules & Regulations/Possible Actions and Consequences to All
         Offences.md
