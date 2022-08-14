@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules & Regulations/Safety First.md
       - School Rules & Regulations/Overview.md
       - School Rules & Regulations/.keep
       - Mission, Vision, Values & Crest.md
