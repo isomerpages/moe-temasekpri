@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - MOE Kindergarten (MK).md
       - School Updates/.keep
