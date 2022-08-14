@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - School Visitors/P3 Singapore Japanese School Exchange Programme 2016.md
       - School Visitors/Visitors from Malawi 2016.md
       - School Visitors/Taiwan Immersion Programme 2016.md
       - School Visitors/.keep
