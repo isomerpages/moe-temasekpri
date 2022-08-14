@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - Parents Connection Committee/.keep
       - Alumni.md
       - External Partnerships.md
       - School Visitors/Overview.md
