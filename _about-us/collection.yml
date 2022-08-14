@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules & Regulations/.keep
+      - School Rules & Regulations/Overview.md
       - School Rules & Regulations/Attire and Appearance.md
       - School Rules & Regulations/Be Considerate.md
       - School Rules & Regulations/Come to school punctually.md
@@ -9,8 +11,6 @@ collections:
       - School Rules & Regulations/Possible Actions and Consequences to All
         Offences.md
       - School Rules & Regulations/Safety First.md
-      - School Rules & Regulations/Overview.md
-      - School Rules & Regulations/.keep
       - Mission, Vision, Values & Crest.md
       - School History.md
       - Principal's Message.md
