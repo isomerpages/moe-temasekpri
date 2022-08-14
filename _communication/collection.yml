@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - Temasek Connections/Temasek Connections 2020.md
       - Temasek Connections/Temasek Connections 2019.md
       - Temasek Connections/Temasek Connections 2018.md
       - Temasek Connections/Temasek Connections 2017.md
