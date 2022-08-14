@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - Temasek Connections/.keep
       - Temasek in the News.md
       - Terms of Use.md
       - Privacy Statement.md
