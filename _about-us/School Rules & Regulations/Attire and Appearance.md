@@ -94,3 +94,25 @@ third_nav_title: School Rules & Regulations
 |---	|---	|
 | <img src="/images/attire6.png" style="width:50%"> 	|<img src="/images/attire7.png" style="width:50%">  	|
 
+**Nametag**
+
+|  	|  	|
+|---	|---	|
+| <img src="/images/attire8.png" style="width:50%"> 	|<br><br>Name tag **1 cm** above the school badge  	|
+
+**Hairstyle for Girls** <br> Short Hair
+
+<img src="/images/attire9.png" style="width:30%">
+
+**Short Ponytail: Hair that touches the collar must be tied into one ponytail**
+
+<img src="/images/attire10.png" style="width:30%">
+
+**Long Hair; Plaited Ponytail** <br> Hair that long enough must be plaited.
+<img src="/images/attire11.png" style="width:30%">
+
+**Hairstyle for Boys** <br> Acceptable hairstyle
+<img src="/images/attire12.png" style="width:30%">
+
+**White Shoes and Temasek Socks**
+<img src="/images/attire13.png" style="width:30%">
