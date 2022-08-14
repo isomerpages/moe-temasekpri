@@ -2,4 +2,5 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - Activities in Term 3.md
       - Teacher's Conference and ExCEL Fest 2021.md
