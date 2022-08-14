@@ -2,14 +2,14 @@ collections:
   pupils-our-pride:
     output: true
     order:
+      - Our Learner Outcomes.md
+      - Student Well Being/.keep
       - Student Well Being/Character Education.md
       - Student Well Being/Cyber Wellness.md
       - Student Well Being/Service Learning.md
       - Student Well Being/Student Development.md
       - Student Well Being/Student Leadership.md
       - Student Well Being/Student Management.md
-      - Student Well Being/.keep
-      - Our Learner Outcomes.md
       - Co Curricular Activities.md
       - Programme for Active Learning.md
       - Forms.md
