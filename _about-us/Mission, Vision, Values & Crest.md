@@ -42,3 +42,45 @@ description: ""
 <br>_Humil**ity**_ <br><br>
 
 **Our School Crest**
+
+<img src="/images/crest.png" 
+     style="width:30%">
+		 
+**Shield**
+<br>Symbolises excellence in education, work and behaviour
+
+  
+
+**Torch**
+<br>Symbolises knowledge
+
+  
+
+**The Four Stripes**
+<br>Represent the four official languages that are being taught in the school
+
+  
+
+**Motto**
+<br>"Forward Together"
+<br>It is our fervent hope that the staff and pupils will work hard and progress together to achieve success
+
+  
+
+**1980**
+<br>Year the school started functioning
+
+  
+
+**Colour**
+<br>Beige and chestnut brown - the school colours
+
+  
+
+**Temasek Leaders' Character Pledge**
+<br>We, the leaders of Temasek Primary School, 
+<br>pledge ourselves to be respectful to one another, 
+<br>to be responsible for our actions 
+<br>and to show consideration toward others.
+<br>We will persevere to give our best 
+<br>so as to become the future pillars of our nation.
