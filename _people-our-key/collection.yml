@@ -2,6 +2,7 @@ collections:
   people-our-key:
     output: true
     order:
+      - Teaching Staff.md
       - Executive and Administrative Staff.md
       - Alumni.md
       - External Partnerships.md
