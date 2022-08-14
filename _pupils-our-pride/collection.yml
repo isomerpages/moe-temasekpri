@@ -2,6 +2,7 @@ collections:
   pupils-our-pride:
     output: true
     order:
+      - Student Well Being/Student Management.md
       - Student Well Being/.keep
       - Our Learner Outcomes.md
       - Student Well Being.md
