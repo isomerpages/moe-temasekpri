@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - One Stop Portal ICT at Temasek.md
       - Student's Portal.md
       - MOE Kindergarten (MK).md
       - School Updates/.keep
