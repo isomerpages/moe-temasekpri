@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - Parents Connection Committee/Project SPARK.md
       - Parents Connection Committee/Primary 1 to 3 Lifeskills Programme.md
       - Parents Connection Committee/.keep
       - Alumni.md
