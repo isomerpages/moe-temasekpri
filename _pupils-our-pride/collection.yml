@@ -2,6 +2,7 @@ collections:
   pupils-our-pride:
     output: true
     order:
+      - Our Learner Outcomes.md
       - Student Well Being.md
       - Co Curricular Activities.md
       - Programme for Active Learning.md
