@@ -70,3 +70,20 @@ third_nav_title: School Rules & Regulations
 ##### 8\. Others
 
 8.1 Students are not allowed to wear make-up except when performing during concerts.
+
+**Figure 1: Natural metal ear stud**
+<img src="/images/attire1.png" 
+     style="width:30%">
+		 
+**Figure 2: Our School Uniform**
+
+|  	|  	|
+|---	|---	|
+| <img src="/images/attire2.png" style="width:50%"> 	|  	<img src="/images/attire3.png" style="width:50%">| 
+
+**Nametag**
+
+| Boy 	| Girl 	|
+|---	|---	|
+| <img src="/images/attire4.png" style="width:50%"> 	| <img src="/images/attire5.png" style="width:50%"> 	|
+|Name tag on the pocket, flush with the top of the pocket  	|  Name tag **1 cm** above the school badge	|
