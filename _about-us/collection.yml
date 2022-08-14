@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules & Regulations/Attire and Appearance.md
       - School Rules & Regulations/Be Considerate.md
       - School Rules & Regulations/Come to school punctually.md
       - School Rules & Regulations/Types of Offences.md
