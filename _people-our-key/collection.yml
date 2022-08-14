@@ -1,4 +1,5 @@
 collections:
   people-our-key:
     output: true
-    order: []
+    order:
+      - Affirmation and Recognition.md
