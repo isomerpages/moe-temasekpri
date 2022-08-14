@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Club and Societies/Drama and Debate Society.md
       - Club and Societies/.keep
