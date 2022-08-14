@@ -2,4 +2,5 @@ collections:
   partner-our-links:
     output: true
     order:
+      - School Visitors/Taiwan Immersion Programme 2016.md
       - School Visitors/.keep
