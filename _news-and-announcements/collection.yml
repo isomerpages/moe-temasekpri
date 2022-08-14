@@ -2,6 +2,7 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - Overview.md
       - Teacher's Conference and ExCEL Fest 2021.md
       - Upcoming Activities.md
       - Run and Gift.md
