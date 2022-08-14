@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Quick Links.md
       - Teacher's Portal.md
       - One Stop Portal ICT at Temasek.md
       - Student's Portal.md
