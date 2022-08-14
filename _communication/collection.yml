@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - Temasek Connections/Temasek Connections 2017.md
       - Temasek Connections/Temasek Connections 2016.md
       - Temasek Connections/.keep
       - Temasek in the News.md
