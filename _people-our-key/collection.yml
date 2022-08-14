@@ -2,5 +2,6 @@ collections:
   people-our-key:
     output: true
     order:
+      - Alumni.md
       - External Partnerships.md
       - Affirmation and Recognition.md
