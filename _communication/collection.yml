@@ -2,5 +2,6 @@ collections:
   communication:
     output: true
     order:
+      - Temasek in the News.md
       - Terms of Use.md
       - Privacy Statement.md
