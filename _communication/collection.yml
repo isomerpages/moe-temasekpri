@@ -2,6 +2,7 @@ collections:
   communication:
     output: true
     order:
+      - 40th Anniversary E Magazine.md
       - Temasek Connections/overview.md
       - Temasek Connections/Temasek Connections 2020.md
       - Temasek Connections/Temasek Connections 2019.md
