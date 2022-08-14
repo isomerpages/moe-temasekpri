@@ -104,3 +104,12 @@ The school also involves staff and students in the yearly Kindness and Gratitude
 		 
 **3) Appreciation Notes** <br>
 To inculcate the value of respect and gratitude, the school engages P6 students in writing appreciation letters and notes to all teachers and parents at year-end.
+
+<img src="/images/cce9.png" 
+     style="width:60%">
+		 
+**4\) Sharing and Giving Day**
+<br>SG Day was conceptualized to rally the whole school in sharing and giving. Students participate in various Service Learning Projects to give back to the community. In 2021, in the project themed “Family3”, students learnt about the importance of family and how they can show their appreciation towards their family members
+
+<img src="/images/cce10.png" 
+     style="width:60%">
