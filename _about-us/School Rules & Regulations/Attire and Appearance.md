@@ -93,3 +93,4 @@ third_nav_title: School Rules & Regulations
 |  	|  	|
 |---	|---	|
 | <img src="/images/attire6.png" style="width:50%"> 	|<img src="/images/attire7.png" style="width:50%">  	|
+
