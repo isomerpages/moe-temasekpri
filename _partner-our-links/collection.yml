@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - Parents Connection Committee/Parents Connection Committee.md
       - Parents Connection Committee/Project Green Earth.md
       - Parents Connection Committee/Garden of Character.md
       - Parents Connection Committee/Mothers' Day.md
