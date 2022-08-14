@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - Parents Connection Committee/Mothers' Day.md
       - Parents Connection Committee/Temasek Magic Land.md
       - Parents Connection Committee/Community Involvement Project.md
       - Parents Connection Committee/Project SPARK.md
