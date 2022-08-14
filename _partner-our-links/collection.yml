@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - School Visitors/Overview.md
       - School Visitors/Tainan Immersion 2018.md
       - School Visitors/Taipei Educators Immersion 2018.md
       - School Visitors/Taipei Jian Kang Elementary School Immersion Programme.md
