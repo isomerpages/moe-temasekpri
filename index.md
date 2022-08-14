@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News & Announcements
           description: ""
-          url: /news-and-announcements/activities-in-term-3/
+          url: /news-and-announcements/overview/
         - title: Communication
           description: ""
           url: /communication/40th-anniversary-e-magazine/
