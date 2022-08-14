@@ -87,3 +87,9 @@ third_nav_title: School Rules & Regulations
 |---	|---	|
 | <img src="/images/attire4.png" style="width:50%"> 	| <img src="/images/attire5.png" style="width:50%"> 	|
 |Name tag on the pocket, flush with the top of the pocket  	|  Name tag **1 cm** above the school badge	|
+
+**PE Attire** <br> T-shirt to be tucked in at all times.
+
+|  	|  	|
+|---	|---	|
+| <img src="/images/attire6.png" style="width:50%"> 	|<img src="/images/attire7.png" style="width:50%">  	|
