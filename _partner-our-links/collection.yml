@@ -1,4 +1,5 @@
 collections:
   partner-our-links:
     output: true
-    order: []
+    order:
+      - School Visitors/.keep
