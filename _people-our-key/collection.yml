@@ -2,8 +2,8 @@ collections:
   people-our-key:
     output: true
     order:
-      - Departments.md
       - School Management Board Committee.md
       - Teaching Staff.md
       - Executive and Administrative Staff.md
+      - Departments.md
       - Affirmation and Recognition.md
