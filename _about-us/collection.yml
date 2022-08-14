@@ -2,12 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Services/School Bookshop.md
-      - School Services/School Uniform & PE Attire.md
-      - School Services/School Bus Service.md
-      - School Services/School Hours and Recess.md
-      - School Services/School Canteen.md
-      - School Services/.keep
       - School Rules & Regulations/.keep
       - School Rules & Regulations/Overview.md
       - School Rules & Regulations/Attire and Appearance.md
@@ -24,3 +18,9 @@ collections:
       - Our School Song.md
       - School Rules & Regulations.md
       - Contact Us.md
+      - School Services/.keep
+      - School Services/School Bookshop.md
+      - School Services/School Uniform & PE Attire.md
+      - School Services/School Bus Service.md
+      - School Services/School Hours and Recess.md
+      - School Services/School Canteen.md
