@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Club and Societies/Robotics.md
       - Club and Societies/Drama and Debate Society.md
       - Club and Societies/.keep
