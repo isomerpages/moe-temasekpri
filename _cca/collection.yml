@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports and Games/.keep
       - Aesthetics/Art and Crafts.md
       - Aesthetics/Choir.md
       - Aesthetics/Guitar Ensemble.md
