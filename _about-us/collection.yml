@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Services/.keep
       - School Rules & Regulations/.keep
       - School Rules & Regulations/Overview.md
       - School Rules & Regulations/Attire and Appearance.md
