@@ -2,6 +2,7 @@ collections:
   pupils-our-pride:
     output: true
     order:
+      - Student Well Being/Cyber Wellness.md
       - Student Well Being/Service Learning.md
       - Student Well Being/Student Development.md
       - Student Well Being/Student Leadership.md
