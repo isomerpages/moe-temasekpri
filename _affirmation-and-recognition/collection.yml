@@ -2,6 +2,7 @@ collections:
   affirmation-and-recognition:
     output: true
     order:
+      - National Awards/Distinguished Chinese Language Teachers Award.md
       - National Awards/Inspiring Teacher of English Award.md
       - National Awards/National Day Awards 2019 to 2021.md
       - National Awards/MOE Service Excellence Awards 2019 to 2021.md
