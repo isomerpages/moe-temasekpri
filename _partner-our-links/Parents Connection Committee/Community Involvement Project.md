@@ -4,3 +4,6 @@ permalink: /partner-our-links/Parents-Connection-Committee/community-involvement
 description: ""
 third_nav_title: Parents Connection Committee
 ---
+### Community Involvement Project
+  
+The PCC members embarked on a CIP activity this year. In the spirit of bringing cheer to the residents from the Lions Home, the PCC members made a personal donation – the money raised from the sale of the gold plated orchids. The orchid, named Dendrobium Temasek Parent Volunteers, was named after the PCC and Parent Volunteers. Besides monetary contributions, the PCC also presented food items to the residents of the Lions Home.
