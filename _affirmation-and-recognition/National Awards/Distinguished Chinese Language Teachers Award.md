@@ -4,3 +4,8 @@ permalink: /affirmation-and-recognition/National-Awards/distinguished-chinese-la
 description: ""
 third_nav_title: National Awards
 ---
+### Distinguished Chinese Language Teachers Award
+
+#### Distinguished Chinese Language Teachers Award 2020
+
+**Mdm Li Nan**
