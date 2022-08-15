@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
 ---
-
 ### Contact Us
 
 | School Code: 	| School Level:  	| School Type:  	| School Session:  	| Affiliated Schools: 	|
@@ -29,7 +28,7 @@ description: ""
 | Monday to Friday 	| : 7.00 am - 5.00 pm 	|
 | School Holidays 	| : 8.00 am - 5.00 pm 	|
 
-###### Accessibility
+##### Accessibility
 
 | Bus Services 	| MRT  	|
 |:---:	|:---:	|
