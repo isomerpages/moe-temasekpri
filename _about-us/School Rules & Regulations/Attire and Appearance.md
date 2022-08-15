@@ -80,40 +80,40 @@ third_nav_title: School Rules & Regulations
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/attire2.png" style="width:50%"> 	|  	<img src="/images/attire3.png" style="width:50%">| 
+| <img src="/images/attire2.png" style="width:65%"> 	|  	<img src="/images/attire3.png" style="width:45%">| 
 
 **Nametag**
 
 | Boy 	| Girl 	|
 |---	|---	|
-| <img src="/images/attire4.png" style="width:50%"> 	| <img src="/images/attire5.png" style="width:50%"> 	|
+| <img src="/images/attire4.png" style="width:60%"> 	| <img src="/images/attire5.png" style="width:50%"> 	|
 |Name tag on the pocket, flush with the top of the pocket  	|  Name tag **1 cm** above the school badge	|
 
 **PE Attire** <br> T-shirt to be tucked in at all times.
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/attire6.png" style="width:50%"> 	|<img src="/images/attire7.png" style="width:50%">  	|
+| <img src="/images/attire6.png" style="width:40%"> 	|<img src="/images/attire7.png" style="width:43%">  	|
 
 **Nametag**
 
 |  	|  	|
 |---	|---	|
-| <img src="/images/attire8.png" style="width:50%"> 	|<br><br>Name tag **1 cm** above the school badge  	|
+| <img src="/images/attire8.png" style="width:30%"> 	|<br><br>Name tag **1 cm** above the school badge  	|
 
 **Hairstyle for Girls** <br> Short Hair
 
-<img src="/images/attire9.png" style="width:30%">
+<img src="/images/attire9.png" style="width:50%">
 
 **Short Ponytail: Hair that touches the collar must be tied into one ponytail**
 
-<img src="/images/attire10.png" style="width:30%">
+<img src="/images/attire10.png" style="width:50%">
 
 **Long Hair; Plaited Ponytail** <br> Hair that long enough must be plaited.
-<img src="/images/attire11.png" style="width:30%">
+<img src="/images/attire11.png" style="width:50%">
 
 **Hairstyle for Boys** <br> Acceptable hairstyle
-<img src="/images/attire12.png" style="width:30%">
+<img src="/images/attire12.png" style="width:50%">
 
 **White Shoes and Temasek Socks**
-<img src="/images/attire13.png" style="width:30%">
+<img src="/images/attire13.png" style="width:50%">
