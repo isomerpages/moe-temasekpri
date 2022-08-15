@@ -11,11 +11,9 @@ third_nav_title: Sports and Games
 
 #### Objectives
 
-• To develop an appreciation of Taekwondo as a sport and as an art
-
-• To inculcate the right values in members
-
-• To provide students with optimum opportunities to develop their potential and achieve top placing in all             divisions in NSG
+• To develop an appreciation of Taekwondo as a sport and as an art<br>
+• To inculcate the right values in members<br>
+• To provide students with optimum opportunities to develop their potential and achieve top placing in all divisions in NSG
 
   
 
