@@ -31,7 +31,7 @@ description: ""
 | 2 Humility 	| Mdm Salina Bte Ramat<br>Mdm Yeow Puay Geok 	| [salina\_ramat@schools.gov.sg](mailto:salina_ramat@schools.gov.sg)<br>[yeow\_puay\_geok@schools.gov.sg](mailto:yeow_puay_geok@schools.gov.sg) 	|
 | 2 Excellence 	| Mr Muhammad Diyar Bin Mustapa<br>Mr Ernest Choon 	| [muhamad\_diyar\_bin\_mustapa@schools.gov.sg](mailto:muhamad_diyar_bin_mustapa@schools.gov.sg)<br>[choon\_guoxiang\_ernest@schools.gov.sg](mailto:choon_guoxiang_ernest@schools.gov.sg) 	|
 
-**Primary 3** <br> **Year Head: Mr Martin Goh Poh**
+**Primary 3** <br> **Year Head: Mr Martin Goh Poh Huat**
 
 | Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
 |:---:	|:---:	|:---:	|
@@ -40,3 +40,14 @@ description: ""
 | 3 Integrity 	| Mdm Azlinda Binte Abd Aziz<br>Ms G Nirmala 	| [azlinda\_abd\_aziz@schools.gov.sg](mailto:azlinda_abd_aziz@schools.gov.sg)<br>[nirmala\_gunaratnam@moe.edu.sg](mailto:nirmala_gunaratnam@moe.edu.sg)	|
 | 3 Open-mindedness 	| Ms Tan Wei Khim<br>Miss Low Xin Jie <br>Mr Muhamad Fadly Bin Mohd Ariff 	| [tan\_wei\_khim@schools.gov.sg](mailto:tan_wei_khim@schools.gov.sg)<br>[low\_xin\_jie@schools.gov.sg](mailto:low_xin_jie@schools.gov.sg)<br>[muhamad\_fadly\_mohd\_ariff@schools.gov.sg](mailto:muhamad_fadly_mohd_ariff@schools.gov.sg) 	|
 | 3 Respect 	| Ms Janane d/o Elankovan<br>Mdm Li Pei 	| [janane\_elangkovan@schools.gov.sg](mailto:janane_elangkovan@schools.gov.sg)<br>[li\_pei@schools.gov.sg](mailto:li_pei@schools.gov.sg)	|
+
+**Primary 4** <br> **Year Head: Mr Martin Goh Poh Huat** <br> **Assistant Year Head: Ms Arveen Kaur**
+
+| Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
+|:---:	|:---:	|:---:	|
+| 4 Perseverance 	| Mdm Raihanawati Bte Abdul Razak<br>Miss Loh Ooi Wan 	| [raihanawati\_abdul\_razak@schools.gov.sg](mailto:raihanawati_abdul_razak@schools.gov.sg)<br>[loh\_ooi\_wan@schools.gov.sg](mailto:loh_ooi_wan@schools.gov.sg) 	|
+| 4 Responsibility 	| Mrs Charis Quek-Kang Leng Li<br>Mrs Ravee (Mdm A. Ananthi) 	| [kang\_leng\_li@schools.gov.sg](mailto:kang_leng_li@schools.gov.sg)<br>[a\_ananthi@schools.gov.sg](mailto:a_ananthi@schools.gov.sg) 	|
+| 4 Integrity 	| Ms Kwang Kir Hwee<br>Mr Mohamed Akramullah 	| [kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)<br>[mohamed\_akramullah@schools.gov.sg](http://mohamed_akramullah@schools.gov.sg%20/) 	|
+| 4 Open-mindedness 	| Mdm Arveen Kaur<br>Mrs Low Shu Fen, Jayne 	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>[low\_shu\_fen@schools.gov.sg](mailto:low_shu_fen@schools.gov.sg) 	|
+| 4 Respect 	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Mdm Farhati Bte Kamsani 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[farhati\_kamsani@schools.gov.sg](mailto:farhati_kamsani@schools.gov.sg) 	|
+| 4 Humility 	| Mr Muhammad Haziq<br>Mdm Serene Tay Li Tze 	| [muhammad\_haziq\_\_othman@schools.gov.sg](mailto:muhammad_haziq__othman@schools.gov.sg)<br>[tay\_li\_tze@schools.gov.sg](mailto:tay_li_tze@schools.gov.sg) 	|
