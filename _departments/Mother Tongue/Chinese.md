@@ -69,3 +69,27 @@ P5 and P6 students were introduced to the Chinese traditional arts. P5 students 
 
 <img src="/images/chi1.png" 
      style="width:60%">
+		 
+**2021 Chinese Language Game Competition for P4**
+
+**《天才西游》华文智力游戏比赛**  
+
+  
+
+The much anticipated Annual C-idiom competition for Primary Fours were held in Term 4.  As the C-Idiom Game used to be board games, due to Covid-19 pandemic, the C-Idiom Game Team from the Chinese Department had revamped the game and digitalized it. We made use of Gimkit to engage our students from various P4 Chinese Class.
+
+For this digitalized version of C-idiom competition, all participants had to go through a few rounds where the top three finalists would emerge from each class.  Each classroom was filled with excitement and energy where everyone tried their best to outwit their opponents to advance in the game. 
+
+  
+
+After several rounds of intense competition of wits and knowledge of the Chinese Idioms and sayings, there are three winners from each class.
+
+<img src="/images/chi2.png" 
+     style="width:60%">
+		 
+**2019 Mid-Autumn Festival**
+
+2019年华文部举办中秋节活动，各族同胞来欢庆。大家在学习文化的同时，也享用佳节美食，享受猜灯谜的乐趣。
+
+<img src="/images/chi3.png" 
+     style="width:60%">
