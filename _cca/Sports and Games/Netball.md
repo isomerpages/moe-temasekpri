@@ -13,8 +13,7 @@ third_nav_title: Sports and Games
 
 The CCA aims to nurture individuals who:
 
-1.  can play the sport well.
-
+1.  can play the sport well.<br>
 2.  are good team players by being able to communicate well and understand that teamwork is important in order for them to achieve their goals.
 
 Netball is a non-contact sport. Netball helps the girls to improve in their hand-eye-coordination and motor skills.  The game of netball emphasises on teamwork and allows the girls to develop social skills. 
