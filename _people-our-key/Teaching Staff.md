@@ -56,9 +56,9 @@ description: ""
 
 | Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
 |:---:	|:---:	|:---:	|
-| 5 Perseverance 	| Ms Chen Yunting, Carol<br>Mr Mohammed Izzat Bin Mohamed Sarip 	| chen_yunting@schools.gov.sg<br>mohamed_izzat_mohamed_sarip@schools.gov.sg 	|
-| 5 Responsibility 	| Ms Nancy Chia<br>Mr Syed Ali Omar Bin Syed Halid 	| chia_ping_ping_nancy@schools.gov.sg<br>syed_ali_omar_halid@schools.gov.sg 	|
-| 5 Integrity 	| Mr Bernard Lee<br>Mdm Sathya Anbuchezhian 	| lee_shuh_koon@schools.gov.sg<br>sathya_anbuchezhian@schools.gov.sg 	|
-|  5 Open-mindedness 	| Mr Muhd Dzulqarni Bin Mohd Safii<br>Ms Wong Mei Chu 	| muhd_dzulqarni_mohd_safii@schools.gov.sg<br>wong_mei_chu@schools.gov.sg 	|
-| 5 Respect 	| Ms Nazlie Bte Abdul Rashid<br>Mdm Connie Soon <br>Mr William Chan 	| nazlie_abdul_rashid@schools.gov.sg<br>soon_swee_lian@schools.gov.sg<br>chan_wai_liem_william@moe.edu.sg 	|
-| 5 Humility 	| Ms Arunah Bebe d/o Abdul Rahman<br> Ms Jia Wei 	| arunah_bebe_abdul_rahman@schools.gov.sg<br>jia_wei@schools.gov.sg 	|
+| 5 Perseverance 	| Ms Chen Yunting, Carol<br>Mr Mohammed Izzat Bin Mohamed Sarip 	| [chen\_yunting@schools.gov.sg](mailto:chen_yunting@schools.gov.sg)<br>[mohamed\_izzat\_mohamed\_sarip@schools.gov.sg](mailto:mohamed_izzat_mohamed_sarip@schools.gov.sg) 	|
+| 5 Responsibility 	| Ms Nancy Chia<br>Mr Syed Ali Omar Bin Syed Halid 	| [chia\_ping\_ping\_nancy@schools.gov.sg](mailto:chia_ping_ping_nancy@schools.gov.sg)<br>[syed\_ali\_omar\_halid@schools.gov.sg](mailto:syed_ali_omar_halid@schools.gov.sg) 	|
+| 5 Integrity 	| Mr Bernard Lee<br>Mdm Sathya Anbuchezhian 	| [lee\_shuh\_koon@schools.gov.sg](mailto:lee_shuh_koon@schools.gov.sg)<br>[sathya\_anbuchezhian@schools.gov.sg](mailto:sathya_anbuchezhian@schools.gov.sg) 	|
+|  5 Open-mindedness 	| Mr Muhd Dzulqarni Bin Mohd Safii<br>Ms Wong Mei Chu 	| [muhd\_dzulqarni\_mohd\_safii@schools.gov.sg](mailto:muhd_dzulqarni_mohd_safii@schools.gov.sg)<br>[wong\_mei\_chu@schools.gov.sg](mailto:wong_mei_chu@schools.gov.sg) 	|
+| 5 Respect 	| Ms Nazlie Bte Abdul Rashid<br>Mdm Connie Soon <br>Mr William Chan 	| [nazlie\_abdul\_rashid@schools.gov.sg](mailto:nazlie_abdul_rashid@schools.gov.sg)<br>[soon\_swee\_lian@schools.gov.sg](mailto:soon_swee_lian@schools.gov.sg)<br>[chan\_wai\_liem\_william@moe.edu.sg](mailto:chan_wai_liem_william@moe.edu.sg) 	|
+| 5 Humility 	| Ms Arunah Bebe d/o Abdul Rahman<br> Ms Jia Wei 	| [arunah\_bebe\_abdul\_rahman@schools.gov.sg](mailto:arunah_bebe_abdul_rahman@schools.gov.sg)<br>[jia\_wei@schools.gov.sg](mailto:jia_wei@schools.gov.sg) 	|
