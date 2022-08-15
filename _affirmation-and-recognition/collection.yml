@@ -1,4 +1,5 @@
 collections:
   affirmation-and-recognition:
     output: true
-    order: []
+    order:
+      - School Awards/.keep
