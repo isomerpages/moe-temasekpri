@@ -1,0 +1,4 @@
+collections:
+  affirmation-and-recognition:
+    output: true
+    order: []
