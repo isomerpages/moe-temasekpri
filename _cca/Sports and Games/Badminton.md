@@ -11,10 +11,8 @@ third_nav_title: Sports and Games
 
 #### Objectives
 
-\- to equip children with a strong foundation of badminton skills and technique
-
-\- to achieve top 4 placing in the East Zone Inter-Primary School Badminton Championship
-
+\- to equip children with a strong foundation of badminton skills and technique<br>
+\- to achieve top 4 placing in the East Zone Inter-Primary School Badminton Championship<br>
 \- to allow students to enjoy the game of badminton.
 
 In badminton, apart from letting our shuttlers learn badminton skills, we also strive to instill in them good character values, whether on or off the badminton courts.
