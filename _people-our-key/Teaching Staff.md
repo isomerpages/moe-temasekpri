@@ -51,3 +51,14 @@ description: ""
 | 4 Open-mindedness 	| Mdm Arveen Kaur<br>Mrs Low Shu Fen, Jayne 	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>[low\_shu\_fen@schools.gov.sg](mailto:low_shu_fen@schools.gov.sg) 	|
 | 4 Respect 	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Mdm Farhati Bte Kamsani 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[farhati\_kamsani@schools.gov.sg](mailto:farhati_kamsani@schools.gov.sg) 	|
 | 4 Humility 	| Mr Muhammad Haziq<br>Mdm Serene Tay Li Tze 	| [muhammad\_haziq\_\_othman@schools.gov.sg](mailto:muhammad_haziq__othman@schools.gov.sg)<br>[tay\_li\_tze@schools.gov.sg](mailto:tay_li_tze@schools.gov.sg) 	|
+
+**Primary 5** <br> **Year Head: Ms May O Guat Bee** <br> **Assistant Year Head: Ms Arunah Rahman**
+
+| Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
+|:---:	|:---:	|:---:	|
+| 5 Perseverance 	| Ms Chen Yunting, Carol<br>Mr Mohammed Izzat Bin Mohamed Sarip 	| chen_yunting@schools.gov.sg<br>mohamed_izzat_mohamed_sarip@schools.gov.sg 	|
+| 5 Responsibility 	| Ms Nancy Chia<br>Mr Syed Ali Omar Bin Syed Halid 	| chia_ping_ping_nancy@schools.gov.sg<br>syed_ali_omar_halid@schools.gov.sg 	|
+| 5 Integrity 	| Mr Bernard Lee<br>Mdm Sathya Anbuchezhian 	| lee_shuh_koon@schools.gov.sg<br>sathya_anbuchezhian@schools.gov.sg 	|
+|  5 Open-mindedness 	| Mr Muhd Dzulqarni Bin Mohd Safii<br>Ms Wong Mei Chu 	| muhd_dzulqarni_mohd_safii@schools.gov.sg<br>wong_mei_chu@schools.gov.sg 	|
+| 5 Respect 	| Ms Nazlie Bte Abdul Rashid<br>Mdm Connie Soon <br>Mr William Chan 	| nazlie_abdul_rashid@schools.gov.sg<br>soon_swee_lian@schools.gov.sg<br>chan_wai_liem_william@moe.edu.sg 	|
+| 5 Humility 	| Ms Arunah Bebe d/o Abdul Rahman<br> Ms Jia Wei 	| arunah_bebe_abdul_rahman@schools.gov.sg<br>jia_wei@schools.gov.sg 	|
