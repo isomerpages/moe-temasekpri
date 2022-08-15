@@ -27,4 +27,10 @@ Pupils will be exposed to different modular activities in 4 broad areas of Sport
 
 #### PAL DRAMA
 
-							
+<img src="/images/pal3.png" 
+     style="width:80%">
+		 
+#### PAL OUTDOOR EDUCATION
+
+<img src="/images/pal4.png" 
+     style="width:80%">
