@@ -11,15 +11,9 @@ third_nav_title: Club and Societies
 
 #### Objectives
 
-\- To visualise, design, build and program a robot to meet various, simulated 
-
-  real-life challenges.
-
-\- To innovatively apply creativity and problem solving skills to solutions.
-
-\- To explore multiple intelligences and develop skills required later on in 
-
-  adult working life.
+\- To visualise, design, build and program a robot to meet various, simulated real-life challenges.<br>
+\- To innovatively apply creativity and problem solving skills to solutions.<br>
+\- To explore multiple intelligences and develop skills required later on in adult working life.
 
 Robotics will provide our pupils with the applicative experience that can further enhance the 21st Century skills of SDL (Self-Directed Learning), CoL (Collaborative Learning) and HOTS (Higher Order Thinking Skills)
 
