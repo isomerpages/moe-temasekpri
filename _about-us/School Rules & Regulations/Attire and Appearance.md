@@ -47,6 +47,7 @@ third_nav_title: School Rules & Regulations
 4.1  With effect from 2022 Term 1 Week 4 (24 January 2022 onwards), all students are required to put on the school tie whenever they wear the school uniform on days when there are no PE/PAL/CCA lessons during curriculum time. The students are to have the tie on for at least the first period of the day.
 
 ##### 5\. Hair and Accessories
+
 | No. 	| Girls 	| Boys 	|
 |---	|---	|---	|
 | 5.1 	| Fringe must not touch the eyebrows. 	| Fringe must not touch the eyebrows. 	|
