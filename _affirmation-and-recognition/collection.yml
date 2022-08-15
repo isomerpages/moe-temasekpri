@@ -2,6 +2,7 @@ collections:
   affirmation-and-recognition:
     output: true
     order:
+      - National Awards/PS21 Star Service Award.md
       - National Awards/Outstanding STEM Teacher Award.md
       - National Awards/Distinguished Chinese Language Teachers Award.md
       - National Awards/Inspiring Teacher of English Award.md
