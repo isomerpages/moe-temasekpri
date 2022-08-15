@@ -46,20 +46,20 @@ _We will persevere to give our best so as to become the future pillars of our na
 The school’s Student Well-being Framework (2015) was refined in 2021. It reinforces how the school segments student needs and expectations in the 6 broad areas (domains) of Cognitive, Social, Emotional, Physical, Aesthetics and Psychosocial Environment. Its vision seeks to develop every Temasekian into a future ready citizen, rooted in values through the use of the 4Cs approach of CARE, CONNECT, CHARACTER & CELEBRATE.
 
 <img src="/images/cce1.png" 
-     style="width:30%">
+     style="width:50%">
 		 
 <img src="/images/cce2.png" 
-     style="width:30%">
+     style="width:50%">
 		 
 ##### School-based CCE Curriculum: Temasek Leaders for Life 
 
 The Leader for Life (LFL) programme, one of Temasek Primary’s signature programmes, encompasses the exploration of values as well as Dr Stephen Covey’s 7 HABITS to strengthen our students’ personal and interpersonal effectiveness. The curriculum seeks to build character, to convict their contributions to others and to widen their impact within and beyond school.
 
 <img src="/images/cce3.png" 
-     style="width:30%">
+     style="width:50%">
 		 
 <img src="/images/cce4.png" 
-     style="width:30%">
+     style="width:50%">
 		 
 The school’s Leader for Life (LFL) curriculum provides opportunities to build students’ character through deepening the learning of 7 Habits, School Values and SEL. 
 
@@ -70,7 +70,7 @@ Students are also given various opportunities to demonstrate their values in act
 The school’s Leader for Life (LFL) curriculum provides opportunities to build students’ character through deepening the learning of 7 Habits, School Values and SEL.
 
 <img src="/images/cce5.png" 
-     style="width:30%">
+     style="width:50%">
 		 
 **Co-Curriculum Framework (Updated 2019)**
 
