@@ -2,6 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - Mission, Vision, Values & Crest.md
+      - School History.md
+      - Principal's Message.md
+      - Our Corporate Logos.md
+      - Our School Song.md
       - School Rules & Regulations/.keep
       - School Rules & Regulations/Overview.md
       - School Rules & Regulations/Attire and Appearance.md
@@ -11,11 +16,6 @@ collections:
       - School Rules & Regulations/Possible Actions and Consequences to All
         Offences.md
       - School Rules & Regulations/Safety First.md
-      - Mission, Vision, Values & Crest.md
-      - School History.md
-      - Principal's Message.md
-      - Our Corporate Logos.md
-      - Our School Song.md
       - Contact Us.md
       - School Services/.keep
       - School Services/School Bookshop.md
