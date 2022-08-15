@@ -6,6 +6,9 @@ third_nav_title: Sports and Games
 ---
 ### Badminton
 
+<img src="/images/badminton.png" 
+     style="width:80%">
+
 #### Objectives
 
 \- to equip children with a strong foundation of badminton skills and technique
