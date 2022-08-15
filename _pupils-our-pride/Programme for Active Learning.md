@@ -13,7 +13,7 @@ description: ""
 
 Pupils will be exposed to different modular activities in 4 broad areas of Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The school will be implementing 3 PAL modules for each level as shown in the table below.
 
-****Overview of PAL Domains @ Temasek Primary****
+**Overview of PAL Domains @ Temasek Primary**
 
 |  	| Term 1 	| Term 2 	| Term 3 	| Term 4 	|
 |:---:	|:---:	|:---:	|:---:	|---	|
