@@ -11,16 +11,10 @@ third_nav_title: Sports and Games
 		 
 #### Objectives
 
-\- To instill in our players skills for life, such as leadership, character and
-
-  sportsmanship
-
-\- To groom talented players and to identify potential talents 
-
-\- To work together as a team to foster team spirit
-
-\- To develop the players to become effective leaders and communicators on the field.
-
+\- To instill in our players skills for life, such as leadership, character and sportsmanship<br>
+\- To groom talented players and to identify potential talents <br>
+\- To work together as a team to foster team spirit<br>
+\- To develop the players to become effective leaders and communicators on the field.<br>
 \- To provide opportunities for mass participation.
 
 The players will also be taught team formation, offensive and defensive skills. In addition the players will learn to enjoy the game by playing fairly and showing the sportsmanship spirit. The players will develop their character by persevering and being resilient, encouraging each other and forging ahead despite any adversity.
