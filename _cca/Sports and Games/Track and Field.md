@@ -12,9 +12,9 @@ third_nav_title: Sports and Games
 #### Objectives
 
 \- To cultivate an intrinsic fighting spirit and determination in our members.  
-\-To develop diligent, responsible, respectful and disciplined athletes.  
-\-To provide platforms for all athletes to participate, compete and showcase the values cultivated during CCA  
-\-To achieve Top 4 Divisional Champions.  
+\- To develop diligent, responsible, respectful and disciplined athletes.  
+\- To provide platforms for all athletes to participate, compete and showcase the values cultivated during CCA  
+\- To achieve Top 4 Divisional Champions.  
 
 Track and field is offered as a CCA for P3 to P6 students who display good potential in Track and Field events and also have interest in develop strength in this discipline.  
   
