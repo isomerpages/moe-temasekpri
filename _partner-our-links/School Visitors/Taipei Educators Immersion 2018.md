@@ -4,8 +4,7 @@ permalink: /partner-our-links/School-Visitors/taipei-educators-immersion-2018
 description: ""
 third_nav_title: School Visitors
 ---
-Taipei Educators Immersion 2018
-===============================
+### Taipei Educators Immersion 2018
 
 On 27-31 July 2018, Temasek Primary School welcomed a group of 20 Taiwan Educators from the Taipei City Compulsory Education Advisory Group and 6 elementary schools’ principals and teachers. They were here to learn about the usage of English medium in the teaching of the various core subjects and had fruitful dialogue sessions with our teachers after their lesson observations. Special thanks to the following teachers for their enthusiasm and great support in hosting the guests in the class as well as insightful sharing with them after that:
 
