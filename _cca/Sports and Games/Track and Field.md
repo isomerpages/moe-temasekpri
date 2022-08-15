@@ -12,7 +12,7 @@ third_nav_title: Sports and Games
 #### Objectives
 
 \- To cultivate an intrinsic fighting spirit and determination in our members.  
-\-to develop diligent, responsible, respectful and disciplined athletes.  
+\-To develop diligent, responsible, respectful and disciplined athletes.  
 \-To provide platforms for all athletes to participate, compete and showcase the values cultivated during CCA  
 \-To achieve Top 4 Divisional Champions.  
 
