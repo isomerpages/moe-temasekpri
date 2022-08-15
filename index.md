@@ -14,5 +14,5 @@ sections:
           url: /news-and-announcements/overview/
         - title: Communication
           description: ""
-          url: /communication/40th-anniversary-e-magazine/
+          url: /communication/20th-anniversary-e-magazine/
 ---
