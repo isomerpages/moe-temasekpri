@@ -62,3 +62,14 @@ description: ""
 |  5 Open-mindedness 	| Mr Muhd Dzulqarni Bin Mohd Safii<br>Ms Wong Mei Chu 	| [muhd\_dzulqarni\_mohd\_safii@schools.gov.sg](mailto:muhd_dzulqarni_mohd_safii@schools.gov.sg)<br>[wong\_mei\_chu@schools.gov.sg](mailto:wong_mei_chu@schools.gov.sg) 	|
 | 5 Respect 	| Ms Nazlie Bte Abdul Rashid<br>Mdm Connie Soon <br>Mr William Chan 	| [nazlie\_abdul\_rashid@schools.gov.sg](mailto:nazlie_abdul_rashid@schools.gov.sg)<br>[soon\_swee\_lian@schools.gov.sg](mailto:soon_swee_lian@schools.gov.sg)<br>[chan\_wai\_liem\_william@moe.edu.sg](mailto:chan_wai_liem_william@moe.edu.sg) 	|
 | 5 Humility 	| Ms Arunah Bebe d/o Abdul Rahman<br> Ms Jia Wei 	| [arunah\_bebe\_abdul\_rahman@schools.gov.sg](mailto:arunah_bebe_abdul_rahman@schools.gov.sg)<br>[jia\_wei@schools.gov.sg](mailto:jia_wei@schools.gov.sg) 	|
+
+**Primary 6** <br> **Year Head: Ms May O Guat Bee**
+
+| Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
+|:---:	|:---:	|:---:	|
+| 6 Perseverance 	| Ms Sheena Kang<br> Mdm Liu Jing 	| [kang\_yingling\_sheena@schools.gov.sg](mailto:kang_yingling_sheena@schools.gov.sg)<br>[liu\_jing@schools.gov.sg](mailto:liu_jing@schools.gov.sg) 	|
+| 6 Responsibility 	| Mrs Yeo-Ng Siok Hoon<br>Mr Mohamed Azrai Bin Ahmad 	| [yeo-ng\_siok\_hoon@schools.gov.sg](mailto:yeo-ng_siok_hoon@schools.gov.sg)<br>[mohamed\_azrai\_ahmad@schools.gov.sg](mailto:mohamed_azrai_ahmad@schools.gov.sg) 	|
+| 6 Integrity 	| Ms Sheela Devi d/o Tet Baahadur<br>Dr Shawn Peh Yi Ching 	| [sheela\_devi\_tet\_baahadur@schools.gov.sg](mailto:sheela_devi_tet_baahadur@schools.gov.sg)<br>[peh\_yi\_ching\_shawn@schools.gov.sg](mailto:peh_yi_ching_shawn@schools.gov.sg) 	|
+| 6 Open-mindedness 	| Ms Syazwani Bte Ashraff<br>Mr Roland Ng 	| [syazwani\_ashraff@schools.gov.sg](mailto:syazwani_ashraff@schools.gov.sg)<br>[ng\_mong\_seng\_roland@schools.gov.sg](mailto:ng_mong_seng_roland@schools.gov.sg) 	|
+| 6 Respect 	| Mrs Reavathiy Kumar<br>Ms Christina Wong Siew Lai 	| [varatharaja\_reavathiy@schools.gov.sg](mailto:varatharaja_reavathiy@schools.gov.sg)<br>[wong\_siew\_lai\_christina@schools.gov.sg](mailto:wong_siew_lai_christina@schools.gov.sg) 	|
+| 6 Humility 	| Mdm Choo Ping Li<br>Mdm Tan Shih Ray 	| [choo\_ping\_li@schools.gov.sg](mailto:choo_ping_li@schools.gov.sg)<br>[tan\_shih\_ray@schools.gov.sg](mailto:tan_shih_ray@schools.gov.sg) 	|
