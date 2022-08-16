@@ -6,4 +6,4 @@ third_nav_title: School Updates
 ---
 ### Project Zero
 
-Insert interactive slides here
+Insert animated slides here
