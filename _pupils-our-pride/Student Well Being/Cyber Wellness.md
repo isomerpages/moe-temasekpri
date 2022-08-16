@@ -49,8 +49,7 @@ Below are a list of useful resources to provide you with useful tips on how to m
 
 1\.  [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness#.VsLOaJp97IU](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness#.VsLOaJp97IU)
 <br>2.  [https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
-<br>3.  [https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)  
-4.  [https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
+<br>3.  [https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)  <br>4.  [https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
 <br>5.  [https://www.schoolbag.edu.sg/story/safeguarding-your-child-online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
 <br>6.  [https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
 <br>7.  [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
