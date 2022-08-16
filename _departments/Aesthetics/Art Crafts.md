@@ -30,11 +30,11 @@ Those art spaces exist as constructed social spaces, inviting interaction and di
 <img src="/images/art2.png" 
      style="width:60%">
 		 
-###### Studio Habits in ART
+#### Studio Habits in ART
 
-<img src="/images/art3.png" style="width:240px;height:220px;margin-right:15px;" align = "left"> We have also incorporated Studio Habits into our art curriculum lessons as all these 8 habits are the creative processes through art making.
+<img src="/images/art3.png" style="width:240px;height:220px;margin-right:15px;" align = "left"> We have also incorporated Studio Habits into our art curriculum lessons as all these 8 habits are the creative processes through art making.<br><br><br>
 
-###### Museum-based Learning
+#### Museum-based Learning
 
 <img src="/images/art4.png" style="width:240px;height:220px;margin-right:15px;" align = "left"> As we embark in a new curriculum, students are expected to go to museums to understand and learn more about certain artworks by local artistes as it would be inter-connected with subjects such as Social studies as well. Hence apart from going out of school we have included some wall murals of these artworks in school bringing the museum to the student in Temasek Primary.
 
