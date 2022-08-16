@@ -62,21 +62,21 @@ Living a Sustainable Lifestyle: Adapting to Changes in the Environment
 P3 students are tasked to design and build floating house in response to climate change and rising sea levels.
 
 <img src="/images/sci5.png" 
-     style="width:80%"> Students play an environmental role-playing game, Symbiosis, created by our students and teachers, to learn various environmental issues and the importance of conserving the environment.
+     style="width:60%"> Students play an environmental role-playing game, Symbiosis, created by our students and teachers, to learn various environmental issues and the importance of conserving the environment.
 
 
 <img src="/images/sci6.png" 
-     style="width:80%"> Students use recyclables to build a house and test its ability to float.
+     style="width:60%"> Students use recyclables to build a house and test its ability to float.
 		 
 <img src="/images/sci7.png" 
-     style="width:80%"> **Primary 4:**   
+     style="width:60%"> **Primary 4:**   
 
 Living a Sustainable Lifestyle: Environmental Stewardship
 
 P4 students are tasked to tap on renewable source of energy to design and create solar cookers. Micro:bits are used to determine the temperature reached in the solar cooker. Students then carry out investigations to find out if their solar cookers can cook an egg under the sun.
 
 <img src="/images/sci8.png" 
-     style="width:80%"> **Primary 5**: 
+     style="width:60%"> **Primary 5**: 
 
 Creating a Technology-enabled Future
 
@@ -89,7 +89,7 @@ and fan turns on when surrounding is warm.
 **Primary 6**:
 
 <img src="/images/sci9.png" 
-     style="width:80%"> **Living an Environmentally-friendly Lifestyle**
+     style="width:60%"> **Living an Environmentally-friendly Lifestyle**
 
 Our students are tasked to design and build an automobile prototype that rely on renewable energy. They work in teams and conduct investigations.
 
