@@ -5,7 +5,8 @@ description: ""
 ---
 ### Our Learner Outcomes
 
-Insert image here.
+<img src="/images/lo.png" 
+     style="width:90%">
 
 In Temasek Primary, our pupils are our pride and we aim to provide them with rich learning experiences that allow them to **learn, lead, serve** and **grow** as **_Passionate Learners, Creative and Critical Thinkers, Effective Communicators_** and **_Servant Leaders_**. These learner outcomes are closely aligned to MOE’s Curriculum 2015.
 
