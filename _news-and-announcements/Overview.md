@@ -9,7 +9,7 @@ description: ""
 
 The Project Zero eBook from Temasek Primary School was featured on Channel News Asia.
 
-[Click here](https://temasekpri.moe.edu.sg/others/news-n-announcements/teachers-conference-and-excel-fest-2021) to find out more.
+[Click here](https://staging.d19higur8fqack.amplifyapp.com/news-and-announcements/teachers-conference-and-excel-fest-2021) to find out more.
 
 ##### MOE Kindergarten (MK)
 
