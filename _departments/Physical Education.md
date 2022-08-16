@@ -43,8 +43,8 @@ Every student will be able to understand an active lifestyle and are able to mak
 
 **SOAR Objectives:**
 
-1.  To provide all our students with an opportunity to apply the skills and knowledge they have learned in PE lessons in the SOAR activities as well as to grow in strength of character through the experience.
-2.  To get our students to be confident of their own ability. Regardless of their talent or ability, we believe that every one of our students should be able to enjoy and experience sports and outdoor activities.
+1\.  To provide all our students with an opportunity to apply the skills and knowledge they have learned in PE lessons in the SOAR activities as well as to grow in strength of character through the experience. <br><br>
+2.  To get our students to be confident of their own ability. Regardless of their talent or ability, we believe that every one of our students should be able to enjoy and experience sports and outdoor activities. <br><br>
 3.  For our students to share their SOAR experience and encourage their family and friends to lead an active and healthy lifestyle together with them.
 
 Our LLP activities for Temasekians are developmentally progressive in nature and catered to the different levels accordingly.
@@ -76,4 +76,3 @@ Sports Fiesta is a level sport event where students will have the opportunity to
 ##### Resilience Run (LLP)
 
 The Temasek Resilience Run was conceptualized with the aim of promoting healthy and active living as well as inculcating the value of resilience amongst our students. The vision was to have a day dedicated for everyone in Temasek Primary to take part in this. During this school sport event, students are introduced to a day of healthy living an exercises by participating in various activities such as the fun walk, running a 1.6km route, class bonding games, station-based games and class picnic to build their camaraderie. We believe that through this programme, our students will be able to understand the meaning of 'Healthy mind equals to healthy body'.
-
