@@ -4,7 +4,7 @@ permalink: /about-us/school-rules-and-regulations/overview/
 description: ""
 third_nav_title: School Rules & Regulations
 ---
-### School Rules & Regulations EDIT LINK
+### School Rules & Regulations 
 
 #### Discipline Philosophy
 
@@ -16,12 +16,12 @@ Disciplinary measures serve as a proxy for consequences of the poor choices made
 
 The school adopts the following **ABC** approach in instilling self-discipline and good character in students.
 
-*   [**(A) Attire and Appearance**](https://temasekpri.moe.edu.sg/about-us/school-rules-n-regulations/a-attire-and-appearance)
+*   [**(A) Attire and Appearance**](https://staging.d19higur8fqack.amplifyapp.com/about-us/School-Rules-and-Regulations/attire-and-appearance)
 
-*   [**(B) Be Considerate**](https://temasekpri.moe.edu.sg/about-us/school-rules-n-regulations/b-be-considerate)
+*   [**(B) Be Considerate**](https://staging.d19higur8fqack.amplifyapp.com/about-us/School-Rules-and-Regulations/be-considerate)
 
-*   [**(C) Come to school punctually**](https://temasekpri.moe.edu.sg/about-us/school-rules-n-regulations/c-come-to-school-punctually)
+*   [**(C) Come to school punctually**](https://staging.d19higur8fqack.amplifyapp.com/about-us/School-Rules-and-Regulations/come-to-school-punctually)
 
-*   [**(D) Types of Offences**](https://temasekpri.moe.edu.sg/about-us/school-rules-n-regulations/d-types-of-offences)
+*   [**(D) Types of Offences**](https://staging.d19higur8fqack.amplifyapp.com/about-us/School-Rules-and-Regulations/types-of-offences)
 
-*   [**(E) Possible Actions and Consequences to All Offences**](https://temasekpri.moe.edu.sg/about-us/school-rules-n-regulations/e-possible-actions-and-consequences-to-all-offences)
+*   [**(E) Possible Actions and Consequences to All Offences**](https://staging.d19higur8fqack.amplifyapp.com/about-us/School-Rules-and-Regulations/possible-actions-and-consequences-to-all-offences)
