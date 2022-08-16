@@ -96,7 +96,7 @@ We are proud of our staff, Mrs Sophie Wang, for being conferred the Inspiring Ch
   
 
 This award is given to teachers who are able to arouse students’ interest in the Chinese Language and Culture through creative teaching or through co-curricular activities. The awardees would have shown dedication in helping students in their learning, and demonstrated care and concern for, and understanding of their students.<br>
-\-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #### Pupil's Our Pride  
 
