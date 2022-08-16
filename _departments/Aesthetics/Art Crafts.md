@@ -38,7 +38,7 @@ Those art spaces exist as constructed social spaces, inviting interaction and di
 
 <img src="/images/art4.png" style="width:240px;height:220px;margin-right:15px;" align = "left"> As we embark in a new curriculum, students are expected to go to museums to understand and learn more about certain artworks by local artistes as it would be inter-connected with subjects such as Social studies as well. Hence apart from going out of school we have included some wall murals of these artworks in school bringing the museum to the student in Temasek Primary.
 
-###### P6 Graduation Wall
+#### P6 Graduation Wall
 
 After 6 years of being a Temasek pupil each student would be moving on to the next chapter of their education journey but before they do, we would like them to remember Temasek Primary where they were molded for 6 years. Graduating students go through different art programs after their PSLE.
 
