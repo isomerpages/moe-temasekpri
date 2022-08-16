@@ -7,7 +7,7 @@ third_nav_title: Mother Tongue
 ### Malay
 
 <img src="/images/malay1.png" 
-     style="width:80%">
+     style="width:70%">
 		 
 |  	|  	|
 |---	|---	|
@@ -49,3 +49,6 @@ In our pursuit to achieve this vision, these are the programmes that will be car
 | 4 	| Creative Writing Workshops<br>The workshops aims to  empower and equip students with the various essay writing technique and skills, instill in them greater confidence in producing well written compositions and lastly, make learning of the Malay Language more relevant and authentic for students. 	|   	|
 | <br><br>5 	| <br>Motivational Talks<br>P6 students will learn to take ownership of their own learning. Students will be involved in activities that motivate them to set high but achievable targets. Students will also realise the importance of proper planning in order to achieve their targets and realise their full potential. 	| P6 	|
 | <br>6 	| <br>iMTL Portal<br>This is an ICT portal that is used by the Malay Department to improve students' oral skills as it:<br>provides opportunities for students to record their reading passages and pictorial / video conversations<br>encourages self-assessment and self-reflection<br>enables students to assess their peers and provide constructive feedback<br>increases parental involvement 	| P4 - P6 	|
+
+<img src="/images/malay.gif" 
+     style="width:70%">
