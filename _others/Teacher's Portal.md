@@ -11,7 +11,7 @@ description: ""
 |   [The Singapore Student Learning Space](https://vle.learning.moe.edu.sg/login) 	| <img src="/images/tp2.png" style="width:30%"> 	|
 | [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)  	| <img src="/images/tp3.png" style="width:40%"> 	|
 | [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/) 	| <img src="/images/tp4.png" style="width:40%"> 	|
-| [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)  	| <img src="/images/tp5.png" style="width:40%"> 	|
+| [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)  	| <img src="/images/tp5.png" style="width:20%"> 	|
 | [iCON](http://icon.moe.edu.sg/)  	| <img src="/images/tp6.png" style="width:40%"> 	|
 | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx) 	| <img src="/images/tp7.png" style="width:40%"> 	|
 | [PAC@GOV](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)  	| <img src="/images/tp8.png" style="width:20%"> 	|
