@@ -20,7 +20,7 @@ We are happy to share our staff achievements for the MOE Innergy (Schools) Award
 Mr Lim Wu Yi has also been awarded the **MOE Most Outstanding Innovator Award**.
 
 Congratulations to all our staff on these achievements. <br>
-\----------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### Congratulations to Mr Martin Goh (LH Math), for being awarded Outstanding Youth in Education Award (OYEA) 2019!
 
@@ -38,7 +38,7 @@ In order to prepare his students for life, he encourages his young charges to pa
   
 
 For his commitment to continuously improve himself and help his students discover the joy of learning, Martin is conferred the Outstanding Youth in Education Award 2019.<br>
-\----------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Making Spaces for Science
 
@@ -63,7 +63,7 @@ Temasek Primary School students shared that the purple colour represents royalty
 <img src="/images/news2.png" 
      style="width:60%"> _A close-up shot of the Dendrobium Temasek President’s Challenge, a hybrid of Dendrobium Red Bull and Dendrobrium Pink Lady. (MCI photo by Fyrol)_
 
-\----------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### People Our Key
 
@@ -73,8 +73,8 @@ Our heartiest congratulations to Miss May O for being a recipient of the Preside
      style="width:60%"> _Math teacher and Year Head O Guat Bee has found a more powerful weapon to make her students deliver results - Love_
 		 
 <img src="/images/news4.png" 
-     style="width:60%"> _Miss May O receiving the award from the president, Dr Tony Tan_ <br>
-\----------------------------------------------------------------------------------------
+     style="width:40%"> _Miss May O receiving the award from the president, Dr Tony Tan_ <br>
+\-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### 全国模范华文教师专访
 
@@ -97,7 +97,7 @@ We are proud of our staff, Mrs Sophie Wang, for being conferred the Inspiring Ch
   
 
 This award is given to teachers who are able to arouse students’ interest in the Chinese Language and Culture through creative teaching or through co-curricular activities. The awardees would have shown dedication in helping students in their learning, and demonstrated care and concern for, and understanding of their students.<br>
-\----------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Pupil's Our Pride  
 
