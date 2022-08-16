@@ -4,18 +4,18 @@ permalink: /about-us/mission-vision-values-crest/
 description: ""
 ---
 **Our Vision**
-<br>\----------------------------------------------------------------------------------
+<br>\-------------------------------------------------------------------------------------------------------------------------------------------------
 <br>We aspire to be the Vibrant Learning Campus where students Learn, Lead, Serve and Grow to become future-ready citizens rooted in values. <Br><br>
 
   
 
 **Our Mission**
-<br>\---------------------------------------------------------------------------------------
+<br>\------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>Developing our students into responsible and versatile individuals who are fired with a passion for life-long learning and able to contribute effectively to society. <br><br>
 
 
 **Our Philosophy**
-<br>\-------------------------------------------------------------------------------------
+<br>\----------------------------------------------------------------------------------------------------------------------------------------------------
 <br>We believe that every child can learn, act responsibly and care for others.<br><br>
 
   
