@@ -117,6 +117,6 @@ You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emo
 9\. Parents who wish to opt their children out of the **Sexuality Education Programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and can also be accessed [here](https://form.gov.sg/61da360247f7c600137bff65).
 
 
-10\. Parents can contact the school at Tel: 6443 8134 or email at temasek\_ps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+10\. Parents can contact the school at Tel: 6443 8134 or email at temasek_ps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
 
 11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
