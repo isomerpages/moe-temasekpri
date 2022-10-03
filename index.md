@@ -15,4 +15,9 @@ sections:
         - title: Communication
           description: ""
           url: /communication/20th-anniversary-e-magazine/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
