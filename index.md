@@ -8,13 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/temasekbanner.gif
-      key_highlights:
-        - title: News & Announcements
-          description: ""
-          url: /news-and-announcements/overview/
-        - title: Communication
-          description: ""
-          url: /communication/20th-anniversary-e-magazine/
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
