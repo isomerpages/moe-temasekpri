@@ -7,10 +7,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/temasekbanner.gif
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      background: /images/art5.png
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: google.com
+      button: test
+      url: google.com
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
