@@ -60,4 +60,6 @@ links:
         url: /partners-our-links/school-visitors/overview/
   - title: Communications
     url: /Communications
-    sublinks: []
+    sublinks:
+      - title: 40th anniversary eBook
+        url: /permalink
