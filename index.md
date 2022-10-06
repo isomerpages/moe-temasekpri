@@ -7,13 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/art5.png
+      background: /images/9fb94ff98_317.png
       key_highlights:
         - title: Key Highlight Title
           description: Key Highlight description
           url: google.com
-      button: test
-      url: google.com
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
