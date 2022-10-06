@@ -48,11 +48,6 @@ $desktop: 960px + (2 * $gap) !default;
       }
     {%- endfor -%}
   }
-.bp-hero-body {
-    flex-grow: 1;
-    flex-shrink: 0;
-    padding: 3rem 1.5rem;
-}
   &-1{
     //background-color: $primary;
     background: url('https://c.stocksy.com/a/YY3500/z0/1205314.jpg') no-repeat left 50%;
