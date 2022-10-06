@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Temasek Primary School
-description: Brief site description here
+description: The official school website for Temasek Primary School.
 image: /images/tpslogo.png
 permalink: /
 notification: ""
@@ -28,3 +28,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
