@@ -6,8 +6,7 @@ image: /images/tpslogo.png
 permalink: /
 notification: ""
 sections:
-  - hero:
-      background: /images/9fb94ff98_317.png
+  - hero: {}
   - resources:
       title: News & Announcements
       button: Click here to view more
