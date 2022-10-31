@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/9fb94ff98_317.png
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
   - resources:
       title: News & Announcements
       button: Click here to view more
