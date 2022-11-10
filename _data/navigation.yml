@@ -59,5 +59,7 @@ links:
       - title: School Visitors
         url: /partners-our-links/school-visitors/overview/
   - title: MK @ Temasek
-    url: /Communications
-    sublinks: []
+    url: /moe-kindergarten
+    sublinks:
+      - title: Overview
+        url: /permalink
