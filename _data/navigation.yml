@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /about-us/mission-vision-values-crest/
     sublinks:
-      - title: Mission, Vision, Values&Crest
+      - title: Mission, Vision, Values &Crest
         url: /about-us/mission-vision-values-crest/
       - title: School History
         url: /about-us/school-history/
@@ -58,8 +58,6 @@ links:
         url: /partners-our-links/external-partnerships/
       - title: School Visitors
         url: /partners-our-links/school-visitors/overview/
-  - title: Communications
+  - title: MK @ Temasek
     url: /Communications
-    sublinks:
-      - title: 40th anniversary eBook
-        url: /permalink
+    sublinks: []
