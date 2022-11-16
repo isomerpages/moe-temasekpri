@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/passionate learners.png
+      background: /images/passionate learners1.png
   - resources:
       title: News & Announcements
       button: Click here to view more
