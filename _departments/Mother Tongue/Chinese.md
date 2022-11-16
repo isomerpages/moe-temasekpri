@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /departments/Mother-Tongue/chinese
+permalink: /departments/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
 ---
@@ -10,7 +10,7 @@ third_nav_title: Mother Tongue
 |---	|---	|
 | Level Head: 	| - 	|
 | Senior Teacher: 	| - 	|
-| Members: 	| Mdm Tan Shih Ray<br>Mdm Yeow Puay Geok<br>Mdm Liu Jing<br>Mdm Serene Tay<br>Ms Wong Mei Chu<br>Mdm Lin Haizhen<br><br><br>Mdm Toh Chiew Hoon<br>Mdm Jia Wei<br>Mdm Li Pei<br>Mdm Low Shu Fen Jayne<br>Ms Luo Xi<br>Mdm Ivy Poh Ser Lee<br>Mr Roland Ng<br>Ms Jaslynn Lai 	|
+| Members: 	| Mdm Tan Shih Ray<br>Mdm Yeow Puay Geok<br>Mdm Liu Jing<br>Mdm Serene Tay<br>Ms Wong Mei Chu<br>Mdm Lin Haizhen<br>Ms Kwang Kir Hwee<br>Mdm Toh Chiew Hoon<br>Mdm Jia Wei<br>Mdm Li Pei<br>Mdm Low Shu Fen Jayne<br>Ms Luo Xi<br>Mdm Ivy Poh Ser Lee<br>Mr Roland Ng<br>Ms Jaslynn Lai 	|
 | Flexi-Adjunct: 	| Ms Sarah Goh  	|
 
 Vision: To nurture a generation of passionate learners embracing culture in Mother Tongue Language learning. To make the language learning Fun and Engaging.  
