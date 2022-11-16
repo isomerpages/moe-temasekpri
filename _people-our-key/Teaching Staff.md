@@ -47,7 +47,7 @@ description: ""
 |:---:	|:---:	|:---:	|
 | 4 Perseverance 	| Mdm Raihanawati Bte Abdul Razak<br>Miss Loh Ooi Wan 	| [raihanawati\_abdul\_razak@schools.gov.sg](mailto:raihanawati_abdul_razak@schools.gov.sg)<br>[loh\_ooi\_wan@schools.gov.sg](mailto:loh_ooi_wan@schools.gov.sg) 	|
 | 4 Responsibility 	| Mrs Charis Quek-Kang Leng Li<br>Mrs Ravee (Mdm A. Ananthi) 	| [kang\_leng\_li@schools.gov.sg](mailto:kang_leng_li@schools.gov.sg)<br>[a\_ananthi@schools.gov.sg](mailto:a_ananthi@schools.gov.sg) 	|
-| 4 Integrity 	| Ms Kwang Kir Hwee<br>Mr Mohamed Akramullah 	| [kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)<br>[mohamed\_akramullah@schools.gov.sg](http://mohamed_akramullah@schools.gov.sg%20/) 	|
+| 4 Integrity 	| Ms Kwang Kir Hwee<br>Ms Joy Tan 	| [kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)<br>[tan\_yi\_wei\_joy@moe.edu.sg](mailto:tan_yi_wei_joy@moe.edu.sg) 	|
 | 4 Open-mindedness 	| Mdm Arveen Kaur<br>Mrs Low Shu Fen, Jayne 	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>[low\_shu\_fen@schools.gov.sg](mailto:low_shu_fen@schools.gov.sg) 	|
 | 4 Respect 	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Mdm Farhati Bte Kamsani 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[farhati\_kamsani@schools.gov.sg](mailto:farhati_kamsani@schools.gov.sg) 	|
 | 4 Humility 	| Mr Muhammad Haziq<br>Mdm Serene Tay Li Tze 	| [muhammad\_haziq\_\_othman@schools.gov.sg](mailto:muhammad_haziq__othman@schools.gov.sg)<br>[tay\_li\_tze@schools.gov.sg](mailto:tay_li_tze@schools.gov.sg) 	|
