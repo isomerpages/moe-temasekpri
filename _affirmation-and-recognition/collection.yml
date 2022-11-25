@@ -1,0 +1,16 @@
+collections:
+  affirmation-and-recognition:
+    output: true
+    order:
+      - School Awards/.keep
+      - School Awards/Temasek ISTAR Award 2019 to 2021.md
+      - National Awards/.keep
+      - National Awards/PAT and OYEA.md
+      - National Awards/PS21 Star Service Award.md
+      - National Awards/Outstanding STEM Teacher Award.md
+      - National Awards/Distinguished Chinese Language Teachers Award.md
+      - National Awards/Inspiring Teacher of English Award.md
+      - National Awards/National Day Awards 2019 to 2021.md
+      - National Awards/MOE Service Excellence Awards 2019 to 2021.md
+      - National Awards/MOE Innergy Award 2019 to 2021.md
+      - National Awards/MOE Outstanding Contribution Award 2019 to 2021.md

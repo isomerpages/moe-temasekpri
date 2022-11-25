@@ -1,0 +1,20 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Aesthetics/.keep
+      - Aesthetics/Overview.md
+      - Aesthetics/Art Crafts.md
+      - Aesthetics/Music.md
+      - English.md
+      - InfoComm Technology.md
+      - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Physical Education.md
+      - Sexuality Education.md
+      - Science.md
+      - Staff Development Team.md

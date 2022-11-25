@@ -1,15 +1,71 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/tpslogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /about-us/mission-vision-values-crest/
+    sublinks:
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-values-crest/
+      - title: School History
+        url: /about-us/school-history/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Corporate Logos
+        url: /about-us/our-corporate-logos/
+      - title: Our School Song
+        url: /about-us/our-school-song/
+      - title: School Rules & Regulations
+        url: /about-us/school-rules-and-regulations/overview/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: School Services
+        url: /about-us/school-services/school-bookshop/
+  - title: Pupils Our Pride
+    url: /pupils-our-pride/our-learner-outcomes/
+    sublinks:
+      - title: Our Learner Outcomes
+        url: /pupils-our-pride/our-learner-outcomes/
+      - title: Student Well-being
+        url: /pupils-our-pride/character-education/
+      - title: Co-Curricular Activities (CCA)
+        url: /pupils-our-pride/cca/
+      - title: Programme for Active Learning
+        url: /pupils-our-pride/programme-for-active-learning/
+      - title: Forms
+        url: /pupils-our-pride/forms/
+  - title: People Our Key
+    url: /people-our-key/management-board-committee/
+    sublinks:
+      - title: School Management Board
+        url: /people-our-key/management-board-committee/
+      - title: Teaching Staff
+        url: /people-our-key/teaching-staff/
+      - title: Executive & Admin Staff
+        url: /people-our-key/executive-and-admin-staff/
+      - title: Departments
+        url: /people-our-key/departments/overview/
+      - title: Affirmation & Recognition
+        url: /affirmation-and-recognition/School-Awards/temasek-i-star-award-2019-to-2021
+  - title: Partners Our Links
+    url: /partners-our-links/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners-our-links/school-advisory-committee/
+      - title: Parents
+        url: /partners-our-links/parents/parent-connection-committee/
+      - title: Alumni
+        url: /partners-our-links/alumni/
+      - title: External Partnerships
+        url: /partners-our-links/external-partnerships/
+      - title: School Visitors
+        url: /partners-our-links/school-visitors/overview/
+  - title: MK @ Temasek
+    url: /moe-kindergarten
+    sublinks:
+      - title: MK @ Temasek Overview
+        url: /moe-kindergarten/moe-kindergarten-mk/
+      - title: "Our Learner Outcomes "
+        url: /moe-kindergarten/our-learner-outcomes
+      - title: Management Board & Admin Staff
+        url: /moe-kindergarten/management-staff
+      - title: Teaching Staff
+        url: /moe-kindergarten/teaching-staff

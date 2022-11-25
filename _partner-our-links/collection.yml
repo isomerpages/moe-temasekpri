@@ -1,0 +1,24 @@
+collections:
+  partner-our-links:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Parents Connection Committee/Parents Connection Committee.md
+      - Parents Connection Committee/Project Green Earth.md
+      - Parents Connection Committee/Garden of Character.md
+      - Parents Connection Committee/Mothers' Day.md
+      - Parents Connection Committee/Temasek Magic Land.md
+      - Parents Connection Committee/Community Involvement Project.md
+      - Parents Connection Committee/Project SPARK.md
+      - Parents Connection Committee/Primary 1 to 3 Lifeskills Programme.md
+      - Parents Connection Committee/.keep
+      - Alumni.md
+      - External Partnerships.md
+      - School Visitors/Overview.md
+      - School Visitors/Tainan Immersion 2018.md
+      - School Visitors/Taipei Educators Immersion 2018.md
+      - School Visitors/Taipei Jian Kang Elementary School Immersion Programme.md
+      - School Visitors/P3 Singapore Japanese School Exchange Programme 2016.md
+      - School Visitors/Visitors from Malawi 2016.md
+      - School Visitors/Taiwan Immersion Programme 2016.md
+      - School Visitors/.keep

@@ -1,0 +1,8 @@
+collections:
+  moe-kindergarten:
+    output: true
+    order:
+      - MOE Kindergarten (MK).md
+      - Our Learner Outcomes.md
+      - Management Board & Admin Staff.md
+      - Teaching Staff.md
