@@ -58,6 +58,8 @@ links:
         url: /partners-our-links/external-partnerships/
       - title: School Visitors
         url: /partners-our-links/school-visitors/overview/
+  - title: Communications
+    collection: communication
   - title: MK @ Temasek
     url: /moe-kindergarten
     sublinks:
