@@ -3,13 +3,6 @@ collections:
     output: true
     order:
       - Admission to Temasek Primary.md
-      - Temasek Connections/Overview.md
-      - Temasek Connections/Temasek Connections 2020.md
-      - Temasek Connections/Temasek Connections 2019.md
-      - Temasek Connections/Temasek Connections 2018.md
-      - Temasek Connections/Temasek Connections 2017.md
-      - Temasek Connections/Temasek Connections 2016.md
-      - Temasek Connections/.keep
       - Temasek in the News.md
       - Terms of Use.md
       - Privacy Statement.md
