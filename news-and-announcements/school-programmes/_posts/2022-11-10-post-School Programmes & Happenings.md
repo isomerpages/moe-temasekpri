@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-Content to be updated soon.
+Content for 2023 to be updated soon.
