@@ -8,11 +8,11 @@ colors:
     - title: media-color-one
       color: "#e6c078"
     - title: media-color-two
-      color: "#9860aa"
+      color: "#64b5ac"
     - title: media-color-three
       color: "#e6c078"
     - title: media-color-four
-      color: "#9860aa"
+      color: "#64b5ac"
     - title: media-color-five
       color: "#e6c078"
 description: The official school website for Temasek Primary School.
