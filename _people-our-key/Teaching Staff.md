@@ -5,7 +5,7 @@ description: ""
 ---
 ### Teaching Staff
 
-#### Class Form Teachers 2022
+#### Class Form Teachers 2023
 
 **Primary 1**
 
