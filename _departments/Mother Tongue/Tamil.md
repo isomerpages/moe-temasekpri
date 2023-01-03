@@ -1,6 +1,6 @@
 ---
 title: Tamil
-permalink: /departments/Mother-Tongue/tamil
+permalink: /departments/Mother-Tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
 ---
@@ -9,7 +9,7 @@ third_nav_title: Mother Tongue
 |  	|  	|
 |---	|---	|
 | Coordinator: 	| Mdm Rajeswari Chandra 	|
-| Members: 	| Miss Rajeswary Ramakrishna<br>Mrs Ravee 	|
+| Members: 	| Mrs Sathya Anbuchezhian<br>Mrs Ravee 	|
 
 **Vision**
 
