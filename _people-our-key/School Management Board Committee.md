@@ -26,7 +26,7 @@ description: ""
 |---	|---	|
 | **Year Head<br>(Primary 5 & Primary 6)** 	| Ms May O  	|
 | **Subject Head  <br>(Malay Language)** 	| Mdm Raihanawati Bte Abdul Razak  	|
-| **Subject Head<br>(Student Management)** 	| Mr Marcus Lau 	|
+| **Subject Head<br>(Student Management)** 	| Mr Muhammad Haziq 	|
 | **Level Head<br>(Mathematics)<br>** 	| Mr Goh Poh Huat Martin 	|
 | **Assistant Year Head<br>(Upper Primary)** 	| Ms Arunah Bebe D/O Abdul Rahman 	|
 | **Assistant Year Head<br>(Middle Primary)** 	|  Mdm Arveen Kaur 	|

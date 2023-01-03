@@ -39,7 +39,7 @@ description: ""
 | 3 Responsibility 	| Ms Arveen Kaur<br>Mr Chang Jia Ming	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>	|
 | 3 Integrity 	| Ms Low Shu Fen, Jayne<br>Ms Joy Tan Yi Wei	| [low\_shu\_fen@schools.gov.sg](mailto:low_shu_fen@schools.gov.sg)<br>[tan\_yi\_wei\_joy@moe.edu.sg](mailto:tan_yi_wei_joy@moe.edu.sg)	|
 | 3 Open-mindedness 	| Mrs Charis Quek-Kang Len Li<br>Mr Mohamed Azrai Bin Ahmad	| [kang\_leng\_li@schools.gov.sg](mailto:kang_leng_li@schools.gov.sg)<br>[mohamed\_azrai\_ahmad@schools.gov.sg](mailto:mohamed_azrai_ahmad@schools.gov.sg)|
-| 3 Respect 	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Ms Kwang Kir Hwee 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)	|
+| 3 Humility	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Ms Kwang Kir Hwee 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)	|
 
 **Primary 4** <br> **Year Head: Mr Martin Goh Poh Huat** <br> **Assistant Year Head: Ms Arveen Kaur**
 
@@ -59,8 +59,7 @@ description: ""
 | 5 Perseverance 	| Ms Sheela Devi d/o Tet Baahadur<br>Ms Tang Siaw Wen	| [sheela\_devi\_tet\_baahadur@schools.gov.sg](mailto:sheela_devi_tet_baahadur@schools.gov.sg)<br> 	|
 | 5 Responsibility 	| Mrs Yeo-Ng Siok Hoon<br>Ms Ng Chin Ngoh 	| [yeo-ng\_siok\_hoon@schools.gov.sg](mailto:yeo-ng_siok_hoon@schools.gov.sg)<br> 	|
 | 5 Integrity 	| Mr Roland Ng<br>Ms Nadiah Binte Abdul Wahab 	|[ng\_mong\_seng\_roland@schools.gov.sg](mailto:ng_mong_seng_roland@schools.gov.sg)<br>[nadiah\_abdul\_wahab@schools.gov.sg](mailto:nadiah_abdul_wahab@schools.gov.sg) 	|
-|  5 Open-mindedness 	| Mdm Choo Ping Li<br>Mr William Chan Wai Liem<br>Mdm Tan Shih Ray 	| [choo\_ping\_li@schools.gov.sg](mailto:choo_ping_li@schools.gov.sg)<br>[chan\_wai\_liem\_william@moe.edu.sg](mailto:chan_wai_liem_william@moe.edu.sg)<br>
-[tan\_shih\_ray@schools.gov.sg](mailto:tan_shih_ray@schools.gov.sg)|
+|  5 Open-mindedness 	| Mdm Choo Ping Li<br>Mr William Chan Wai Liem<br>Mdm Tan Shih Ray 	| [choo\_ping\_li@schools.gov.sg](mailto:choo_ping_li@schools.gov.sg)<br>[chan\_wai\_liem\_william@moe.edu.sg](mailto:chan_wai_liem_william@moe.edu.sg)<br>[tan\_shih\_ray@schools.gov.sg](mailto:tan_shih_ray@schools.gov.sg) |
 | 5 Respect 	| Mdm Serene Tay Li Tze<br>Ms Loh Ooi Wan <br>Mrs Reavathiy Kumar	| [tay\_li\_tze@schools.gov.sg](mailto:tay_li_tze@schools.gov.sg)<br>[loh\_ooi\_wan@schools.gov.sg](mailto:loh_ooi_wan@schools.gov.sg)<br>[varatharaja\_reavathiy@schools.gov.sg](mailto:varatharaja_reavathiy@schools.gov.sg) 	|
 | 5 Humility 	| Mdm Farhati Bte Kamsani<br> Mr Ernest Choon	| [farhati\_kamsani@schools.gov.sg](mailto:farhati_kamsani@schools.gov.sg)<br>[choon\_guoxiang\_ernest@schools.gov.sg](mailto:choon_guoxiang_ernest@schools.gov.sg) 	|
 
