@@ -59,8 +59,7 @@ description: ""
 | 5 Perseverance 	| Ms Sheela Devi d/o Tet Baahadur<br>Ms Tang Siaw Wen	| [sheela\_devi\_tet\_baahadur@schools.gov.sg](mailto:sheela_devi_tet_baahadur@schools.gov.sg)<br> 	|
 | 5 Responsibility 	| Mrs Yeo-Ng Siok Hoon<br>Ms Ng Chin Ngoh 	| [yeo-ng\_siok\_hoon@schools.gov.sg](mailto:yeo-ng_siok_hoon@schools.gov.sg)<br> 	|
 | 5 Integrity 	| Mr Roland Ng<br>Ms Nadiah Binte Abdul Wahab 	|[ng\_mong\_seng\_roland@schools.gov.sg](mailto:ng_mong_seng_roland@schools.gov.sg)<br>[nadiah\_abdul\_wahab@schools.gov.sg](mailto:nadiah_abdul_wahab@schools.gov.sg) 	|
-|  5 Open-mindedness 	| Mdm Choo Ping Li<br>Mr William Chan Wai Liem<br>Mdm Tan Shih Ray 	| [choo\_ping\_li@schools.gov.sg](mailto:choo_ping_li@schools.gov.sg)<br>[chan\_wai\_liem\_william@moe.edu.sg](mailto:chan_wai_liem_william@moe.edu.sg)<br>
-[tan\_shih\_ray@schools.gov.sg](mailto:tan_shih_ray@schools.gov.sg)|
+|  5 Open-mindedness 	| Mdm Choo Ping Li<br>Mr William Chan Wai Liem<br>Mdm Tan Shih Ray 	| [choo\_ping\_li@schools.gov.sg](mailto:choo_ping_li@schools.gov.sg)<br>[chan\_wai\_liem\_william@moe.edu.sg](mailto:chan_wai_liem_william@moe.edu.sg)<br>[tan\_shih\_ray@schools.gov.sg](mailto:tan_shih_ray@schools.gov.sg) |
 | 5 Respect 	| Mdm Serene Tay Li Tze<br>Ms Loh Ooi Wan <br>Mrs Reavathiy Kumar	| [tay\_li\_tze@schools.gov.sg](mailto:tay_li_tze@schools.gov.sg)<br>[loh\_ooi\_wan@schools.gov.sg](mailto:loh_ooi_wan@schools.gov.sg)<br>[varatharaja\_reavathiy@schools.gov.sg](mailto:varatharaja_reavathiy@schools.gov.sg) 	|
 | 5 Humility 	| Mdm Farhati Bte Kamsani<br> Mr Ernest Choon	| [farhati\_kamsani@schools.gov.sg](mailto:farhati_kamsani@schools.gov.sg)<br>[choon\_guoxiang\_ernest@schools.gov.sg](mailto:choon_guoxiang_ernest@schools.gov.sg) 	|
 
