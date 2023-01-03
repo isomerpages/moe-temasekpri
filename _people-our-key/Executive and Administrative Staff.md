@@ -13,6 +13,6 @@ description: ""
 | **Operations Manager:<br>** 	| Mr Tan Toh Lam 	|
 | **Corporate Support Officers:** 	| Mdm Corine Tan 	|
 | **Operations Support Officers:<br>** 	| Ms Sew Siok Leng <br>Mdm Lily <br>Ms Chio Soo Luang <br>Mr Yeo Cheng Moh 	|
-| **ICT Support Officers:<br>** 	| Ms Syaira Amira Bte Jamal Abdul Nasir <br>Mr Sazuwan 	|
+| **ICT Support Officers:<br>** 	| Ms Syaira Amira Bte Jamal Abdul Nasir <br>Mr Sazuwan<br> Mr Hykel Bin Jumari 	|
 | **AED <br>(Counsellor)** 	| Mr Jagjeet Singh <br> Ms Beverly Tan 	|
 | **Librarian:** 	| Ms Sohana Abdul Malik 	|

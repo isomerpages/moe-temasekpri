@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /pupils-our-pride/Student-Well-Being/student-leadership
+permalink: /pupils-our-pride/Student-Well-Being/student-leadership/
 description: ""
 third_nav_title: Student Well Being
 ---
@@ -74,7 +74,3 @@ The CCA Leaders had the chance to be trained by Peer Leaders from Temasek Second
 <img src="/images/sl6.png" 
      style="width:60%">
 		 
-#### 2022 Term 1 Highlights
-
-Insert video here.
-
