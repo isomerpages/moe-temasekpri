@@ -27,6 +27,11 @@ image: ""
 |6 to 17 February|Weighted Assessment for English Language and Science|P3 to P5|
 |17 February|Total Defence Day and Recess Activity|All levels|
 |20 February to 3 March|Weighted Assessment for Math and Mother Tongue|P3 to P5|
-
-
-
+|3 March|Parents Chit Chat Session with School Leaders|P6|
+|7 to 9 March|Museum Based Learning — Indian Heritage Centre|P5|
+|8 March|Student Leadership Training|P3 to P6|
+|11 to 19 March|March School Holidays|All levels|
+|21. 22 & 24 March|Museum Based Learning — Asian Civilisation Museum(After school)|P6|
+|22 to 29 March|Learning Tapestry|P2|
+|24 March|Earth Hour "Lights Off' @ TMPS|All levels|
+|30 March|Parents Chit Chat Session with School Leaders|P4|
