@@ -39,7 +39,7 @@ description: ""
 | 3 Responsibility 	| Ms Arveen Kaur<br>Mr Chang Jia Ming	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>	|
 | 3 Integrity 	| Ms Low Shu Fen, Jayne<br>Ms Joy Tan Yi Wei	| [low\_shu\_fen@schools.gov.sg](mailto:low_shu_fen@schools.gov.sg)<br>[tan\_yi\_wei\_joy@moe.edu.sg](mailto:tan_yi_wei_joy@moe.edu.sg)	|
 | 3 Open-mindedness 	| Mrs Charis Quek-Kang Len Li<br>Mr Mohamed Azrai Bin Ahmad	| [kang\_leng\_li@schools.gov.sg](mailto:kang_leng_li@schools.gov.sg)<br>[mohamed\_azrai\_ahmad@schools.gov.sg](mailto:mohamed_azrai_ahmad@schools.gov.sg)|
-| 3 Respect 	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Ms Kwang Kir Hwee 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)	|
+| 3 Humility	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Ms Kwang Kir Hwee 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)	|
 
 **Primary 4** <br> **Year Head: Mr Martin Goh Poh Huat** <br> **Assistant Year Head: Ms Arveen Kaur**
 
