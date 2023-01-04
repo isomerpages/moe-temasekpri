@@ -52,7 +52,7 @@ description: ""
 | 4 Respect 	| Ms Janane d/o Elangkovan<br>Mr Mohamed Akramullah	| [janane\_elangkovan@schools.gov.sg](mailto:janane_elangkovan@schools.gov.sg)<br>[mohamed\_akramullah@schools.gov.sg](mailto:mohamed_akramullah@schools.gov.sg) 	|
 
 
-**Primary 5** <br> **Year Head: Ms May O Guat Bee** <br> **Assistant Year Head: Ms Arunah Rahman**
+**Primary 5** <br> **Year Head: Ms May O Guat Bee** <br> 
 
 | Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
 |:---:	|:---:	|:---:	|
@@ -63,7 +63,7 @@ description: ""
 | 5 Respect 	| Mdm Serene Tay Li Tze<br>Ms Loh Ooi Wan <br>Mrs Reavathiy Kumar	| [tay\_li\_tze@schools.gov.sg](mailto:tay_li_tze@schools.gov.sg)<br>[loh\_ooi\_wan@schools.gov.sg](mailto:loh_ooi_wan@schools.gov.sg)<br>[varatharaja\_reavathiy@schools.gov.sg](mailto:varatharaja_reavathiy@schools.gov.sg) 	|
 | 5 Humility 	| Mdm Farhati Bte Kamsani<br> Mr Ernest Choon	| [farhati\_kamsani@schools.gov.sg](mailto:farhati_kamsani@schools.gov.sg)<br>[choon\_guoxiang\_ernest@schools.gov.sg](mailto:choon_guoxiang_ernest@schools.gov.sg) 	|
 
-**Primary 6** <br> **Year Head: Ms May O Guat Bee**
+**Primary 6** <br> **Year Head: Ms May O Guat Bee**<br>**Assistant Year Head: Ms Arunah Rahman**
 
 | Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
 |:---:	|:---:	|:---:	|
