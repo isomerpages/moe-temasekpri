@@ -14,7 +14,7 @@ description: ""
 | 1 Perseverance 	| Ms Heng Jing Hui Melody	<br> Mrs Ravee| <br> [a\_ananthi@schools.gov.sg](mailto:a_ananthi@schools.gov.sg)	|
 | 1 Responsibility 	| Mdm Nur Suhaila<br>Mrs Yee Sin Nee-Lua Sin Nee 	| [nur\_suhaila\_ahmad@schools.gov.sg](mailto:nur_suhaila_ahmad@schools.gov.sg)<br>[lua\_sin\_nee@schools.gov.sg](mailto:lua_sin_nee@schools.gov.sg) 	|
 | 1 Integrity 	| Ms Syazwani Binte Ashraff<br>Mdm Li Pei 	| [syazwani\_ashraff@schools.gov.sg](mailto:syazwani_ashraff@schools.gov.sg)<br>  [li\_pei@schools.gov.sg](mailto:li_pei@schools.gov.sg) 	|
-| 1 Open-mindedness 	| Mdm Raihanawati Bte Abdul Razak<br>Mrs Irene Lim<br>Mdm Lim Chye Hoon 	| [raihanawati\_abdul\_razak@schools.gov.sg](mailto:raihanawati_abdul_razak@schools.gov.sg)<br>[lim\_chye\_hoon@schools.gov.sg](mailto:lim_chye_hoon@schools.gov.sg)
+| 1 Open-mindedness 	| Mdm Raihanawati Bte Abdul Razak<br>Mrs Irene Lim<br>Mdm Lim Chye Hoon 	| [raihanawati\_abdul\_razak@schools.gov.sg](mailto:raihanawati_abdul_razak@schools.gov.sg)<br><br>[lim\_chye\_hoon@schools.gov.sg](mailto:lim_chye_hoon@schools.gov.sg)
 | 1 Respect 	| Mdm Salina Bte Rahmat<br>Mdm Yeow Puay Geok 	| [salina\_ramat@schools.gov.sg](mailto:salina_ramat@schools.gov.sg)<br>[yeow\_puay\_geok@schools.gov.sg](mailto:yeow_puay_geok@schools.gov.sg)	|
 | 1 Humility 	| Mrs Ong-Koh Cai Ling<br>Ms Jastina Putri Bte Marhajas 	| [koh\_cai\_ling@schools.gov.sg](mailto:koh_cai_ling@schools.gov.sg)<br>	|
 | 1 Excellence 	| Mdm Nariman Bte Saruan<br>Ms Linnet Xue Hui Lin 	| [nariman\_saruan@schools.gov.sg](mailto:nariman_saruan@schools.gov.sg) <br> 	|
