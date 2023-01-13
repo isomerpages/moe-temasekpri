@@ -1,11 +1,13 @@
 ---
-title: School Programmes & Happenings
-permalink: /news-and-announcements/school-programmes/permalink/
+title: Growing Years
+permalink: /departments/sexuality-education/
 date: 2022-11-10
 layout: post
 description: ""
 image: ""
 ---
+
+
 ## Calendar of Events for SEMESTER 1
 
          

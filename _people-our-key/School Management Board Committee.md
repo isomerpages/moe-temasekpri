@@ -24,10 +24,13 @@ description: ""
 
 |  	|  	|
 |---	|---	|
+| **Year Head<br>(Primary 3 & Primary 4)** 	| Mr Martin Goh Poh Huat  	|
 | **Year Head<br>(Primary 5 & Primary 6)** 	| Ms May O  	|
 | **Subject Head  <br>(Malay Language)** 	| Mdm Raihanawati Bte Abdul Razak  	|
+| **Subject Head  <br>(Aesthetics)** 	| Ms Jocelyn Goh  	|
 | **Subject Head<br>(Student Management)** 	| Mr Muhammad Haziq 	|
-| **Level Head<br>(Mathematics)<br>** 	| Mr Goh Poh Huat Martin 	|
+| **Level Head<br>(English)<br>** 	| Mdm Shafiza Bte Ariff Patail 	|
+| **Level Head<br>(Mathematics)<br>** 	| Ms Jastina Putri Bte Marhajas 	|
 | **Assistant Year Head<br>(Upper Primary)** 	| Ms Arunah Bebe D/O Abdul Rahman 	|
 | **Assistant Year Head<br>(Middle Primary)** 	|  Mdm Arveen Kaur 	|
 | **Assistant Year Head<br>(Lower Primary)<br>** 	| Mdm Azlinah Abu Bakar 	|
