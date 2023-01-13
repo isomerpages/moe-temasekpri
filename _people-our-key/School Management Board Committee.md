@@ -30,7 +30,7 @@ description: ""
 | **Subject Head  <br>(Aesthetics)** 	| Ms Jocelyn Goh  	|
 | **Subject Head<br>(Student Management)** 	| Mr Muhammad Haziq 	|
 | **Level Head<br>(English)<br>** 	| Mdm Shafiza Bte Ariff Patail 	|
-| **Level Head<br>(Mathematics)<br>** 	| Mr Goh Poh Huat Martin 	|
+| **Level Head<br>(Mathematics)<br>** 	| Ms Jastina Putri Bte Marhajas 	|
 | **Assistant Year Head<br>(Upper Primary)** 	| Ms Arunah Bebe D/O Abdul Rahman 	|
 | **Assistant Year Head<br>(Middle Primary)** 	|  Mdm Arveen Kaur 	|
 | **Assistant Year Head<br>(Lower Primary)<br>** 	| Mdm Azlinah Abu Bakar 	|
