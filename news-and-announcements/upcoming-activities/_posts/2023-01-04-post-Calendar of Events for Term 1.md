@@ -6,8 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-## Calendar of Events for SEMESTER 1
+## Calendar of Events for TERM 1
 
          
 
