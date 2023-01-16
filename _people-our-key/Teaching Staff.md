@@ -11,7 +11,7 @@ description: ""
 
 | Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
 |:---:	|:---:	|:---:	|
-| 1 Perseverance 	| Ms Heng Jing Hui Melody	<br> Mrs Ravee| <br>[heng_jing_hui@schools.gov.sg](mailto:heng_jing_hui@schools.gov.sg)<br> [a\_ananthi@schools.gov.sg](mailto:a_ananthi@schools.gov.sg)	|
+| 1 Perseverance 	| Ms Heng Jing Hui Melody	<br> Mrs Ravee| [heng_jing_hui@schools.gov.sg](mailto:heng_jing_hui@schools.gov.sg)<br> [a\_ananthi@schools.gov.sg](mailto:a_ananthi@schools.gov.sg)	|
 | 1 Responsibility 	| Mdm Nur Suhaila<br>Mrs Yee Sin Nee-Lua Sin Nee 	| [nur\_suhaila\_ahmad@schools.gov.sg](mailto:nur_suhaila_ahmad@schools.gov.sg)<br>[lua\_sin\_nee@schools.gov.sg](mailto:lua_sin_nee@schools.gov.sg) 	|
 | 1 Integrity 	| Ms Syazwani Binte Ashraff<br>Mdm Li Pei 	| [syazwani\_ashraff@schools.gov.sg](mailto:syazwani_ashraff@schools.gov.sg)<br>  [li\_pei@schools.gov.sg](mailto:li_pei@schools.gov.sg) 	|
 | 1 Open-mindedness 	| Mdm Raihanawati Bte Abdul Razak<br>Mrs Irene Lim<br>Mdm Lim Chye Hoon 	| [raihanawati\_abdul\_razak@schools.gov.sg](mailto:raihanawati_abdul_razak@schools.gov.sg)<br>[lim_siew_hong_a@schools.gov.sg](mailto:lim_siew_hong_a@schools.gov.sg)<br>[lim\_chye\_hoon@schools.gov.sg](mailto:lim_chye_hoon@schools.gov.sg)
