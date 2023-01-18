@@ -1,10 +1,12 @@
 ---
-title: Modern Dance
-permalink: /cca/Aesthetics/modern-dance
+title: International Dance
+permalink: /cca/Aesthetics/modern-dance/
 description: ""
 third_nav_title: Aesthetics
 ---
-### Modern Dance
+
+
+### International Dance
 
 <img src="/images/moderndance.png" 
      style="width:80%">
