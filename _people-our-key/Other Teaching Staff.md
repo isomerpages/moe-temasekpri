@@ -3,3 +3,7 @@ title: Other Teaching Staff
 permalink: /people-our-key/permalink/
 description: ""
 ---
+|  	|  	|
+|---	|---	|
+| **Allied Educator (T&L):** 	| Ms G Nirmala 	|
+| **SEN Officers:** 	| Mr Muhammad Anas Bin Muhammad Nasser<br>Ms Ong May Chin<br>Ms Vrinda Ravindran 	|
