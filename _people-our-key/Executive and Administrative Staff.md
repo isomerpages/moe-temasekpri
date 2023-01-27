@@ -13,6 +13,8 @@ description: ""
 | **Operations Manager:<br>** 	| Mr Tan Toh Lam 	|
 | **Corporate Support Officers:** 	| Mdm Corine Tan <br> Mdm Yvonne Tan	|
 | **Operations Support Officers:<br>** 	| Ms Sew Siok Leng <br>Mdm Lily <br>Ms Chio Soo Luang <br>Mr Yeo Cheng Moh 	|
+| **AED (SC):** 	| Ms Beverly Tan 	|
+| **AED (T&L):** 	| Ms G Nirmala 	|
+| **SEN O:** 	| Mr Muhammad Anas Bin Muhammad Nasser <br> Ms Ong May Chin<br>Ms Vrinda Ravindran	|
 | **ICT Support Officers:<br>** 	| Ms Syaira Amira Bte Jamal Abdul Nasir <br>Mr Mohd Sazuwan Bin Hadiyanto<br> Mr Hykel Bin Jumari 	|
-| **AED <br>** 	| Ms Beverly Tan <br> Ms G Nirmala<br> Mr Muhammad Anas Bin Muhammad Nasser<br> Ms Ong May Chin<br> Ms Vrinda Ravindaran	|
 | **Librarian:** 	| Ms Sohana Abdul Malik 	|
