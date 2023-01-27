@@ -3,6 +3,8 @@ title: Other Teaching Staff
 permalink: /people-our-key/other-teaching-staff/
 description: ""
 ---
+### Other Teaching Staff
+
 |  	|  	|
 |---	|---	|
 | **Allied Educator (T&L):** 	| Ms G Nirmala 	|
