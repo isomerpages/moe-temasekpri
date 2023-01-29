@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /departments/english
+permalink: /departments/english/
 description: ""
 ---
 ### English
@@ -8,7 +8,7 @@ description: ""
 |  	|  	|
 |---	|---	|
 | Head Of Department: 	| Mrs Sharon Koh 	|
-|  Members: 	| Mr Ernest Choon (HOD ICT)<br>Ms Arunah Rahman (AYH)<br>Ms Nazlie Abdul Rashid (ST EL)<br>Mdm Salina Bte Ramat (ST Lower Primary)<br>Mrs Teresa Lee (ST SEN/ LSC)<br>Mdm Shafiza (LH EL Covering Duty)<br>Mdm Norhayati Chelah (LSC / RRP)<br>Ms Vivian Chong (SDR)<br>Mdm Nariman Bte Saruan (SDR)<br>Ms G Nirmala (AED T&L)<br>Ms Joy Tan Yi Wei<br>Ms Sheela Devi<br>Ms Chen YunTing, Carol <br>Ms Sheena Kang<br>Ms Syazwani Binte Ashraff<br>Mrs Nirmala Sharma (FAJT)<br>Mrs Millie Soon (FAJT)<br>Miss Nur-Amelia 	|
+|  Members: 	| Mdm Shafiza (LH EL)<br>Mr Ernest Choon (HOD ICT)<br>Ms Arunah Rahman (AYH)<br>Ms Nazlie Abdul Rashid (ST EL)<br>Mdm Salina Bte Ramat (ST Lower Primary)<br>Mdm Norhayati Chelah (LSC / RRP Instructor)<br>Ms Vivian Chong (SDR Instructor)<br>Mdm Nariman Bte Saruan (RRP Instructor)<br>Ms G Nirmala (AED T&L)<br>Ms Joy Tan Yi Wei<br>Ms Sheela Devi<br>Ms Chen YunTing, Carol<br>Ms Syazwani Binte Ashraff<br>Ms Melody Heng Jing Hui<br>Mrs Nirmala Sharma (FAJT)<br>Mrs Jessie Chin (FAJT)<br>Ms Sharon Lai (FAJT)|
 
 The vision of the English Language department is for our students to become **future global citizens who are articulate and effective users of the English Language**. This is in alignment with our school's student learner outcome of 'Effective Communicator' and MOE's C2015 student outcome of 'Confident Person'. 
 
