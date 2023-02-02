@@ -2,11 +2,11 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - About Us/Our Team.md
-      - About Us/Contact Us.md
-      - About Us/Our Fees.md
-      - About Us/Our Attire.md
-      - About Us/Our Pedagogical Practices.md
-      - About Us/Our Vision and Mission.md
       - About Us/.keep
+      - About Us/Our Vision and Mission.md
+      - About Us/Our Pedagogical Practices.md
+      - About Us/Our Attire.md
+      - About Us/Our Fees.md
+      - About Us/Contact Us.md
+      - About Us/Our Team.md
       - MOE Kindergarten (MK).md
