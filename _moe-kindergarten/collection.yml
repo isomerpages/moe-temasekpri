@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - MK@Temasek Experience/Our Curriculum.md
       - MK@Temasek Experience/Our Learning Environment.md
       - MK@Temasek Experience/.keep
       - MOE Kindergarten (MK).md
