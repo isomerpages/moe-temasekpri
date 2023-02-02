@@ -12,4 +12,4 @@ MK@Temasek will be holding a physical Open House for parents to tour the learnin
 Open House at MK@Temasek will be held on **18 February 2023, 9.00am to 1.00pm**. You will get an opportunity to get a glimpse of our learning environment and speak with our MK educators to understand more about the MK curriculum as well as our signature programmes.
 Should you require further details on the other MKs which our schools offer, please visit the [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten) website.
 
-![](/images/map2.png)
+![](/images/MOE%20MK%20map.png)
