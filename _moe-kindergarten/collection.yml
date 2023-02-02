@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - About Us/Teaching Staff.md
       - About Us/Management Board & Admin Staff.md
       - About Us/Our Learner Outcomes.md
       - About Us/.keep
