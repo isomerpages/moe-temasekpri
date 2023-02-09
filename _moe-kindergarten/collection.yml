@@ -2,9 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - MK@Temasek Experience/Our Curriculum.md
-      - MK@Temasek Experience/Our Learning Environment.md
-      - MK@Temasek Experience/.keep
       - MOE Kindergarten (MK).md
       - About Us/.keep
       - About Us/Our Vision and Mission.md
@@ -13,3 +10,6 @@ collections:
       - About Us/Our Fees.md
       - About Us/Contact Us.md
       - About Us/Our Team.md
+      - MK@Temasek Experience/.keep
+      - MK@Temasek Experience/Our Curriculum.md
+      - MK@Temasek Experience/Our Learning Environment.md
