@@ -2,9 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Kindergarten Care (KCare).md
-      - MK Events/2023.md
-      - MK Events/.keep
       - MOE Kindergarten (MK).md
       - About Us/.keep
       - About Us/Our Vision and Mission.md
@@ -17,3 +14,6 @@ collections:
       - MK@Temasek Experience/Our Learning Environment.md
       - MK@Temasek Experience/Our Curriculum.md
       - MK@Temasek Experience/Our Calendar.md
+      - MK Events/.keep
+      - MK Events/2023.md
+      - Kindergarten Care (KCare).md
