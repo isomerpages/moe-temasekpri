@@ -34,3 +34,43 @@ We use Big Books, songs, rhymes and games to help your child to:
 	<li>Communicate with confidence.</li>
 	<li>Learn about local customs and traditions.</li>
 </ul>
+
+###### Mother Tongue Language (MTL) and Bilingualism
+Bilingualism is a cornerstone of Singapore’s education system. Learning our MTL gives us direct access to our cultural heritage, and can help us better understand our values, roots and identities.
+
+At MK, we nurture bilingualism by focusing on listening, speaking and engaging children in games and activities that encourage early literacy development.
+
+By using their MTL to communicate with teachers and their friends on a daily basis, children build a strong foundation that will prepare them for language learning in later years.
+
+[Find out more about the Starlight Literacy Programme](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight)
+
+###### HI-Light Programme
+The HI-Light Programme is designed to support the holistic development of children across these six learning areas through an integrated approach to learning. It provides children opportunities to explore, discover and learn about the world around them.
+<ul>
+	<li>Aesthetics and creative expression</li>
+	<li>Discovery of the world</li>
+	<li>Language and literacy</li>
+	<li>Motor skills development</li>
+	<li>Numeracy</li>
+	<li>Social and emotional development</li>
+	</ul>
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light">Find out more about the HI-Light Programme</a>
+
+###### Weeks of Wonder (WoW) Projects
+**Collaborative and Self-directed Learning**<br>
+Each term at MOE Kindergarten (MK) culminates in a Weeks of Wonder (WoW) project. In a year, children complete 2 WoW projects in English and another 2 in their Mother Tongue Language (MTL). Children will work together with their friends on a topic of their choice.
+
+Through WoW projects, children learn how to:
+<ul>
+	<li>make their own decisions</li>
+	<li>develop problem-solving, process and investigative skills</li>
+	<li>collaborate with one another</li>
+	<li>communicate effectively in English and their MTL</li>
+	</ul>
+Through the process of finding answers to their own questions, WoW projects allow children to:
+<ul>
+	<li>experience the joy of self-motivated learning</li>
+	<li>build their confidence</li>
+<li>strengthen their learning dispositions or positive behaviours and attitudes towards learning</li>
+	</ul>
+<a href="https://drive.google.com/file/d/1HpCdzPeL-lhEP5mLSlCplZKuhtClWvRV/view?usp=share_link">Find out more about Weeks of Wonder (WoW) Projects</a>
