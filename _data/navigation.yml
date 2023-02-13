@@ -32,6 +32,8 @@ links:
         url: /pupils-our-pride/programme-for-active-learning/
       - title: Forms
         url: /pupils-our-pride/forms/
+      - title: Admission to Temasek Primary
+        url: /communication/admission-to-temasek-primary/
   - title: People Our Key
     url: /people-our-key/management-board-committee/
     sublinks:
@@ -60,15 +62,16 @@ links:
         url: /partners-our-links/external-partnerships/
       - title: School Visitors
         url: /partners-our-links/school-visitors/overview/
-  - title: Communications
-    url: /communication/admission-to-temasek-primary/
-    sublinks:
-      - title: Admission to Temasek Primary
-        url: /communication/admission-to-temasek-primary/
   - title: MK @ Temasek
     url: /moe-kindergarten/moe-kindergarten-mk/
     sublinks:
       - title: What's On
         url: /moe-kindergarten/moe-kindergarten-mk/
       - title: About Us
+        url: /permalink
+      - title: MK@Temasek Experience
+        url: /permalink
+      - title: MK Events
+        url: /permalink
+      - title: Kindergarten Care (KCare)
         url: /permalink
