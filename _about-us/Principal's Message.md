@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Message
 
-<img src="/images/principal.png" 
+<img src="/images/MrsHo-Principal.jpeg" 
      style="width:60%">
 
 **Mrs Alison Ho** 
