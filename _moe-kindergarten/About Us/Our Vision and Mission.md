@@ -12,3 +12,5 @@ We seek to do so through providing quality pre-school education that is affordab
 #### The MK Logo
 ![](/images/mk-temasek-logo.jpg)
 The flying kite in our logo represents our children soaring to greater heights, with the strong foundation they have built in the MOE Kindergartens. The two kite tails symbolise the fun and learning that children will experience in the MOE Kindergartens.
+
+The three colours represent the educators, partners and the curriculum, which are integral to the holistic growth and development of the child.
