@@ -8,7 +8,7 @@ third_nav_title: About Us
 At MK, teachers engage children in learning through purposeful play. While children actively participate in play that is enjoyable and meaningful, teachers observe them to support and guide their play to achieve important learning outcomes.
 
 <div style="display: flex; box-sizing: border-box;">
-<img src="/images/mk1.jpg" style="width:250px; flex: 33.33%;padding: 5px;"><img src="/images/mk2.jpg" style="width:250px; flex: 33.33%;padding: 5px;"> 
+<img src="/images/mk1.jpg" style="width:100%; flex: 33.33%;padding: 5px;"><img src="/images/mk2.jpg" style="width:100%; flex: 33.33%;padding: 5px;"> 
 	</div>
 <img src="/images/mk3.jpg" style="width:250px;">
 
