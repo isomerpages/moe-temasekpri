@@ -29,7 +29,7 @@ description: ""
 | 2 Responsibility 	| Ms Michelle Lim<br>Ms Jaslynn Lai	| [michelle\_lim\_hwee\_ching@schools.gov.sg](mailto:michelle_lim_hwee_ching@schools.gov.sg)<br>[jaslynn\_lai\_yi\_loo@schools.gov.sg](mailto:jaslynn_lai_yi_loo@schools.gov.sg) 	|
 | 2 Integrity 	| Ms Vivian Chong<br>Mdm Fauziah Binte Mohamed Ali	| [chong\_gek\_hui@schools.gov.sg](mailto:chong_gek_hui@schools.gov.sg)<br> [fauziah\_mohamed\_ali\_b@schools.gov.sg](mailto:fauziah_mohamed_ali_b@schools.gov.sg)  	|
 | 2 Open-mindedness 	| Mdm Shafiza Bte Ariff Patail<br>Ms Liao Wanting 	| [shafiza\_ariff\_patail@schools.gov.sg](mailto:shafiza_ariff_patail@schools.gov.sg)<br>[liao\_wanting@schools.gov.sg](mailto:liao_wanting@schools.gov.sg)	|
-| 2 Respect 	| Ms Luo Xi<br>Ms Jessi Choi <br>Mrs Sharon Koh	| [luo\_xi@schools.gov.sg](mailto:luo_xi@schools.gov.sg)<br>[jessie_choi_chook_ching@schools.gov.sg](mailto:jessie_choi_chook_ching@schools.gov.sg)<br>[li\_simin@schools.gov.sg](mailto:li_simin@schools.gov.sg) 	|
+| 2 Respect 	| Ms Luo Xi<br>Ms Jessi Choi	| [luo\_xi@schools.gov.sg](mailto:luo_xi@schools.gov.sg)<br>[jessie_choi_chook_ching@schools.gov.sg](mailto:jessie_choi_chook_ching@schools.gov.sg)	|
 | 2 Humility 	| Ms Jocelyn Goh<br>Mdm Jean Lim 	| [goh\_jocelyn@schools.gov.sg](mailto:goh_jocelyn@schools.gov.sg)<br>[lim\_ai\_tiew\_jean@schools.gov.sg](mailto:lim_ai_tiew_jean@schools.gov.sg)	|
 | 2 Excellence 	| Mdm Norhayati Che'lah<br>Mdm Lin Haizhen 	| [norhayati\_chelah@schools.gov.sg](mailto:norhayati_chelah@schools.gov.sg)<br>[lin\_haizhen@schools.gov.sg](mailto:lin_haizhen@schools.gov.sg) 	|
 
@@ -38,7 +38,7 @@ description: ""
 | Class 	| Form Teacher 	| Email (@schools.gov.sg) 	|
 |:---:	|:---:	|:---:	|
 | 3 Perseverance 	| Mr Muhammad Haziq<br>Ms Sarah Goh 	| [muhammad\_haziq\_\_othman@schools.gov.sg](mailto:muhammad_haziq__othman@schools.gov.sg)<br>[goh\_yu\_ling\_sarah@schools.gov.sg](mailto:goh_yu_ling_sarah@schools.gov.sg) 	|
-| 3 Responsibility 	| Ms Arveen Kaur<br>Mr Chang Jia Ming	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>[chang_jia_ming@schools.gov.sg](mailto:chang_jia_ming@schools.gov.sg)	|
+| 3 Responsibility 	| Ms Arveen Kaur<br>Mrs Sharon Koh	| [arveen\_kaur@schools.gov.sg](mailto:arveen_kaur@schools.gov.sg)<br>[li\_simin@schools.gov.sg](mailto:li_simin@schools.gov.sg)	|
 | 3 Integrity 	| Ms Low Shu Fen, Jayne<br>Ms Joy Tan Yi Wei	| [low\_shu\_fen@schools.gov.sg](mailto:low_shu_fen@schools.gov.sg)<br>[tan\_yi\_wei\_joy@moe.edu.sg](mailto:tan_yi_wei_joy@moe.edu.sg)	|
 | 3 Open-mindedness 	| Mrs Charis Quek-Kang Len Li<br>Mr Mohamed Azrai Bin Ahmad	| [kang\_leng\_li@schools.gov.sg](mailto:kang_leng_li@schools.gov.sg)<br>[mohamed\_azrai\_ahmad@schools.gov.sg](mailto:mohamed_azrai_ahmad@schools.gov.sg)|
 | 3 Humility	| Mdm Vanishree d/o Kaneson (Mrs Siva)<br>Ms Kwang Kir Hwee 	| [vanishree\_kaneson\_a@schools.gov.sg](mailto:vanishree_kaneson_a@schools.gov.sg)<br>[kwang\_kir\_hwee@schools.gov.sg](mailto:kwang_kir_hwee@schools.gov.sg)	|
