@@ -24,7 +24,7 @@ Check out some of the videos below to find out more!
 </ul>
 	
 ##### Curriculum: Our Flagship Programmes
-###### Starlight Literacy Program - Early Childhood Literacy
+<b> Starlight Literacy Program - Early Childhood Literacy</b>
 Language learning is a dynamic and ongoing process that begins in infancy and early childhood and continues throughout the schooling years. In early childhood, the focus is on developing children’s listening and speaking skills. An active, interactive approach helps to nurture children’s interest in learning languages.
 
 We use Big Books, songs, rhymes and games to help your child to:
@@ -35,7 +35,7 @@ We use Big Books, songs, rhymes and games to help your child to:
 	<li>Learn about local customs and traditions.</li>
 </ul>
 
-###### Mother Tongue Language (MTL) and Bilingualism
+<b> Mother Tongue Language (MTL) and Bilingualism</b>
 Bilingualism is a cornerstone of Singapore’s education system. Learning our MTL gives us direct access to our cultural heritage, and can help us better understand our values, roots and identities.
 
 At MK, we nurture bilingualism by focusing on listening, speaking and engaging children in games and activities that encourage early literacy development.
@@ -44,7 +44,7 @@ By using their MTL to communicate with teachers and their friends on a daily bas
 
 [Find out more about the Starlight Literacy Programme](https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/starlight)
 
-###### HI-Light Programme
+<b> HI-Light Programme</b><br>
 The HI-Light Programme is designed to support the holistic development of children across these six learning areas through an integrated approach to learning. It provides children opportunities to explore, discover and learn about the world around them.
 <ul>
 	<li>Aesthetics and creative expression</li>
@@ -56,7 +56,7 @@ The HI-Light Programme is designed to support the holistic development of childr
 	</ul>
 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/curriculum/hi-light">Find out more about the HI-Light Programme</a>
 
-###### Weeks of Wonder (WoW) Projects
+<b>Weeks of Wonder (WoW) Projects</b><br>
 **Collaborative and Self-directed Learning**<br>
 Each term at MOE Kindergarten (MK) culminates in a Weeks of Wonder (WoW) project. In a year, children complete 2 WoW projects in English and another 2 in their Mother Tongue Language (MTL). Children will work together with their friends on a topic of their choice.
 
