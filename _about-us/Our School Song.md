@@ -5,7 +5,7 @@ description: ""
 ---
 ### Our School Song
 
-Insert school song audio clip here.
+<iframe width="560" height="100" src="https://www.youtube.com/embed/ZPcS7umBTPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We are young, we are strong   
 
