@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-## Calendar of Events for TERM 2
+## Calendar of Events
 
          
 
