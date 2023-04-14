@@ -1,12 +1,12 @@
 ---
-title: Calendar of Events for Term 1
+title: Calendar of Events
 permalink: /news-and-announcements/upcoming-activities/permalink/
 date: 2023-01-04
 layout: post
 description: ""
 image: ""
 ---
-## Calendar of Events for TERM 2
+## Calendar of Events
 
          
 
