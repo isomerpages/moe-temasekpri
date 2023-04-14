@@ -2,6 +2,7 @@ collections:
   partner-our-links:
     output: true
     order:
+      - Parent Volunteers.md
       - School Advisory Committee.md
       - Parents Connection Committee/Parents Connection Committee.md
       - Parents Connection Committee/Project Green Earth.md
