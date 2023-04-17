@@ -2,8 +2,6 @@ collections:
   affirmation-and-recognition:
     output: true
     order:
-      - School Awards/.keep
-      - School Awards/Temasek ISTAR Award 2019 to 2021.md
       - National Awards/.keep
       - National Awards/PAT and OYEA.md
       - National Awards/PS21 Star Service Award.md
