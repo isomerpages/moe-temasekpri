@@ -1,29 +1,34 @@
 ---
 title: National Day Awards 2019 to 2021
-permalink: /affirmation-and-recognition/National-Awards/national-day-awards-2019-to-2021
+permalink: /affirmation-and-recognition/National-Awards/national-day-awards-2019-to-2021/
 description: ""
 third_nav_title: National Awards
 ---
-### National Day Awards 2019-2021
+#### The Commendation Medal
 
-#### The Commendation Medal 2021
+<b>The Commendation Medal 2022</b><br>
+Mdm Salina Bte Ramat
 
-**Mdm Salina Bte Ramat**
+<b>The Commendation Medal 2021</b><br>
+Mdm Salina Bte Ramat
 
-#### The Commendation Medal 2020
-
+<b>The Commendation Medal 2020</b><br>
 Mr Muhamad Fadly Bin Mohd Ariff
 
-#### The Efficiency Medal 2019
+#### The Efficiency Medal 
+<b>The Efficiency Medal</b><br>
+Ms Ong May Chin
 
-**Ms Ong May Chin**
+#### The Long Service Medal
+<b>The Long Service Medal 2022</b><br>
+Mdm Serene Tay Li Tze<br>
+Ms Ong Seow Peng<br>
+Mrs Alison Ho
 
-#### The Long Service Medal 2021
+<b>The Long Service Medal 2021</b><br>
+Mr Mohamed Izzat Bin Mohamed Sarip
 
-**Mr Mohamed Izzat Bin Mohamed Sarip**
-
-#### The Long Service Medal 2020
-
-**Mdm Lim Chye Hoon**<br>
-**Mrs Joanne Chong - Tan Wai Hing** <br>
-**Mr William Chan**
+<b>The Long Service Medal 2020</b><br>
+Mdm Lim Chye Hoon<br>
+Mrs Joanne Chong - Tan Wai Hing <br>
+Mr William Chan
