@@ -1,8 +1,7 @@
 ---
 title: MOE Outstanding Contribution Award 2019 to 2021
-permalink: /affirmation-and-recognition/National-Awards/moe-outstanding-contribution-award-2019-to-2021
+permalink: /affirmation-and-recognition/National-Awards/moe-outstanding-contribution-award-2019-to-2021/
 description: ""
-third_nav_title: National Awards
 ---
 ### MOE Outstanding Contribution Award (OCA) 2019-2021
 

@@ -1,16 +1,15 @@
 ---
 title: MOE Innergy Award 2019 to 2021
-permalink: /affirmation-and-recognition/National-Awards/moe-innergy-award-2019-to-2021
+permalink: /affirmation-and-recognition/National-Awards/moe-innergy-award-2019-to-2021/
 description: ""
 third_nav_title: National Awards
 ---
 ### MOE Innergy Award 2019-2021
 
-#### MOE Outstanding Innovator Award (OIA) 2020
+<b>MOE Outstanding Innovator Award (OIA) 2020</b><br>
+Mr Lim Wu Yi
 
-**Mr Lim Wu Yi**
-
-#### MOE Innergy Award 2021
+<b> MOE Innergy Award 2021</b><br>
 
 | Recipients 	| Category 	| Title 	|
 |:---:	|:---:	|:---:	|
@@ -18,7 +17,7 @@ third_nav_title: National Awards
 | Mr Mohamed Akramullah<br>Mr Martin Goh Poh Huat<br>Ms Ivy Lai<br>Ms Nancy Chia<br>Mdm Arveen Kaur 	| Bronze 	| Game of Equivalence 	|
 | Mrs Ong-Koh Cai Ling<br>Mrs Yee Sin Nee - Lua Sin Nee<br>Mdm Siti Azaliyah	<br>Mrs Vikirawati Choo<br>Ms Loh Ooi Wan 	|  Commendation 	| Story-Matics  	|
 
-#### MOE Innergy Award 2020
+<b> MOE Innergy Award 2020</b><br>
 
 | Recipients 	| Category 	| Title 	|
 |:---:	|:---:	|:---:	|
@@ -28,7 +27,7 @@ third_nav_title: National Awards
 |  Mr Marcus Lau Kok HiongMs May O Guat Bee<br>Mr Vincent Neo Say Khim<br>Mdm Tan Shih Ray<br>Ms Arunah Bebe D/O Abdul Rahman<br>Mdm Arveen Kaur<br>Mrs Reavathiy Kumar 	| Commendation  	| Positive Discipline Choice 	|
 | Mr Muhammad Dzulqarni Bin Mohamad SafiiMdm Connie Soon Swee Lian<br>Mdm Toh Fui Ming<br>Mdm Tracy Huang 	|  Commendation  	|  Virtual Reality, Science Lessons Come Alive 	|
 
-#### MOE Innergy Award 2019
+<b> MOE Innergy Award 2019</b><br>
 
 | Recipients 	| Category 	| Title 	|
 |:---:	|:---:	|:---:	|
