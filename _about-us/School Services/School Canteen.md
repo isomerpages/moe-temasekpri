@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /about-us/School-Services/school-canteen
+permalink: /about-us/School-Services/school-canteen/
 description: ""
 third_nav_title: School Services
 ---
@@ -14,3 +14,5 @@ third_nav_title: School Services
 | Stall 6 	| **Wild Wild West<br>(Muslim-owned)<br>** 	| Pasta, Burrito, Chicken chop 	|
 | Stall 7 	| **Selera Temasek<br>(Muslim-owned)** 	| Rice and dishes, Noodles 	|
 | Stall 8 	| **Hot Delights** 	| Hot drinks, Snacks 	|
+
+We will be using this webpage if we are advertising for school canteen operators.
