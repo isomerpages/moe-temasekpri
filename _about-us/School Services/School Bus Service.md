@@ -129,6 +129,24 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="mso-ansi-language:EN-SG">$135</span></p></td></tr></tbody></table>
-	
+
+###### CALL FOR PROPROSAL FOR APPOINTMENT OF SCHOOL BUS OPERATOR TO PROVIDE SCHOOL BUS SERVICES
 To apply, please refer to the Service Requirements and the Application Procedure below.
+
+<b>Service Requirements</b><br>
+[Call for Proposal – Temasek Primary School](/files/call%20for%20proposals%20-%20temasek%20primary%20school.pdf)<br>
+Agreement for Appointment of School Bus Operator (Annex B) 
+
+<b>Application Procedure</b><br>
+Complete Call for Proposal – Annex A<br>
+Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School’s General Office.
+
+Temasek Primary School<br>
+501 Bedok South Avenue 3<br>
+Singapore 469300<br>
+Contact Person: Mdm O Guat Eng
+
+<b>How to get there?</b><br>
+Nearest MRT: Tanah Merah MRT (EW4) – 10 minutes walking distance<br>
+Bus number: 25, 46, 48, 299 - 2 minutes walking distance from temporary bus stop
 
