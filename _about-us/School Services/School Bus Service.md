@@ -23,6 +23,8 @@ Contact Person: Mdm O Guat Eng
 <b>How to get there?</b><br>
 Nearest MRT: Tanah Merah MRT (EW4) – 10 minutes walking distance<br>
 Bus number: 25, 46, 48, 299 - 2 minutes walking distance from temporary bus stop
+	<br>
+<hr>
 
 ##### School Bus Coordinator
 
