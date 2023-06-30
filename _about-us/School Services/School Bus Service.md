@@ -12,8 +12,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 [2. Agreement for Appointment of School Bus Operator (Annex B) ](/files/annex%20b%20agreement%20for%20appointment%20of%20school%20bus%20operator%20(sample).pdf)
 
 <b>Application Procedure</b><br>
-[1. Complete Call for Proposal – Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)<br>
-[2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School’s General Office].
+1. Complete [Call for Proposal – Annex A](/files/call%20for%20proposal%20-%20annex%20a.pdf)<br>
+2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023, to the School’s General Office.
 
 Temasek Primary School<br>
 501 Bedok South Avenue 3<br>
