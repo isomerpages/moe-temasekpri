@@ -4,7 +4,6 @@ permalink: /about-us/School-Services/school-bus-service/
 description: ""
 third_nav_title: School Services
 ---
-        
 ### School Bus Coordinator
 
 Mr Chan Guan Liang<br>
@@ -130,3 +129,6 @@ Daily School Bus Services based on Not to Exceed Price (i.e. for sending student
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="mso-ansi-language:EN-SG">$135</span></p></td></tr></tbody></table>
+	
+To apply, please refer to the Service Requirements and the Application Procedure below.
+
