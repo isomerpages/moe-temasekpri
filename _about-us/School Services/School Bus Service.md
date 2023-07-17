@@ -4,7 +4,7 @@ permalink: /about-us/School-Services/school-bus-service/
 description: ""
 third_nav_title: School Services
 ---
-##### CALL FOR PROPROSAL FOR APPOINTMENT OF SCHOOL BUS OPERATOR TO PROVIDE SCHOOL BUS SERVICES
+##### CALL FOR PROPOSAL FOR APPOINTMENT OF SCHOOL BUS OPERATOR TO PROVIDE SCHOOL BUS SERVICES
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 <b>Service Requirements</b><br>
