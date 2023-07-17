@@ -22,7 +22,7 @@ Applicants should meet the following criteria:<br>
 <br>
 
 **Health &amp; Hygiene Requirements:**
-* Must comply with the Healthy Eating in Schools Programme Guidelines (https://www.healthhub.sg/live-healthy/511/Healthy%20meals%20in%20school)
+* Must comply with the [Healthy Eating in Schools Programme Guidelines](https://www.healthhub.sg/live-healthy/511/Healthy%20meals%20in%20school)
 * Prior to the date of commencement, the successful applicant and assistant(s) must complete the WSQ Basic Food Hygiene Course conducted by any of the accredited training providers appointed by the Workforce Development Agency
 * Successful applicants must apply for individual hawker license from NEA
 * Either the successful applicant or the assistant(s), whoever is the chef, must attend the Healthy Meals in School Programme workshop<br>
