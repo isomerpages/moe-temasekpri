@@ -4,7 +4,7 @@ permalink: /about-us/School-Services/school-canteen/
 description: ""
 third_nav_title: School Services
 ---
-##### Temasek Primary School has a vacancy for a <u>Malay Mixed Rice and Noodles Stall </u>
+### Vacancy for a <u>Malay Mixed Rice and Noodles Stall </u>
 
 <b>School Canteen Operating Hours:</b><br>
 We are a single session school with an estimated enrolment of 1264 pupils and about 123 staff in year 2023. Our canteen operates from <u>Mondays to Fridays, 7.00am to 2.30pm</u> during the school term. The stall will be required to operate during School Holidays, where necessary, at the request of the school.<br>
