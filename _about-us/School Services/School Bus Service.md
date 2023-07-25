@@ -5,12 +5,12 @@ description: ""
 third_nav_title: School Services
 ---
 ##### SCHOOL BUS SERVICES
-School Bus Operator and Bus Fare<br>
+School Bus Operator and Bus Fare (2024 to 2025)<br>
 [School Bus Services Award Notice](/files/school%20bus%20services%20award%20notice.pdf)
 	<br>
 <hr>
 
-##### School Bus Coordinator
+##### School Bus Coordinator (2023)
 
 Mr Chan Guan Liang<br>
 Contact Number: <b>9792 0384</b>
