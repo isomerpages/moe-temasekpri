@@ -18,7 +18,7 @@ description: ""
 | 1 Open-mindedness 	| Mdm Raihanawati Bte Abdul Razak<br>Mrs Irene Lim<br>Mdm Lim Chye Hoon 	| [raihanawati\_abdul\_razak@schools.gov.sg](mailto:raihanawati_abdul_razak@schools.gov.sg)<br>[lim_siew_hong_a@schools.gov.sg](mailto:lim_siew_hong_a@schools.gov.sg)<br>[lim\_chye\_hoon@schools.gov.sg](mailto:lim_chye_hoon@schools.gov.sg)
 | 1 Respect 	| Mdm Salina Bte Rahmat<br>Mdm Yeow Puay Geok 	| [salina\_ramat@schools.gov.sg](mailto:salina_ramat@schools.gov.sg)<br>[yeow\_puay\_geok@schools.gov.sg](mailto:yeow_puay_geok@schools.gov.sg)	|
 | 1 Humility 	| Mrs Ong-Koh Cai Ling<br>Ms Jastina Putri Bte Marhajas 	| [koh\_cai\_ling@schools.gov.sg](mailto:koh_cai_ling@schools.gov.sg)<br>[jastina_putri_marhajas@schools.gov.sg](mailto:jastina_putri_marhajas@schools.gov.sg)	|
-| 1 Excellence 	| Mdm Nariman Bte Saruan<br>Ms Linnet Xue Hui Lin 	| [nariman\_saruan@schools.gov.sg](mailto:nariman_saruan@schools.gov.sg) <br>[linnet_xue_hui_lin@schools.gov.sg](mailto:linnet_xue_hui_lin@schools.gov.sg) 	|
+| 1 Excellence 	| Mdm Nariman Bte Saruan	| [nariman\_saruan@schools.gov.sg](mailto:nariman_saruan@schools.gov.sg)  |
 
 **Primary 2**<br>
 **Year Head: Mdm Azlinah Bte Abu Bakar**
