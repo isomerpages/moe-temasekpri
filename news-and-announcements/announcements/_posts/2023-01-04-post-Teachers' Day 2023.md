@@ -6,14 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-## Calendar of Events
+Dear alumni,
 
-         
-
-
-| Date | Events/Programmes | Level |
-| -------- | -------- | -------- |
-|21. 22 & 24 March|Museum Based Learning — Asian Civilisation Museum(After school)|P6|
-|22 to 29 March|Learning Tapestry|P2|
-|24 March|Earth Hour "Lights Off' @ TMPS|All levels|
-|30 March|Parents Chit Chat Session with School Leaders|P4|
+Due to the Presidential Election 2023 and shifting of the Teacher's Day holiday to 11 September 2023, the school will not be open for you to visit your ex-teachers. We seek your understanding on this. Thank you.
