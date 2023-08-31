@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - What's On.md
       - About Us/.keep
       - About Us/Our Vision and Mission.md
       - About Us/Our Pedagogical Practices.md
