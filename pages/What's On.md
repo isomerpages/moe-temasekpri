@@ -3,7 +3,6 @@ title: What's On
 permalink: /moe-kindergarten/moe-kindergarten-mk/
 description: ""
 ---
-
 ### What's On
   
 ##### 18 Feb 2023 | MK@Temasek Open House
