@@ -2,6 +2,7 @@ collections:
   mk-photos:
     output: true
     order:
+      - Dental Visit.md
       - All About Durians.md
       - All About Fruits.md
       - Chinese New Year Celebrations.md
