@@ -2,4 +2,5 @@ collections:
   mk-photos:
     output: true
     order:
+      - Chinese New Year Celebrations.md
       - Day One of School.md
