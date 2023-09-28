@@ -2,6 +2,7 @@ collections:
   mk-photos:
     output: true
     order:
+      - Project on Ants.md
       - Play at Stadium.md
       - Neighbourhood Walk.md
       - National Day Celebrations.md
