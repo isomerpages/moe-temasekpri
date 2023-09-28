@@ -2,6 +2,7 @@ collections:
   mk-photos:
     output: true
     order:
+      - All About Durians.md
       - All About Fruits.md
       - Chinese New Year Celebrations.md
       - Day One of School.md
