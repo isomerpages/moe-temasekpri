@@ -2,6 +2,7 @@ collections:
   mk-photos:
     output: true
     order:
+      - National Day Celebrations.md
       - Hari Raya Celebrations.md
       - Earth Day.md
       - Dragon Boat Festival.md
