@@ -1,4 +1,5 @@
 collections:
   mk-photos:
     output: true
-    order: []
+    order:
+      - Day One of School.md
