@@ -2,6 +2,7 @@ collections:
   mk-photos:
     output: true
     order:
+      - Neighbourhood Walk.md
       - National Day Celebrations.md
       - Hari Raya Celebrations.md
       - Earth Day.md
