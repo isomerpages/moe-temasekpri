@@ -2,5 +2,6 @@ collections:
   mk-photos:
     output: true
     order:
+      - All About Fruits.md
       - Chinese New Year Celebrations.md
       - Day One of School.md
