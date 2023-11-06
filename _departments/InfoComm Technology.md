@@ -1,34 +1,35 @@
 ---
 title: InfoComm Technology
-permalink: /departments/ICT
+permalink: /departments/ICT/
 description: ""
+variant: markdown
 ---
 ### ICT
 
 |  	|  	|
 |---	|---	|
 | Head of Department ICT 	| Mr Ernest Choon Guoxiang 	|
-| ICT Sub Committee Leaders 	| Mr Lim Wu Yi (Content Creation)<br>Mdm Yeow Puay Geok (School Cockpit)<br>Mdm Norhayati Che’Lah (Cyber Wellness)<br>Mr Lee Sheng Jie Fabian (Consumer Support) 	|
+| ICT Sub Committee Leaders 	| Mr Lim Wu Yi (Think Tank)<br>Mdm Yeow Puay Geok (School Cockpit)<br>Mr Muhammad Diyar Bin Mustapa (Digital Literacy)<br>Ms Luo Xi (Content Creation)<br>Mr Lee Sheng Jie Fabian (ICT Manager) 	|
 | ICT Representatives 	| <br>1.	Ms Chen Yunting, Carol (English Department)<br>2.	Mdm Norhayati Che’Lah (English Department)<br>3.	Ms Nancy Chia (Math Department)<br>4.	Mr Lim Wu Yi (Science Department)<br>5.	Mr Muhd Dzulqarni Bin Mohd Safii (Science Department)<br>6.	Mr Muhammad Diyar Bin Mustapa (PE Department)<br>7.	Ms Jocelyn Goh (Music Department)<br>8.	Mdm Yeow Puay Geok (CL Department)<br>9.	Mdm Toh Chiew Hoon (CL Department)<br>10.	Mdm Li Pei (CL Department)<br>11.	Ms Luo Xi (CL Department)<br>12.	Ms Kwang Kir Hwee (CL Department) 	|
 | ICT Associate 	| Mr Lee Sheng Jie Fabian  	|
 | ICT Specialist  	| Ms Syaira Amira Bte Jamal Abdul Nasir 	|
-| Desktop Engineers 	| Mr Sazuwan<br>Mr Kuah Gui Hong 	|
+| Desktop Engineers 	| Mr Sazuwan<br>Mr Hykel Bin Jumari 	|
 
 #### Vision
 
-**Technology Multiplies People’s Strengths** 
+**Technology Multiplies People’s Strengths**&nbsp;
 
 Unpacking the Vision
-<BR>Everyone has strengths that can be further developed through the use of technology as a tool. 
+<br>Everyone has strengths that can be further developed through the use of technology as a tool.&nbsp;
   
 
-Teachers’ strengths are in the areas of content, pedagogy and the assessment. They provide opportunities for students to further develop their knowledge and skills as 21st century students. They communicate and critically think as they provide suggestions to their peers using technology.  
+Teachers’ strengths are in the areas of content, pedagogy and the assessment. They provide opportunities for students to further develop their knowledge and skills as 21st century students. They communicate and critically think as they provide suggestions to their peers using technology.&nbsp; 
 
 Students’ learning and thinking can be made visible through technology. Targeted, timely feedback and peer learning can take place around these learning artifacts. Students can review the comments, refine their work and tracks their progress of learning using technology.  
 
-The ICT support staff also lend us their strengths in their knowledge and abilities in the use of technology. 
+The ICT support staff also lend us their strengths in their knowledge and abilities in the use of technology.&nbsp;
 
-Parents as our partners in education, can also reinforce learning by tapping on technology as resources to support their child's learning. 
+Parents as our partners in education, can also reinforce learning by tapping on technology as resources to support their child's learning.&nbsp;
 
 ##### ICT Programme for the year 2019
 
@@ -40,9 +41,9 @@ Parents as our partners in education, can also reinforce learning by tapping on 
 
 • Science, Tecnology, Engineering and Mathematics STEM as the school’s Applied Learning Programme (ALP)  
 
-• RoboALERT (Applicative Learning Experience through Robotics at Temasek)   
+• RoboALERT (Applicative Learning Experience through Robotics at Temasek)&nbsp;  
 
-• Mobile Learning    
+• Mobile Learning&nbsp;&nbsp;  
 
 • Digital Music Programme  
 
@@ -52,7 +53,7 @@ Parents as our partners in education, can also reinforce learning by tapping on 
 
   
 
-Based on the three Cyber Wellness principles of respect for self & others, safe & responsible use and positive peer influence, students have the opportunity to develop these knowledge and skills through the school’s integrated Cyber Wellness programme for all students. 
+Based on the three Cyber Wellness principles of respect for self &amp; others, safe &amp; responsible use and positive peer influence, students have the opportunity to develop these knowledge and skills through the school’s integrated Cyber Wellness programme for all students.&nbsp;
 
 The Cyber Wellness (CW) curriculum aims to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information and Communication Technology (ICT).
 
@@ -62,7 +63,7 @@ The Cyber Wellness (CW) curriculum aims to equip students with life-long social-
 
   
 
-The intent of the E-Learning Day is to provide an experience for students to learn from home, supported by technology. This also serves as an important exercise in preparation for any emergency school closures so that learning can continue to take place from home. The E-Learning curriculum consists of the following areas.
+The intent of the E-Learning Day is to provide an experience for students to learn from home,&nbsp;supported by technology. This also serves as an important exercise in preparation for any&nbsp;emergency school closures so that learning can continue to take place from home. The E-Learning curriculum consists of the following areas.
 
 | A 	| B 	|
 |:---:	|:---:	|
