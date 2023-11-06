@@ -4,7 +4,7 @@ permalink: /communication/admission-to-temasek-primary/
 description: ""
 variant: markdown
 ---
-Application for 2024 waitlist is now open and will close on 15 November 2023. 
+Application for 2024 waitlist is now open and will close on 20 November 2023. 
 
 If you would like for your child to be on our waitlist for Primary 2 to 6 for Academic Year 2024, please fill in the waitlist form below and submit it together with the supporting documents to Temasek_ps@moe.edu.sg by 20 November 2023.
 
