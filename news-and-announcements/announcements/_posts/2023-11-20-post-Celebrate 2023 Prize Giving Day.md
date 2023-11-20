@@ -5,8 +5,8 @@ date: 2023-11-20
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 Dear parent and students,
 
-The PSLE Marking Exercise will be from 16-18 October. Please log into Student Learning Space(SLS) for more information regarding your Home-Based Learning.
+Please [click here](https://photos.app.goo.gl/DtMHiRhPHxSHHtzc8) to view the photos of the Prize Giving Day winners.
