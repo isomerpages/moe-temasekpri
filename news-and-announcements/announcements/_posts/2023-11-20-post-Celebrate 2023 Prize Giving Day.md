@@ -7,6 +7,4 @@ description: ""
 image: ""
 variant: markdown
 ---
-Dear parent and students,
-
-Please [click here](https://photos.app.goo.gl/DtMHiRhPHxSHHtzc8) to view the photos of the Prize Giving Day winners.
+Stay tuned for any upcoming announcements in this space. Thank you.
