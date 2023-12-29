@@ -2,17 +2,6 @@
 title: Executive and Administrative Staff
 permalink: /people-our-key/executive-and-admin-staff/
 description: ""
+variant: tiptap
 ---
-### Executive and Administrative Staff
-
-|  	|  	|
-|---	|---	|
-| **Administrative Manager:** 	| Ms Ammerline Tan 	|
-| **School Counsellors:** 	| Mr Jagjeet Singh<br>Ms Beverly Tan 	|
-| **Administrative Executive:** 	| Mdm Zarina Begum Bte Ikbal <br> Mdm Lee Shyh Jia Rachel	|
-| **ICT Associate: <br>** 	| Mr Fabian Lee  	|
-| **Operations Manager:<br>** 	| Mr Tan Toh Lam 	|
-| **Corporate Support Officers:** 	| Mdm Corine Tan <br> Mdm Yvonne Tan	|
-| **Operations Support Officers:<br>** 	| Ms Sew Siok Leng <br>Mdm Lily <br>Ms Chio Soo Luang <br>Mr Yeo Cheng Moh 	|
-| **ICT Support Officers:<br>** 	| Ms Syaira Amira Bte Jamal Abdul Nasir <br>Mr Mohd Sazuwan Bin Hadiyanto<br> Mr Hykel Bin Jumari 	|
-| **Librarian:** 	| Ms Sohana Abdul Malik 	|
+<h3>Executive and Administrative Staff</h3><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Administrative Manager:</strong></p></td><td rowspan="1" colspan="1"><p>Ms Ammerline Tan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>School Counsellors:</strong></p></td><td rowspan="1" colspan="1"><p>Mr Jagjeet Singh<br>Ms Beverly Tan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Administrative Executive:</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Zarina Begum Bte Ikbal </p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>ICT Manager: <br></strong></p></td><td rowspan="1" colspan="1"><p>Mr Fabian Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Manager:<br></strong></p></td><td rowspan="1" colspan="1"><p>Mr Tan Toh Lam</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Corporate Support Officers:</strong></p></td><td rowspan="1" colspan="1"><p>Mdm Corine Tan <br>Mdm Yvonne Tan</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Operations Support Officers:<br></strong></p></td><td rowspan="1" colspan="1"><p>Ms Sew Siok Leng <br>Mdm Lily <br>Ms Chio Soo Luang <br>Mr Yeo Cheng Moh</p><p>Mr Harun Bin Ismail</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>ICT Support Officers:<br></strong></p></td><td rowspan="1" colspan="1"><p>Mr Mohd Sazuwan Bin Hadiyanto<br>Mr Hykel Bin Jumari</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Librarian:</strong></p></td><td rowspan="1" colspan="1"><p>Ms Sohana Abdul Malik</p></td></tr></tbody></table><p></p>
