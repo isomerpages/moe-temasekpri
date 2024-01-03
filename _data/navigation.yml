@@ -1,0 +1,75 @@
+logo: /images/tpslogo.png
+links:
+  - title: About Us
+    url: /about-us/mission-vision-values-crest/
+    sublinks:
+      - title: Mission, Vision & Values
+        url: /about-us/mission-vision-values-crest/
+      - title: School History
+        url: /about-us/school-history/
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our Corporate Logos
+        url: /about-us/our-corporate-logos/
+      - title: Our School Song
+        url: /about-us/our-school-song/
+      - title: School Rules & Regulations
+        url: /about-us/school-rules-and-regulations/overview/
+      - title: Contact Us
+        url: /about-us/contact-us/
+      - title: School Services
+        url: /about-us/school-services/school-bookshop/
+  - title: Pupils Our Pride
+    url: /pupils-our-pride/our-learner-outcomes/
+    sublinks:
+      - title: Our Learner Outcomes
+        url: /pupils-our-pride/our-learner-outcomes/
+      - title: Student Well-being
+        url: /pupils-our-pride/character-education/
+      - title: Co-Curricular Activities (CCA)
+        url: /pupils-our-pride/cca/
+      - title: Programme for Active Learning
+        url: /pupils-our-pride/programme-for-active-learning/
+      - title: Forms
+        url: /pupils-our-pride/forms/
+      - title: Admission to Temasek Primary
+        url: /communication/admission-to-temasek-primary/
+  - title: People Our Key
+    url: /people-our-key/management-board-committee/
+    sublinks:
+      - title: School Management Board
+        url: /people-our-key/management-board-committee/
+      - title: Teaching Staff
+        url: /people-our-key/teaching-staff/
+      - title: Executive & Admin Staff
+        url: /people-our-key/executive-and-admin-staff/
+      - title: Other Teaching Staff
+        url: /people-our-key/other-teaching-staff
+      - title: Departments
+        url: /people-our-key/departments/overview/
+      - title: Affirmation & Recognition
+        url: /affirmation-and-recognition/National-Awards/PAT-and-OYEA/
+  - title: Partners Our Links
+    url: /partners-our-links/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /partners-our-links/school-advisory-committee/
+      - title: Parents
+        url: /partners-our-links/parents/parent-connection-committee/
+      - title: Alumni
+        url: /partners-our-links/alumni/
+      - title: External Partnerships
+        url: /partners-our-links/external-partnerships/
+      - title: School Visitors
+        url: /partners-our-links/school-visitors/overview/
+  - title: MK @ Temasek
+    url: /moe-kindergarten/about-us/our-vision-and-mission/
+    sublinks:
+      - title: About Us
+        url: /moe-kindergarten/about-us/our-vision-and-mission/
+      - title: MK@Temasek Experience
+        url: /moe-kindergarten/MK-Temasek-Experience/Our-Curriculum/
+      - title: MK Events
+        url: /moe-kindergarten/MK-Events/2023/
+      - title: Kindergarten Care (KCare)
+        url: /moe-kindergarten/kindergarten-care/

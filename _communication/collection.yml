@@ -1,0 +1,8 @@
+collections:
+  communication:
+    output: true
+    order:
+      - Admission to Temasek Primary.md
+      - Temasek in the News.md
+      - Terms of Use.md
+      - Privacy Statement.md
