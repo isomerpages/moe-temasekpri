@@ -9,7 +9,7 @@ variant: markdown
 |  	|  	|
 |---	|---	|
 | Head Of Department  	| Mrs Yee - Lua Sin Nee <br>Ms Jastina Putri Bte Marhajas (Level Head)<br>Miss May O (Year Head) <br>Mr Martin Goh (Year Head)<br>Ms Arveen Kaur (Assistant Year Head)<br>Miss Loh Ooi Wan (School Staff Developer)<br>Mrs Yeo - Ng Siok Hoon (Lead Teacher)<br>  	|
-| Members 	| Mrs Vikirawati Choo <br>Mrs Ong Cai Ling <br>Mrs Reavathiy Kumar<br>Ms Nancy Chia <br>Mr Bernard Lee <br>Mdm Choo Ping Li<br>Ms Seri Zalikha<br>Mdm Jean Lim<br>Ms Sheryl Eng Chin Chin 	|
+| Members 	| Mrs Vikirawati Choo <br>Mrs Ong Cai Ling <br>Mrs Reavathiy Kumar<br>Ms Nancy Chia <br>Mr Bernard Lee <br>Mdm Choo Ping Li<br>Ms Seri Zalikha<br>Mdm Jean Lim<br>Ms Sheryl Eng Chin Chin<br>Ms Raelene Koh 	|
 
 ##### Philosophy/ Rationale
 
