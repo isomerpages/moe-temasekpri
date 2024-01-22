@@ -1,34 +1,8 @@
 ---
 title: Our Learning Environment
-permalink: /moe-kindergarten/MK-Temasek-Experience/Our-Learning-Environment/
+permalink: /moe-kindergarten/mk-temasek-experience/our-learning-environment/
 description: ""
 third_nav_title: MK@Temasek Experience
+variant: markdown
 ---
-<div style="box-sizing: border-box; display: flex;">
-<img src="/images/le-1.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	<img src="/images/le-2.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	</div>
-
-<div style="box-sizing: border-box; display: flex;">
-<img src="/images/le-3.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	<img src="/images/le-4.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	</div>
-
-<div style="box-sizing: border-box; display: flex;">
-<img src="/images/le-6.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	<img src="/images/le-7.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	</div>
-	
-<div style="box-sizing: border-box; display: flex;">
-<img src="/images/le-8.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	<img src="/images/le-9.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	</div>
-
-<div style="box-sizing: border-box; display: flex;">
-<img src="/images/le-10.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	<img src="/images/le-11.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	</div>
-	
-<div style="box-sizing: border-box; display: flex;">
-<img src="/images/le-12.jpg" style="width:250px; flex: 33.33%; padding: 5px;">
-	</div>
+<div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Reading_Cove.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-1.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-2.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-3.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-4.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-6.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-8.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-9.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Garden.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-11.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Tricycle_Area.jpg"></div><div class="isomer-image-wrapper"></div>
