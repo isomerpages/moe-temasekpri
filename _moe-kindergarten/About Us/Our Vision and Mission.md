@@ -3,6 +3,7 @@ title: Our Vision and Mission
 permalink: /moe-kindergarten/about-us/our-vision-and-mission/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 #### A strong start for every child
 **Our vision** is to provide a strong start for every child.
