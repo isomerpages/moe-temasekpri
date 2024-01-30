@@ -3,14 +3,15 @@ title: Our Team
 permalink: /moe-kindergarten/about-us/our-team/
 description: ""
 third_nav_title: About Us
-variant: markdown
+variant: tiptap
 ---
 <h3>Our Family</h3>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Principal</p>
+<p><strong>Principal</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Alison Ho</p>
