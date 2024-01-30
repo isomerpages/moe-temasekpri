@@ -5,7 +5,7 @@ description: ""
 third_nav_title: About Us
 variant: tiptap
 ---
-<h3>Our Family</h3>
+<h3>Our Team</h3>
 <table>
 <tbody>
 <tr>
