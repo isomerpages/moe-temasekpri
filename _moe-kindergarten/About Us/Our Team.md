@@ -22,7 +22,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Doris Lai (Centre Head)</p>
+<p>Mrs Doris Lai <strong>(Centre Head)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,8 +32,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zann (Level Head)</p>
-<p>Ms Shirley (Level Coordinator)</p>
+<p>Ms Zann <strong>(Level Head)</strong>
+</p>
+<p>Ms Shirley <strong>(Level Coordinator)</strong>
+</p>
 <p>Ms Nadhrah</p>
 <p>Ms Li Ying</p>
 <p>Ms Claren</p>
