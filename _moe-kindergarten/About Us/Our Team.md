@@ -9,9 +9,9 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Principal</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mrs Alison Ho</p>
 </td>
