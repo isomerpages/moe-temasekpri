@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - MOE Kindergarten Open House.md
       - About Us/.keep
       - About Us/Our Vision and Mission.md
       - About Us/Our Pedagogical Practices.md
