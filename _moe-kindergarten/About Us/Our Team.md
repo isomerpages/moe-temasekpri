@@ -55,7 +55,7 @@ variant: tiptap
 <p>Zhu Laoshi (朱老师)</p>
 <p>Li Laoshi (李老师)</p>
 <p>He Laoshi (何老师)</p>
-<p>Zhuo Laoshi (卓老师)</p>
+<p>Zhao Laoshi (赵老师)</p>
 </td>
 </tr>
 <tr>
