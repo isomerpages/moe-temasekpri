@@ -12,9 +12,9 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p>Principal</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mrs Alison Ho</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
