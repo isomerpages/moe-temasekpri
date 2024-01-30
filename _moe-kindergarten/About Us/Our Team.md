@@ -3,7 +3,7 @@ title: Our Team
 permalink: /moe-kindergarten/about-us/our-team/
 description: ""
 third_nav_title: About Us
-variant: markdown
+variant: tiptap
 ---
 <h3>Our Family</h3>
 <table>
@@ -18,7 +18,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Centre Leaders</p>
+<p><strong>Centre Leaders</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Doris Lai (Centre Head)</p>
@@ -26,7 +27,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language Team</p>
+<p><strong>English Language Team</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zann (Level Head)</p>
@@ -42,7 +44,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Language Team</p>
+<p><strong>Chinese Language Team</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhu Laoshi (朱老师)</p>
@@ -53,7 +56,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Language Team</p>
+<p><strong>Malay Language Team</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cikgu Nisah</p>
@@ -61,7 +65,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Language Team</p>
+<p><strong>Tamil Language Team</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Vanathi</p>
