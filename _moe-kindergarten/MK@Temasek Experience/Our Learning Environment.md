@@ -3,6 +3,82 @@ title: Our Learning Environment
 permalink: /moe-kindergarten/mk-temasek-experience/our-learning-environment/
 description: ""
 third_nav_title: MK@Temasek Experience
-variant: markdown
+variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Reading_Cove.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-1.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-2.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-3.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-4.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-6.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-8.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-9.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Garden.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-11.jpg"></div><div class="isomer-image-wrapper"><img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Tricycle_Area.jpg"></div><div class="isomer-image-wrapper"></div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Reading_Cove.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-9.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/Garden.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:250px; flex: 33.33%; padding: 5px;" height="auto" width="100%" src="/images/le-11.jpg">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Open_House.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reading_Cove.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tricycle_Area.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
