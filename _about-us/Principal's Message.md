@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3>Principal's Message</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Alison_Ho.jpeg">
+<img style="width: 50%" height="auto" width="50%" alt="" src="/images/Mrs_Alison_Ho.jpeg">
 </div>
 <p>Temasek Primary started academic year 2024 well with our customary “Temasek
 Starts Right”, to set a good foundation for strong relationships and respectful
