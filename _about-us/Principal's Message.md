@@ -2,11 +2,11 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h3>Principal's Message</h3>
+<h4>Principal's Message</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Alison_Ho.jpeg">
+<img style="width: 45%" height="auto" width="45%" alt="" src="/images/Mrs_Alison_Ho.jpeg">
 </div>
 <p>Temasek Primary started academic year 2024 well with our customary “Temasek
 Starts Right”, to set a good foundation for strong relationships and respectful
@@ -65,6 +65,6 @@ where we involve our students in showing appreciation for others’ contribution
 a Creator, Connector and Contributor, and we hope to be able to provide
 support for them as they pursue their own excellence.</p>
 <p>Cheers to another great year together – Forward Together, Temasek!</p>
-Cheers, 
-<br>Mrs Alison Ho<br>
-Principal
+<p>Cheers,
+<br>Mrs Alison Ho
+<br>Principal</p>
