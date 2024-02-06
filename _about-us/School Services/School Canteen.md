@@ -6,14 +6,14 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h3>Vacancy for a <u>Malay Mixed Rice and Noodles Stall</u></h3>
-<p><strong>School Canteen Operating Hours:</strong>
+<p><strong>School Canteen Operating Hours:</strong> 
 <br>We are a single session school with an estimated enrolment of 1225 pupils
 and about 125 staff in year 2024. Our canteen operates from <u>Mondays to Fridays, 7.00am to 2.30pm</u> during
 the school term. The stall will be required to operate during School Holidays,
 where necessary, at the request of the school.
 <br>
 </p>
-<p><strong>Requirements:</strong>
+<p><strong>Requirements:</strong> 
 <br>Applicants should meet the following criteria:
 <br>
 </p>
@@ -74,13 +74,13 @@ must attend the Healthy Meals in School Programme workshop
 </p>
 </li>
 </ul>
-<p><strong>Application Procedures</strong>
+<p><strong>Application Procedures</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. <a href="/files/application%20form%20-%20canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">[Application Form]</a>
+hardcopy from the School’s General Office. <a href="/files/application%20form%20-%20canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">[Application Form]</a> 
 <br>
 </p>
 </li>
@@ -106,14 +106,14 @@ certificates of applicant and stall assistant/s</p>
 </p>
 </li>
 </ul>
-<p><strong>Submission of Application</strong>
+<p><strong>Submission of Application</strong> 
 <br>Please submit the completed application form with the supporting documents
-to the school’s General Office or email temasek_ps@moe.edu.sg by <strong>31 March 2024.</strong>
+to the school’s General Office or email temasek_ps@moe.edu.sg by <strong>31 March 2024.</strong> 
 <br>
 <br>Only shortlisted applicants will be contacted for an interview and food
 tasting session. Incomplete and late applications may not be considered.
 <br>
-<br><strong>For Enquires</strong>
+<br><strong>For Enquires</strong> 
 <br>For further enquiries, please contact below:
 <br>
 <br><strong>Contact Name:</strong> Mr Tan Toh Lam, Operations Manager
