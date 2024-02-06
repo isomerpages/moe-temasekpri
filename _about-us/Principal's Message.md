@@ -2,7 +2,7 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Principal's Message</h3>
 <div class="isomer-image-wrapper">
@@ -66,5 +66,5 @@ a Creator, Connector and Contributor, and we hope to be able to provide
 support for them as they pursue their own excellence.</p>
 <p>Cheers to another great year together – Forward Together, Temasek!</p>
 <p>Cheers,</p>
-Mrs Alison Ho
-Principal
+<p>Mrs Alison Ho</p>
+<p>Principal</p>
