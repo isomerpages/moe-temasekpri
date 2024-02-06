@@ -65,7 +65,6 @@ where we involve our students in showing appreciation for others’ contribution
 a Creator, Connector and Contributor, and we hope to be able to provide
 support for them as they pursue their own excellence.</p>
 <p>Cheers to another great year together – Forward Together, Temasek!</p>
-<p>&nbsp;</p>
 <p>Cheers,</p>
-<p>Mrs Alison Ho</p>
-<p>Principal</p>
+Mrs Alison Ho
+Principal
