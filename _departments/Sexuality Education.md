@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /departments/sexuality-education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Sexuality Education (Growing Years)</h3>
 <h4>MOE Sexuality Education in Schools&nbsp;&nbsp; &nbsp;</h4>
@@ -94,7 +94,7 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At TEMASEK Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2023</strong>
+<p><strong>At Temasek Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2023</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexuality%20education%20title.png">
@@ -107,7 +107,7 @@ responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_6_Growing_Years.jpg">
 </div>
-<p><strong>Information for Parents</strong>
+<p><strong>Information for Parents</strong> 
 <br>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
