@@ -94,10 +94,10 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Temasek Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2023</strong>
+<p><strong>At Temasek Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2024</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sexuality%20education%20title.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header.PNG">
 </div>
 <h5>Primary 5</h5>
 <div class="isomer-image-wrapper">
