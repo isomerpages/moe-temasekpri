@@ -9,7 +9,12 @@ variant: tiptap
 <p><strong>Primary 1</strong>
 <br><strong>Year Head: Ms May O Guat Bee</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,12 +32,12 @@ variant: tiptap
 <p>1 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati Che’lah</p>
+<p>Mrs Elfy Ara</p>
 <p>Mr Denzel Lim</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norhayati_chelah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_chelah@schools.gov.sg</a>
+<p><a href="mailto:norhayati_chelah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yi_yu_elfy@schools.gov.sg</a>
 </p>
 <p><a href="mailto:Denzel_Lim_Ye_Han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denzel_lim_ye_han@schools.gov.sg</a>
 </p>
@@ -104,11 +109,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Seri Zalikha</p>
 <p>Mdm Lin Haizhen</p>
+<p>Ms Jasmine Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seri_zalikha_mohamed_zakariah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seri_zalikha_mohamed_zakariah@schools.gov.sg</a>
 </p>
 <p><a href="mailto:lin_haizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_haizhen@schools.gov.sg</a>
+</p>
+<p><a href="mailto:jasmine_sim_mei_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_sim_mei_xing@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -133,7 +141,12 @@ variant: tiptap
 <br><strong>Year Head: Ms May O Guat Bee</strong>
 <br><strong>Assistant Year Head: Mdm Azlinah Bte Abu Bakar</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -214,11 +227,11 @@ variant: tiptap
 <p>2 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salina Bte Rahmat</p>
+<p>Ms Tang Siaw Wen</p>
 <p>Mdm Yeow Puay Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:salina_ramat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">salina_ramat@schools.gov.sg</a>
+<p><a href="mailto:salina_ramat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_siaw_wen@schools.gov.sg</a>
 </p>
 <p><a href="mailto:yeow_puay_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_puay_geok@schools.gov.sg</a>
 </p>
@@ -259,7 +272,12 @@ variant: tiptap
 <p><strong>Primary 3</strong> 
 <br><strong>Year Head: Mrs Kel Gibson</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -353,7 +371,12 @@ variant: tiptap
 <br><strong>Year Head: Mrs Kel Gibson</strong> 
 <br><strong>Assistant Year Head: Ms Arveen Kaur</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -447,7 +470,12 @@ variant: tiptap
 <br><strong>Year Head: Mr Goh Poh Huat Martin</strong>
 <br><strong>Assistant Year Head: Ms Arunah Rahman</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -465,16 +493,14 @@ variant: tiptap
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Diyar Bin Mustapa
+<p>Mr Muhammad Diyar Bin Mustapa</p>
+<p>
 <br>Mrs Sharon Koh</p>
-<p>Mdm Elfy Lee Yi Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhamad_diyar_bin_mustapa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_diyar_bin_mustapa@schools.gov.sg</a>
 </p>
 <p><a href="mailto:li_simin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_simin@schools.gov.sg</a>
-</p>
-<p><a href="mailto:LEE_Yi_Yu_Elfy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yi_yu_elfy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -543,7 +569,12 @@ variant: tiptap
 <p><strong>Primary 6</strong> 
 <br><strong>Year Head: Mr Goh Poh Huat Martin</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -562,12 +593,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Dzulqarni Bin Mohd Safii</p>
-<p>Ms Tang Siaw Wen</p>
+<p>Mr Clement Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_dzulqarni_mohd_safii@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_dzulqarni_mohd_safii@schools.gov.sg</a>
 </p>
-<p><a href="mailto:tang_siaw_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_siaw_wen@schools.gov.sg</a>
+<p><a href="mailto:tang_siaw_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shihong_clement_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
