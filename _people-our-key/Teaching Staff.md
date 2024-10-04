@@ -116,7 +116,7 @@ variant: tiptap
 </p>
 <p><a href="mailto:lin_haizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_haizhen@schools.gov.sg</a>
 </p>
-<p><a href="mailto:jasmine_sim_mei_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_sim_mei_xing@schools.gov.sg</a> 
+<p><a href="mailto:jasmine_sim_mei_xing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jasmine_sim_mei_xing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -658,7 +658,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_li_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_tze@schools.gov.sg</a>
 </p>
-<p><a href="mailto:varatharaja_reavathiy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">varatharaja_reavathiy@schools.gov.sg</a>
+<p><a href="mailto:varatharaja_reavathiy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">varatharaja_reavathiy_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
