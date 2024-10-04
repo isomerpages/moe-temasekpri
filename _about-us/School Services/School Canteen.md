@@ -5,12 +5,12 @@ description: ""
 third_nav_title: School Services
 variant: tiptap
 ---
-<h3>Vacancy for a <u>Malay Mixed Rice and Noodles Stall</u></h3>
+<h3>Vacancy for a <strong><u>Chinese Mixed Rice/Japanese Food Stall</u></strong></h3>
 <p><strong>School Canteen Operating Hours:</strong> 
-<br>We are a single session school with an estimated enrolment of 1225 pupils
-and about 125 staff in year 2024. Our canteen operates from <u>Mondays to Fridays, 7.00am to 2.30pm</u> during
-the school term. The stall will be required to operate during School Holidays,
-where necessary, at the request of the school.
+<br>We are a single session school with an estimated enrolment of&nbsp;1250
+students and 130 staffs in year 2025. Our canteen operates from <u>Mondays to Fridays, 7.00am to 2.30pm</u> during
+the school term. The stall will be required to operate during&nbsp;School
+Holidays, where necessary, at the request of the school.
 <br>
 </p>
 <p><strong>Requirements:</strong> 
@@ -108,7 +108,7 @@ certificates of applicant and stall assistant/s</p>
 </ul>
 <p><strong>Submission of Application</strong> 
 <br>Please submit the completed application form with the supporting documents
-to the school’s General Office or email temasek_ps@moe.edu.sg by <strong>31 March 2024.</strong> 
+to the school’s General Office or email temasek_ps@moe.edu.sg by <strong>25 October 2024.</strong> 
 <br>
 <br>Only shortlisted applicants will be contacted for an interview and food
 tasting session. Incomplete and late applications may not be considered.
@@ -122,7 +122,12 @@ tasting session. Incomplete and late applications may not be considered.
 469300</p>
 <hr>
 <h3>School Canteen</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -176,11 +181,23 @@ tasting session. Incomplete and late applications may not be considered.
 <p>Stall 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Wild Wild West<br>(Muslim-owned)<br></strong>
+<p><strong>Wild Wild West<br>(Halal)<br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pasta, Burrito, Chicken chop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stall 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selera Temasek (Halal) </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nasi Padang, Nasi Lemak, Mee Soto</p>
 </td>
 </tr>
 <tr>
