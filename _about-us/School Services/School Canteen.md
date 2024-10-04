@@ -80,7 +80,7 @@ must attend the Healthy Meals in School Programme workshop
 <ul data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. <a href="/files/application%20form%20-%20canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">[Application Form]</a> 
+hardcopy from the School’s General Office. <a href="/files/application form - canteen.pdf" rel="noopener nofollow" target="_blank">[Application Form]</a>
 <br>
 </p>
 </li>
@@ -193,7 +193,7 @@ tasting session. Incomplete and late applications may not be considered.
 <p>Stall 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selera Temasek (Halal) </strong>
+<p><strong>Selera Temasek (Halal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
