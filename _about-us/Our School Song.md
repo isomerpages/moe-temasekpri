@@ -2,12 +2,12 @@
 title: Our School Song
 permalink: /about-us/our-school-song/
 description: ""
+variant: markdown
 ---
 ### Our School Song
 
-<iframe width="560" height="100" src="https://www.youtube.com/embed/ZPcS7umBTPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-We are young, we are strong   
+We are young, we are strong&nbsp;  
 
   
 
