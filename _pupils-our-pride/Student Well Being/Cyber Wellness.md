@@ -1,8 +1,9 @@
 ---
 title: Cyber Wellness
-permalink: /pupils-our-pride/Student-Well-Being/cyber-wellness
+permalink: /pupils-our-pride/Student-Well-Being/cyber-wellness/
 description: ""
 third_nav_title: Student Well Being
+variant: markdown
 ---
 ### Cyber Wellness
 
@@ -24,11 +25,9 @@ These 3 main principles will guide your child's decision-making and anchor their
 
 At Temasek Primary School, we engage students in acquiring New Media Literacies through Digital Literacy lessons and Cyber Wellness lessons. Lessons are mainly carried out during the Form Teacher Guidance Period (FTGP).In addition to cyber wellness lessons, student leaders also known as Cyber Wellness Ambassadors are supported with platforms for learning and sharing. Student leaders undergo training and are tasked to reach out to their peers on cyber wellness topics such as ‘Oversharing’ and ‘Fake News’.
 
-<img src="/images/cw1.png" 
-     style="width:60%">
+<img src="/images/cw1.png" style="width:60%">
 		 
-<img src="/images/cw2.png" 
-     style="width:60%">
+<img src="/images/cw2.png" style="width:60%">
 		 
 **CW curriculum: at a glance**
 
@@ -40,19 +39,18 @@ At Temasek Primary School, we engage students in acquiring New Media Literacies 
 | Cyber Citizenship 	| Understanding the cyber world<br>Handling online content and behaviour<br>Having a positive presence in the cyber community 	|
 | Cyber Ethics 	| Creating and sharing of online content in a responsible manner<br>Respecting copyright 	|
 
-Source : [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)  
+Source :&nbsp;[https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
   
-**Useful resources for parents** 
-<br>Parent and teacher supervision are essential in ensuring appropriate content and behaviour for our students. 
+**Useful resources for parents**&nbsp;
+<br>Parent and teacher supervision are essential in ensuring appropriate content and behaviour for our students.&nbsp;
 
-Below are a list of useful resources to provide you with useful tips on how to manage your children’s digital technology use.  
+Below are a list of useful resources to provide you with useful tips on how to manage your children’s digital technology use.&nbsp;&nbsp;
 
 1\.  [https://www.schoolbag.edu.sg/story/understanding-cyber-wellness#.VsLOaJp97IU](https://www.schoolbag.edu.sg/story/understanding-cyber-wellness#.VsLOaJp97IU)
 <br>2.  [https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely](https://www.schoolbag.edu.sg/story/navigating-the-cyber-world-safely)
 <br>3.  [https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use](https://www.schoolbag.edu.sg/story/ict-in-schools-to-use-or-not-to-use)  <br>4.  [https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction](https://www.schoolbag.edu.sg/story/play-safe-avoid-online-gaming-addiction)
-<br>5.  [https://www.schoolbag.edu.sg/story/safeguarding-your-child-online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
+<br>5. [https://www.schoolbag.edu.sg/story/safeguarding-your-child-online](https://www.schoolbag.edu.sg/story/safeguarding-your-child-online)
 <br>6.  [https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently](https://www.schoolbag.edu.sg/story/exploring-online-safely-and-confidently)
-<br>7.  [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
-<br>8.  [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)
-<br>9.  [https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)
-<br>10.  [https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students](https://www.csa.gov.sg/Programmes/sg-cyber-safe-students/about-sg-cyber-safe-students)
+<br>7. [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)
+<br>8.  [https://www.nlb.gov.sg/main/site/sure-elevated](https://www.nlb.gov.sg/main/site/sure-elevated)
+<br>
