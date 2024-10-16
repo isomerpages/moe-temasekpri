@@ -32,8 +32,8 @@ variant: markdown
 |---	|---	|
 | HOD CCE  	| Mdm Tan Shih Ray       	|
 | SH STUDENT MANAGEMENT 	| Mr Muhammad Haziq     |
-| AED (COUNSELLORS) 	| Mr Jagjeet Singh<br>Ms Beverly Tan 	|
-| ALLIED EDUCATOR (LBS) 	| Ms Ong May Chin<br>Mr Muhd Anas 	|
+| SCHOOL COUNSELLORS 	| Mr Jagjeet Singh<br>Ms Beverly Tan 	|
+| SEN OFFICERS 	| Ms Ong May Chin<br>Mr Muhd Anas 	|
 
 The Student Development Team seeks to provide a safe, respectful and disciplined learning environment for students where they have opportunities to engage in quality learning experience and acquire values supportive of their lifelong well-being. Our objective is to build a culture of care which is conducive for the holistic development of our students.  
 
