@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Teaching Staff</h3>
-<h4>Class Form Teachers 2024</h4>
+<h4>Class Form Teachers 2025</h4>
 <p><strong>Primary 1</strong>
 <br><strong>Year Head: Ms May O Guat Bee</strong>
 </p>
