@@ -72,7 +72,7 @@ education contributes to the holistic education and the development of
 <br>(Assistant Year Head - Lower Pri)
 <br>
 <br>Mr Muhammad Haziq
-<br>(Covering Subject Head - Student Management)
+<br>(Subject Head - Student Management)
 <br>
 <br>Ms Janane Elangkovan
 <br>(Covering Level Head - Physical Education/CCA)</p>
@@ -82,6 +82,8 @@ education contributes to the holistic education and the development of
 <p></p>
 <p>
 <br>Ms Lim Si Qi</p>
+<p></p>
+<p>Mrs Annie Choy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Azlinah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Azlinah_abu_bakar@schools.gov.sg</a>
@@ -103,6 +105,9 @@ education contributes to the holistic education and the development of
 <br><a href="mailto:Muhammad_diyar_mustapa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_diyar_mustapa@schools.gov.sg</a>
 </p>
 <p><a href="mailto:Lim_Si_Qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Si_Qi@schools.gov.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:low_teck_chua_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_teck_chua_annie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
