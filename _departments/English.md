@@ -32,16 +32,21 @@ variant: tiptap
 <p>Members:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shafiza (LH EL)
+<p>Mdm Shafiza (LH EL)</p>
+<p>Mrs Kel Gibson (YH)
 <br>Ms Arunah Rahman (AYH)
 <br>Ms Nazlie Abdul Rashid (ST EL)
-<br>Mdm Norhayati Chelah (LSC / RRP Instructor)
+<br>Mdm Norhayati Chelah (LSC / RRP Instructor)</p>
+<p>Ms Elfy Lee (LSP/RRP)
 <br>Ms Vivian Chong (SDR Instructor)
 <br>Mdm Nariman Bte Saruan (RRP Instructor)
 <br>Ms Joy Tan Yi Wei
 <br>Ms Chen YunTing, Carol
 <br>Ms Syazwani Binte Ashraff
-<br>Ms Melody Heng Jing Hui
+<br>Ms Melody Heng Jing Hui</p>
+<p>Mdm Salha Bte Ghazali</p>
+<p>Ms Jessica Lim (CAJT)</p>
+<p>Mdm Rafizah (FAJT)
 <br>Mrs Nirmala Sharma (FAJT)
 <br>Ms Sharon Lai (FAJT)</p>
 </td>
