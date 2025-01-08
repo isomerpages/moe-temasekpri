@@ -38,14 +38,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Stall 3</p>
+<p>Staff 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Japanese Delights</strong>
+<p><strong>Mix &amp; Match</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Japanese rice and noodles, Steamed egg custard</p>
+<p>Chinese mixed rice and noodles</p>
 </td>
 </tr>
 <tr>
@@ -70,18 +70,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Pasta, Burrito, Chicken chop</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Stall 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selera Temasek (Halal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nasi Padang, Nasi Lemak, Mee Soto</p>
 </td>
 </tr>
 <tr>
