@@ -46,6 +46,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nadiah Binte Abdul Wahab</p>
 <p>Ms Liao Wanting</p>
+<p>Mr William Chan (FAJT)</p>
 </td>
 </tr>
 <tr>
