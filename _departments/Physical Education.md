@@ -68,14 +68,16 @@ education contributes to the holistic education and the development of
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Janane Elangkovan
+<br>(Covering Level Head - Physical Education/CCA)</p>
+<p></p>
+<p>Mrs Annie Choy</p>
+<p></p>
 <p>Mdm Azlinah
 <br>(Assistant Year Head - Lower Pri)
 <br>
 <br>Mr Muhammad Haziq
-<br>(Subject Head - Student Management)
-<br>
-<br>Ms Janane Elangkovan
-<br>(Covering Level Head - Physical Education/CCA)</p>
+<br>(Subject Head - Student Management)</p>
 <p></p>
 <p>Mr Muhammad Diyar</p>
 <p></p>
@@ -83,9 +85,19 @@ education contributes to the holistic education and the development of
 <p>
 <br>Ms Lim Si Qi</p>
 <p></p>
-<p>Mrs Annie Choy</p>
+<p></p>
+<p>Mr Yazid Dasmin</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:Janane_elangkovan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Janane_elangkovan@schools.gov.sg</u></a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="mailto:low_teck_chua_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_teck_chua_annie@schools.gov.sg</a>
+</p>
+<p></p>
+<p></p>
 <p><a href="mailto:Azlinah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Azlinah_abu_bakar@schools.gov.sg</a>
 <br>
 <br>
@@ -94,20 +106,15 @@ education contributes to the holistic education and the development of
 <br>
 </p>
 <p></p>
-<p></p>
 <p>
-<br><a href="mailto:Janane_elangkovan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Janane_elangkovan@schools.gov.sg</a>
-</p>
-<p></p>
-<p>
-<br>
-<br>
 <br><a href="mailto:Muhammad_diyar_mustapa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_diyar_mustapa@schools.gov.sg</a>
 </p>
+<p></p>
+<p></p>
 <p><a href="mailto:Lim_Si_Qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Si_Qi@schools.gov.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:low_teck_chua_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_teck_chua_annie@schools.gov.sg</a>
+<p><a href="mailto:yazid_dasimin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yazid_dasimin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
