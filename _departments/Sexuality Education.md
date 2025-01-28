@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h3>Sexuality Education (Growing Years)</h3>
 <h4>MOE Sexuality Education in Schools&nbsp;&nbsp; &nbsp;</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +26,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Choo Ping Li
-<br>Mdm Tan Shih Ray</p>
+<br>Mrs Annie Choy</p>
 </td>
 </tr>
 </tbody>
@@ -62,7 +66,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>Overview of Temasek Primary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Temasek Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -94,18 +98,15 @@ social and emotional changes in their growing years. They learn to build
 healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At Temasek Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2024</strong>
+<p><strong>At Temasek Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2025</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Header.PNG">
-</div>
 <h5>Primary 5</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_5_Growing_Years.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_5.jpg">
 </div>
 <h5>Primary 6</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_6_Growing_Years.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary_6.jpg">
 </div>
 <p><strong>Information for Parents</strong> 
 <br>8. Parents may opt their children out of Sexuality Education lessons,
@@ -113,7 +114,7 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education Programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated &nbsp;to parents
-at the start of the year and is also accessible <a href="https://go.gov.sg/p5-growingyears-2024" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by 23 February 2024.</p>
+at the start of the year and is also accessible <a href="https://go.gov.sg/tmps-gy-2025-2026" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
+form is to be submitted by 3 February 2025.</p>
 <p>10. Parents can contact the school at <strong>6443 8134</strong> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
