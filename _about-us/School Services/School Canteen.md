@@ -160,7 +160,7 @@ certificates of applicant and stall assistant/s.</p>
 <p><strong>Submission of Application</strong>
 </p>
 <p>Please submit the completed application form with the supporting documents
-to the school’s General Office or email <a rel="noopener noreferrer nofollow" target="_blank">temasek_ps@moe.edu.sg</a> by <strong>22 January 2025.</strong>
+to the school’s General Office or email <a rel="noopener noreferrer nofollow" target="_blank">temasek_ps@moe.edu.sg</a> by <strong>14 February 2025.</strong>
 </p>
 <p>Only shortlisted applicants will be contacted for an interview and&nbsp;food
 tasting session. Incomplete and late applications may not be considered.</p>
