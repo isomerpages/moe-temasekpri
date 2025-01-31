@@ -2,6 +2,7 @@ collections:
   mk-photos:
     output: true
     order:
+      - 2024 Year End Celebration.md
       - Racial Harmony Day.md
       - Project on Ants.md
       - Play at Stadium.md
