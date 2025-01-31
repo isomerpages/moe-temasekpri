@@ -4,16 +4,38 @@ permalink: /moe-kindergarten/2024openhouse/
 variant: tiptap
 description: ""
 ---
-<h4><strong>2024 MOE Kindergarten Open House</strong></h4>
-<p>MK@Temasek will be holding an Open House for parents to tour the learning
-environment and speak to our MK educators in person. We warmly welcome
-you and your child to sign up for the 2024 MOE Kindergarten Open House.</p>
-<p>Open House at MK@Temasek will be held on <strong>Saturday, 17th February 2024, 8.30am to 12.30pm.</strong> Parents
-and your child will have the opportunity to get a glimpse of our learning
-environment and speak with our MK educators to understand more about the
-MK curriculum.</p>
+<h4><strong>2025 MOE Kindergarten Open House</strong></h4>
+<p>MK@Temasek will hold an Open House for parents to tour the learning environment
+and speak to our MK educators in person. We welcome you and your child
+to sign up for the 2025 MOE Kindergarten Open House.</p>
+<p>Open House at MK@Temasek will take place on <strong>Saturday, 15th February 2025, 8:30a.m. to 12:00p.m. </strong>During
+this event, parents, guardians and children will have the chance to explore
+our facilities and gain insights into the MK curriculum through discussions
+with our educators.</p>
+<p>You may access the links below to sign up for MK Open House and learn
+more about MK.</p>
+<p>We look forward to seeing you!</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse" rel="noopener nofollow" target="_blank">Open House</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener nofollow" target="_blank">Learn more about MK</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Open_House.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOE_Kindergarten_Open_House_Poster.jpg">
 </div>
 <p></p>
