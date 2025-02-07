@@ -64,7 +64,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department(Mother Tongue Languages)</strong>
+<p><strong>Head of Department</strong>
+</p>
+<p><strong>(Mother Tongue Languages)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +102,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department(Information and Communications Technology)</strong>
+<p><strong>Head of Department</strong>
+</p>
+<p><strong>(Information and Communications Technology)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
