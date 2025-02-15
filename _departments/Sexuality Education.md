@@ -115,6 +115,6 @@ providers.</p>
 <p>9. Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education Programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated &nbsp;to parents
 at the start of the year and is also accessible <a href="https://go.gov.sg/tmps-gy-2025-2026" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by 3 February 2025.</p>
+form is to be submitted by 24 February 2025.</p>
 <p>10. Parents can contact the school at <strong>6443 8134</strong> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
