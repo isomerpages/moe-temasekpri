@@ -241,7 +241,7 @@ variant: tiptap
 <p>Ms Luo Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vikirawati_mohammad_nord@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikirawati_mohammad_nord@schools.gov.sg</a>
+<p><a href="mailto:vikirawati_mohd_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vikirawati_mohd_nordin@schools.gov.sg</a>
 </p>
 <p><a href="mailto:luo_xi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">luo_xi@schools.gov.sg</a>
 </p>
