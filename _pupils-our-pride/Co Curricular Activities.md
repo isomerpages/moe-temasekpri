@@ -117,6 +117,7 @@ variant: tiptap
 <br>
 <br>Teachers in charge:
 <br>Mrs Charis Quek</p>
+<p>Ms Jasmine Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://staging.d19higur8fqack.amplifyapp.com/cca/Club-and-Societies/robotics" rel="noopener noreferrer nofollow" target="_blank"><u>Robotics</u></a>
