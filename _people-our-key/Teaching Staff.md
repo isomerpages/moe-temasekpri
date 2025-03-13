@@ -135,7 +135,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nadiah Abdul Wahab</p>
 <p>Mdm Jean Lim</p>
-<p>Mdm Annie Low</p>
+<p>Mrs Annie Choy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadiah_abdul_wahab@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_wahab@schools.gov.sg</a>
