@@ -3,7 +3,7 @@ title: School Canteen
 permalink: /about-us/school-services/school-canteen/
 description: ""
 third_nav_title: School Services
-variant: tiptap
+variant: markdown
 ---
 <h3>School Canteen</h3>
 <table style="minWidth: 75px">
@@ -97,34 +97,60 @@ Holidays, where necessary, at the request of the school.</p>
 <p><strong>Requirements:</strong>
 </p>
 <p>Applicants should meet the following criteria:</p>
-<p>·&nbsp;&nbsp; Stall holder and assistants(s) must be a Singapore Citizen
-or Singapore Permanent Resident.</p>
-<p>·&nbsp;&nbsp; Able to provide food that meet the health/nutritional standards
-set in Healthy Meals in Schools Programme (HMSP) designed by Health Promotion
+<ul data-tight="true" class="tight">
+<li>
+<p>Stall holder and assistants(s) must be a Singapore Citizen or Singapore
+Permanent Resident.</p>
+</li>
+<li>
+<p>Able to provide food that meet the health/nutritional standards set in
+Healthy Meals in Schools Programme (HMSP) designed by Health Promotion
 Board in collaboration with MOE.</p>
-<p>·&nbsp;&nbsp; Able to provide good service and quality food at reasonable
-prices, in consultation with school</p>
-<p>·&nbsp;&nbsp; Able to observe a high standard of food preparation and
-personal hygiene that meet NEA requirements</p>
-<p>·&nbsp;&nbsp; Must be in personal attendance at the stall during operating
-hours.</p>
-<p>·&nbsp;&nbsp; Maintain cleanliness of the stall, designated food preparation
-area and canteen area.</p>
-<p>·&nbsp;&nbsp; Prior experience in catering or operating a stall in a school
-canteen/F&amp;B experience will be an advantage</p>
-<p>·&nbsp;&nbsp; Any other criteria set by the school.</p>
+</li>
+<li>
+<p>Able to provide good service and quality food at reasonable prices, in
+consultation with school</p>
+</li>
+<li>
+<p>Able to observe a high standard of food preparation and personal hygiene
+that meet NEA requirements</p>
+</li>
+<li>
+<p>Must be in personal attendance at the stall during operating hours.</p>
+</li>
+<li>
+<p>Maintain cleanliness of the stall, designated food preparation area and
+canteen area.</p>
+</li>
+<li>
+<p>Prior experience in catering or operating a stall in a school canteen/F&amp;B
+experience will be an advantage</p>
+</li>
+<li>
+<p>Any other criteria set by the school.</p>
+</li>
+</ul>
 <p><strong>Health &amp; Hygiene Requirements:</strong>
 </p>
-<p>·&nbsp;&nbsp; Must comply with the <a href="https://www.healthhub.sg/live-healthy/healthy-meals-in-school" rel="noopener nofollow" target="_blank">Healthy Eating in Schools Programme Guidelines</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Must comply with the <a href="https://www.healthhub.sg/live-healthy/healthy-meals-in-school" rel="noopener nofollow" target="_blank">Healthy Eating in Schools Programme Guidelines</a>
 </p>
-<p>·&nbsp;&nbsp; Prior to the date of commencement, the successful applicant
-and assistant(s) must complete the WSQ Basic Food Hygiene Course conducted
-by any of the accredited training providers&nbsp;appointed by the Workforce
-Development Agency.</p>
-<p>·&nbsp;&nbsp; Successful applicants must apply for individual hawker license
-from NEA.</p>
-<p>·&nbsp;&nbsp; Either the successful applicant or the assistant(s), whoever
-is the chef, must attend the Healthy Meals in School Programme workshop</p>
+</li>
+<li>
+<p>Prior to the date of commencement, the successful applicant and assistant(s)
+must complete the WSQ Basic Food Hygiene Course conducted by any of the
+accredited training providers&nbsp;appointed by the Workforce Development
+Agency.</p>
+</li>
+<li>
+<p>Successful applicants must apply for individual hawker license from NEA.</p>
+</li>
+<li>
+<p>Either the successful applicant or the assistant(s), whoever is the chef,
+must attend the Healthy Meals in School Programme workshop</p>
+</li>
+</ul>
 <p><strong>Application Procedures</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -151,16 +177,13 @@ certificates of applicant and stall assistant/s.</p>
 </li>
 <li>
 <p>Records of past catering/canteen experiences if any</p>
+<p></p>
 </li>
 </ul>
-<p><strong><br></strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Submission of Application</strong>
+<p><strong><u>Submission of Application</u></strong>
 </p>
 <p>Please submit the completed application form with the supporting documents
-to the school’s General Office or email <a rel="noopener noreferrer nofollow" target="_blank">temasek_ps@moe.edu.sg</a> by <strong>14 February 2025.</strong>
+to the school’s General Office or email <a rel="noopener noreferrer nofollow" target="_blank">temasek_ps@moe.edu.sg</a> by <strong>Friday,16 May 2025.</strong>
 </p>
 <p>Only shortlisted applicants will be contacted for an interview and&nbsp;food
 tasting session. Incomplete and late applications may not be considered.</p>
