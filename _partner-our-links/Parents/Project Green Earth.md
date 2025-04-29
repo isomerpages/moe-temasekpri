@@ -1,8 +1,8 @@
 ---
 title: Project Green Earth
-permalink: /partner-our-links/Parents-Connection-Committee/project-green-earth
+permalink: /partner-our-links/Parents-Connection-Committee/project-green-earth/
 description: ""
-third_nav_title: Parents Connection Committee
+third_nav_title: Parents
 ---
 ### Project Green Earth
 
