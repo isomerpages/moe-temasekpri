@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
-      - Parents Connection Committee/Parent Volunteers.md
-      - Parents Connection Committee/Parents Connection Committee.md
-      - Parents Connection Committee/Project Green Earth.md
-      - Parents Connection Committee/Garden of Character.md
-      - Parents Connection Committee/Mothers' Day.md
-      - Parents Connection Committee/Temasek Magic Land.md
-      - Parents Connection Committee/Community Involvement Project.md
-      - Parents Connection Committee/Project SPARK.md
-      - Parents Connection Committee/Primary 1 to 3 Lifeskills Programme.md
-      - Parents Connection Committee/.keep
+      - Parents/Parent Volunteers.md
+      - Parents/Parents Connection Committee.md
+      - Parents/Project Green Earth.md
+      - Parents/Garden of Character.md
+      - Parents/Mothers' Day.md
+      - Parents/Temasek Magic Land.md
+      - Parents/Community Involvement Project.md
+      - Parents/Project SPARK.md
+      - Parents/Primary 1 to 3 Lifeskills Programme.md
+      - Parents/.keep
       - Alumni.md
       - External Partnerships.md
       - School Visitors/Overview.md
