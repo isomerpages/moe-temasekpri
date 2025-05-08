@@ -25,23 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alumni Registration Form</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To qualify as an alumni member, you must graduate from Temasek Primary
-School.
-<br>
-<br>
-<br>(completed Primary 6 in Temasek Primary School)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be Updated</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>Show your appreciation to our Temasek staff</p>
+<p>Show your appreciation to our Temasek staff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In Temasek Primary, the school has a set of Temasek Staff core values
