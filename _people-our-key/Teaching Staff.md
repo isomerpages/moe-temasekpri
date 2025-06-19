@@ -354,11 +354,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Dzulqarni Bin Mohd Safii</p>
 <p>Ms Sarah Goh</p>
+<p>Mdm Aisha Binte Annuar Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhd_dzulqarni_mohd_safii@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhd_dzulqarni_mohd_safii@schools.gov.sg</a>
 </p>
 <p><a href="mailto:goh_yu_ling_sarah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_yu_ling_sarah@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Aisha_Annuar_Ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Aisha_Annuar_Ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -368,13 +371,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Binte Mohamed Ali</p>
-<p>Mr Chua Meng Joo</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fauziah_mohamed_ali_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ali_b@schools.gov.sg</a>
 </p>
-<p><a href="mailto:chua_meng_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_meng_joo@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -536,13 +538,16 @@ variant: tiptap
 <p>5 Open-mindedness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nancy Chia</p>
 <p>Mdm Serene Tay Li Tze</p>
+<p>Mr Chua Meng Joo</p>
+<p>Mrs Juliet Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_ping_ping_nancy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_ping_ping_nancy@schools.gov.sg</a>
-</p>
 <p><a href="mailto:tay_li_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_li_tze@schools.gov.sg</a>
+</p>
+<p><a href="mailto:chua_meng_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_meng_joo@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Cheong_Geok_Lin_Juliet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Cheong_Geok_Lin_Juliet@schools.gov.sg</a>
 </p>
 </td>
 </tr>
