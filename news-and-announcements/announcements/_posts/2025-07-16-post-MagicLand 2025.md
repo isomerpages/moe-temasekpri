@@ -7,7 +7,7 @@ description: ""
 image: /images/TMPS_MagicLand_Poster_Pg_1.png
 variant: tiptap
 ---
-<h4><strong>MagicLand 2025</strong></h4>
+<h3><strong>MagicLand 2025</strong></h3>
 <p>Temasek MagicLand is one of the school’s signature events, with the first-ever
 MagicLand being held in 2000. The last MagicLand was held as an in-school
 event for students only in 2022. It is a biennial school event with the
@@ -15,7 +15,6 @@ objective of bringing together the school community in promoting social
 and community awareness by raising funds for the beneficiaries under the
 President’s Challenge. This year, there is an added focus on developing
 leadership qualities in our students.</p>
-<p></p>
 <p>This year, together with Temasek Secondary School, Temasek MagicLand will
 be held on <strong>Friday, 8 August 2025</strong> after the National Day
 Celebrations, as well as to celebrate the 45th anniversary for both schools. <strong>The event will be held at Temasek Secondary School, from 11.00 a.m. to 3.00 p.m</strong>.
