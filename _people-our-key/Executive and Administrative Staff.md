@@ -34,8 +34,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jagjeet Singh
-<br>Ms Beverly Tan</p>
+<p>Ms Jaclyn Kwan</p>
+<p>Mr Jagjeet Singh</p>
 </td>
 </tr>
 <tr>
