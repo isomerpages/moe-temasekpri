@@ -1,5 +1,5 @@
 ---
-title: Latest Announcements
+title: Former Temasek Primary and Secondary Site
 permalink: /news-and-announcements/upcoming-activities/permalink/
 date: 2025-05-09
 layout: post
