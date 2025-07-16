@@ -7,7 +7,7 @@ description: ""
 image: /images/TMPS_MagicLand_Poster_Pg_1.png
 variant: tiptap
 ---
-<h3><strong>MagicLand 2025</strong></h3>
+<h2><strong>MagicLand 2025</strong></h2>
 <p>Temasek MagicLand is one of the school’s signature events, with the first-ever
 MagicLand being held in 2000. The last MagicLand was held as an in-school
 event for students only in 2022. It is a biennial school event with the
