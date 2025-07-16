@@ -53,12 +53,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yeow Puay Geok</p>
-<p>Mdm Nariman Bte Saruan</p>
+<p>Ms Jessie Choi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeow_puay_geok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_puay_geok@schools.gov.sg</a>
 </p>
-<p><a href="mailto:nariman_saruan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nariman_saruan@schools.gov.sg</a>
+<p><a href="mailto:jessie_choi_chook_ching_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jessie_choi_chook_ching_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -371,12 +371,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Binte Mohamed Ali</p>
-<p></p>
+<p>Ms Denise Watt</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fauziah_mohamed_ali_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ali_b@schools.gov.sg</a>
 </p>
-<p></p>
+<p><a href="mailto:watt_ai_wen_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">watt_ai_wen_denise@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
