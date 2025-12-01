@@ -5,49 +5,33 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-### Malay
+## Malay Language
+#### Key Programmes/Activities
 
-<img src="/images/malay1.png" style="width:70%">
-		 
-|  	|  	|
-|---	|---	|
-| Subject Head: 	| Mdm Raihanawati  Abdul Razak 	|
-| Members : 	|Mdm Fauziah Mohamed Ali<br>Mdm Nur Suhaila Ahmad<br>Ms Nur Amelia Binte Hamdi<br>
+1. Primary 3 and Primary 4 Malay Language and Cultural Camp
+Conducted beyond the classroom and after school, this 2-hr camp seeks to make the learning of Malay language and culture more authentic and meaningful through interactive hands-on activities. Revolving around themes such as Malay performing arts and Malay traditional games, students learn new vocabulary pertaining to the themes as well as gain first-hand experience at trying out cultural related activities. Through this camp, our Primary 3 and Primary 4 students taking Malay Language experience joy of learning as they become more aware and appreciative of Malay language and culture. 
 
-#### **Goals and Objective**:  
+2.	Mother Tongue Fortnight 
+Mother Tongue Fortnight provides a rich and immersive experience that allows students to discover, explore and connect with Malay language and culture in a meaningful way. During the event that spans across two weeks, students are actively engaged in a myriad of interactive classroom activities conducted in-house and by external vendors, as well as fun recess activities that are supported by parent volunteers. 
 
-  
+3.	Reading Programme
+The reading programme aims to cultivate a love for reading. This programme exposes students to a variety of genres for literacy development. Our Malay Language Class Library provides students with a variety of both fiction and non-fiction books. In class, students are given a platform to show their understanding of the books that they have read through book review sharing. In addition, ‘Mari Membaca’ magazine for lower and mid primary, as well as ‘Gen-G’ Malay newspaper for upper primary, further enhances students’ language development.
 
-• To enrich our students’ understanding of the Malay Language and Culture as part of Singapore’s multiracial society.&nbsp;&nbsp;  
+4.	Internal Malay Language Competitions
+In conjunction with Bulan Bahasa or Malay Language Month which seeks to encourage the use and appreciation of the Malay Language, students across all levels participate in competitions related to Malay language, The language competitions organized include Spelling Bee for lower primary, Blooket Quiz on proverbs for mid-primary and debate for upper primary. 
 
-• To develop our students into individuals who possess the quality of ‘Arif Budiman’ - a learned and cultured person who contributes positively to society.  
-  
-• To nurture our students’ to be effective communicators through meaningful activities.&nbsp;  
-  
-• To understand and foster students’ identity through cultural, traditions, literary and historical appreciation.&nbsp;  
+5.	External Malay Language and Cultural Competitions
+Throughout the year, students are encouraged to participate in various Malay Language and Cultural competitions organized by external organizations and schools. These include short story writing competition, essay writing competition, storytelling competition, Sahibba (Malay Scrabble) and proverbs competition. 
 
-  
 
-In our pursuit to achieve this vision, these are the programmes that will be carried out in the academic years:
+## Tamil Language 
+#### Key Programmes / Activities 
 
-| Malay Enrichment Programme 	| P1 	| P2 	| P3 	| P4 	| P5 	| P6 	|
-|---	|---	|---	|---	|---	|---	|---	|
-| Malay Speech and Drama 	| √ 	| √ 	|  	|  	|  	|  	|
-| Appreciation of Malay poetry  	| √  	| √  	| √  	|  √ 	|  √ 	|  √ 	|
-| Genre writing and appreciation of Malay literary text 	|  	|  	|  	|  	| √ 	| √ 	|
-| Subscription to Berita Harian 	|   	|   	|   	|   	| √  	| √  	|
-| Subscription to Mari Membaca  	|  √ 	|  √ 	| √  	|  √ 	|   	|   	|
-| Language and Cultural Camp  	|   	|   	| √  	|  √ 	|   	|   	|
-| Internal language competitions 	| √ 	| √ 	| √ 	| √ 	| √ 	| √ 	|
-| Cluster / National language competition 	| √ 	| √ 	| √ 	| √ 	| √ 	| √ 	|
+1.	Reading Programme
+The department employs a wide range of reading resources to nurture students’ interest in reading. These include selected Tamil Murasu articles, a variety of contemporary classroom storybooks, and engaging story kits for Primary 3 to Primary 6 pupils.
 
-|  	| Programmes 	|  Level(s) Involved	|
-|:---:	|:---:	|---	|
-| <br>1 	| <br>Mother Tongue Fortnight Enrichment Programme<br>Conducted during curriculum time over two weeks , students will have the opportunity to experience Malay Language as a 'living language'. Students will be actively engaged in various languages and cultural activities which revolve around the following themes<br>Traditional Malay Kuih (P1)<br>Malay Legends (P2)<br>Traditional Malay Dance (P3)<br>Traditional Malay Clothing (P4)<br>Traditional Malay Dishes (P5)<br>Traditional Malay Dances (P6) 	| P1 - P6 	|
-| 2 	| Cultural and Language Camp<br>The objective of the workshop are to :<br>expose students to the games played during olden kampong times<br>learn the proper technique of playing each games<br>allow students to be aware of the significance of the games within the Malay community <br>Make learning of Malay culture more authentic and meaningful through interactive  activities.  	| P3 &amp; P4  	|
-| <br>3 	| <br>Subscription to Mari Membaca and Berita Harian    <br>P4 Students subscribe to  Mari Membaca Magazine while P5 and P6  students subscribe to  Berita Harian .Through their subscription of these reading materials, students will be exposed to articles pertaining to culture, language, and current affairs. In addition, these are also exercises for students to attempt to enhance their vocabulary further. 	| P4 - P6 	|
-| 4 	| Creative Writing Workshops<br>The workshops aims to  empower and equip students with the various essay writing technique and skills, instill in them greater confidence in producing well written compositions and lastly, make learning of the Malay Language more relevant and authentic for students. 	|   	|
-| <br><br>5 	| <br>Motivational Talks<br>P6 students will learn to take ownership of their own learning. Students will be involved in activities that motivate them to set high but achievable targets. Students will also realise the importance of proper planning in order to achieve their targets and realise their full potential. 	| P6 	|
-| <br>6 	| <br>iMTL Portal<br>This is an ICT portal that is used by the Malay Department to improve students' oral skills as it:<br>provides opportunities for students to record their reading passages and pictorial / video conversations<br>encourages self-assessment and self-reflection<br>enables students to assess their peers and provide constructive feedback<br>increases parental involvement 	| P4 - P6 	|
+2.	MT Fortnight & TL Camp
+The Mother Tongue Fortnight initiative engages students in a variety of language and cultural activities, providing meaningful exposure beyond the classroom. This two-week programme creates an immersive environment that enriches students’ learning beyond academics. The school also organises an annual, fun-filled half-day Tamil Language Camp featuring telematches, traditional games, dance, art and craft, and Indian martial arts. The camp aims to provide every child with opportunities to explore their leadership potential and deepen their appreciation for the aesthetics and cultural heritage.
 
-<img src="/images/malay.gif" style="width:70%">
+3.	External & Internal Competitions
+All our students taking Tamil Language from Primary 1 to Primary 6 are encouraged to participate in various Tamil language competitions organised by external organisations, such as Mediacorp’s annual Spelling Bee, as well as cluster and zonal-level competitions. Students take part in a wide range of events including storytelling, singing, fancy dress, essay writing, oratorical presentations and poetry recitation. The school also conducts similar level-based internal competitions in Term 4 for all students from Primary 1 to Primary 6.
