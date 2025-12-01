@@ -21,6 +21,4 @@ The reading programme aims to cultivate a love for reading. This programme expos
 In conjunction with Bulan Bahasa or Malay Language Month which seeks to encourage the use and appreciation of the Malay Language, students across all levels participate in competitions related to Malay language, The language competitions organized include Spelling Bee for lower primary, Blooket Quiz on proverbs for mid-primary and debate for upper primary. 
 
 5.	External Malay Language and Cultural Competitions
-Throughout the year, students are encouraged to participate in various Malay Language and Cultural competitions organized by external organizations and schools. These include short story writing competition, essay writing competition, storytelling competition, Sahibba (Malay Scrabble) and proverbs competition. 
-
-
+Throughout the year, students are encouraged to participate in various Malay Language and Cultural competitions organized by external organizations and schools. These include short story writing competition, essay writing competition, storytelling competition, Sahibba (Malay Scrabble) and proverbs competition.
