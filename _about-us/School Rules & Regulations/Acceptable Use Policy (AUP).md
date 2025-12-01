@@ -59,9 +59,10 @@ should not post online remarks that are:</p>
 <p>hurtful to others</p>
 </li>
 </ul>
+<p></p>
 </li>
-</ol>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use any devices to</p>
+<li>
+<p>You should not use any devices to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>store, modify, create or share content (e.g. documents, presentations,
@@ -73,12 +74,17 @@ defamatory, hurtful to self or others).</p>
 others.</p>
 </li>
 </ul>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use MOE/school-deployed
-ICT system accounts for any commercial activities (e.g. buying and selling
-of goods and services).</p>
+<p></p>
+</li>
+<li>
+<p>You should not use MOE/school-deployed ICT system accounts for any commercial
+activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with the school’s discipline policy.</p>
+<p></p>
 <h4><strong>Respecting Copyright</strong></h4>
+</li>
+</ol>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are reminded to obtain explicit permission
 from the content owner(s) before downloading, copying or sharing any copyrighted
 materials (e.g. pictures, videos, music).</p>
