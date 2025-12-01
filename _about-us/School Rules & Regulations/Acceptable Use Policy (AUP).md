@@ -11,41 +11,39 @@ third_nav_title: School Rules & Regulations
 use of EdTech resources to help you understand how to use these resources
 safely and responsibly, in line with efforts to develop your digital literacies
 and growth as digitally responsible citizens.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>EdTech resources include the following, but are not limited to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learning devices (e.g. Personal Learning Devices (PLDs), school devices)</p>
+<p>Learning devices (e.g. iPads/Laptops)</p>
 </li>
 <li>
 <p>ICT system accounts (e.g. Singapore Student Learning Space (SLS), iCON);
 and school internet networks.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
+<p></p>
 <p>For more information, please refer to:</p>
 <p>Student Kit on Cyber Wellness and Learning with a Learning Device (Primary)
 – <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkitpri</a>
 </p>
-<p>&nbsp;</p>
-<h4><strong>General</strong></h4>
+<p></p>
+<h3><strong>General</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>You should not attempt to access data, system and information that you
 are not authorised to.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>You are reminded that the use of learning devices and school’s EdTech
 resources should solely be for the purpose of learning.</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Being a Responsible Digital Citizen</strong>
-</p>
+<p></p>
+<h4><strong>Being a Responsible Digital Citizen</strong></h4>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>You should interact with others in a respectful and responsible way. You
@@ -61,9 +59,10 @@ should not post online remarks that are:</p>
 <p>hurtful to others</p>
 </li>
 </ul>
+<p></p>
 </li>
-</ol>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use any devices to</p>
+<li>
+<p>You should not use any devices to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>store, modify, create or share content (e.g. documents, presentations,
@@ -75,20 +74,23 @@ defamatory, hurtful to self or others).</p>
 others.</p>
 </li>
 </ul>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use MOE/school-deployed
-ICT system accounts for any commercial activities (e.g. buying and selling
-of goods and services).</p>
+<p></p>
+</li>
+<li>
+<p>You should not use MOE/school-deployed ICT system accounts for any commercial
+activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with the school’s discipline policy.</p>
-<p><strong>Respecting Copyright</strong>
-</p>
+<p></p>
+<h4><strong>Respecting Copyright</strong></h4>
+</li>
+</ol>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are reminded to obtain explicit permission
 from the content owner(s) before downloading, copying or sharing any copyrighted
 materials (e.g. pictures, videos, music).</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;You should not use, copy, edit
 or share digital files in an unauthorized or illegal manner.</p>
-<p><strong>Using Artificial Intelligence (AI)</strong>
-</p>
+<h4><strong>Using Artificial Intelligence (AI)</strong></h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You must ensure that you meet the minimum
 age requirement specified in each AI tool's age restrictions before using
 it.</p>
@@ -101,7 +103,7 @@ yourself if you pass off other’s work as your own.<strong> Staying Safe and Se
 <p>11.&nbsp; You should report any incidents (e.g. unusual device behaviour
 or inappropriate use of devices), to the school.</p>
 <p>12.&nbsp; You are reminded to develop online safety habits. This includes
-not disclosing personal access credentials (e.g. MIMS password, PLD passcode,
+not disclosing personal access credentials (e.g. MIMS password, passcode,
 etc.), sensitive personal data (e.g. home address, passwords) online or
 on AI platforms, verifying credibility of online content before sharing,
 avoiding clicking on suspicious links or downloading unknown files, and
@@ -110,8 +112,7 @@ by not engaging with strangers.</p>
 <p>13.&nbsp; You should exercise caution regarding the limitations of AI
 tools, including potential inaccuracies / fabricated responses, inherent
 biases and outdated information.</p>
-<p><strong>Digital Wellbeing and Balance</strong>
-</p>
+<h4><strong>Digital Wellbeing and Balance</strong></h4>
 <p>14.&nbsp; You are reminded to balance screentime with other activities
 including physical exercise and face-to-face social interactions.</p>
 <p>15.&nbsp; You should avoid excessive use of your devices outside learning
