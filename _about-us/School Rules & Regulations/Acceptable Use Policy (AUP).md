@@ -95,7 +95,7 @@ or share digital files in an unauthorized or illegal manner.</p>
 age requirement specified in each AI tool's age restrictions before using
 it.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the use of AI is permitted, you should
-acknowledge the use of AI in weighted assessments and homework as required.3</p>
+acknowledge the use of AI in weighted assessments and homework as required.</p>
 <p>10.&nbsp; You are to practice academic integrity and be responsible for
 your own learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.<strong> Staying Safe and Secure online</strong>
