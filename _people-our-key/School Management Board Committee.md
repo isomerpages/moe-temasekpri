@@ -2,7 +2,7 @@
 title: School Management Board Committee
 permalink: /people-our-key/management-board-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>School Management Board Committee</h3>
 <h4>Principal/Vice Principals</h4>
@@ -34,7 +34,7 @@ variant: markdown
 <p>Mdm Haslindah Bahrom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Seow Peng</p>
+<p>Mdm Leng Bing Ling</p>
 </td>
 </tr>
 </tbody>
@@ -114,15 +114,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Annie Choy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teacher<br>(Mathematics)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Yeo-Ng Siok Hoon</p>
 </td>
 </tr>
 </tbody>
