@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head<br>(English)<br></strong>
+<p><strong>Level Head<br>(English)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head<br>(Mathematics)<br></strong>
+<p><strong>Level Head </strong>
+</p>
+<p><strong>(Chinese Language)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Mong Seng Roland</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Head<br>(Mathematics)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -242,7 +253,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head<br>(Lower Primary)<br></strong>
+<p><strong>Assistant Year Head<br>(Lower Primary)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
