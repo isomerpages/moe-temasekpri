@@ -34,8 +34,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alison Tan</p>
-<p>Mr Jagjeet Singh</p>
+<p>Ms Alison Tan
+<br>Mr Jagjeet Singh</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +44,8 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Begum Bte Ikbal</p>
-<p>Ms Faith Koh</p>
+<p>Mdm Zarina Begum Bte Ikbal
+<br>Ms Faith Koh</p>
 </td>
 </tr>
 <tr>
