@@ -34,7 +34,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jaclyn Kwan</p>
+<p>Ms Alison Tan</p>
 <p>Mr Jagjeet Singh</p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zarina Begum Bte Ikbal</p>
-<p>Ms Joyce Beh</p>
+<p>Ms Faith Koh</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +83,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sew Siok Leng
-<br>Mdm Lily
 <br>Ms Chio Soo Luang
 <br>Mr Sudilman
 <br>Mr Harun Bin Ismail</p>
+<p>Mdm Lily</p>
+<p>Mdm Chan Chai Fong</p>
 </td>
 </tr>
 <tr>
