@@ -6,32 +6,51 @@ variant: tiptap
 ---
 <h3>School Management Board Committee</h3>
 <h4>Principal/Vice Principals</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Principal</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Vice Principal (ACAD)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Alison Ho
-<br>
+<p><strong>Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alison Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (ACAD)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslindah Bahrom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (ACAD)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chong Hui Min Charis (Mrs Yuon)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal (Admin)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Leng Bing Ling</p>
