@@ -56,6 +56,14 @@ variant: tiptap
 <p>Mdm Leng Bing Ling</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -78,7 +86,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Koh</p>
+<p>Mdm Siti Zubaidah Mohd Sharif</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +122,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhamad Fadly Mohd Ariff</p>
+<p>Mr Sharul Hisham Ishak</p>
 </td>
 </tr>
 <tr>
@@ -189,15 +197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head <br>(Aesthetics)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jocelyn Goh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head<br>(Student Management)</strong>
 </p>
 </td>
@@ -256,7 +255,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Loh Ooi Wan</p>
+<p>Mrs Marselyn Jonatan Prakarsah</p>
 </td>
 </tr>
 <tr>
