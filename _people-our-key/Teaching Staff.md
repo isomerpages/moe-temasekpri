@@ -304,9 +304,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Lim_Wu_Yi@schools.gov.sg</a>
-<a href="mailto:Lim_Wu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a rel="noopener noreferrer nofollow" target="_blank">Tan_Sze_Hua@schools.gov.sg</a>
+<a href="mailto:Lim_Wu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Tan_Sze_Hua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
