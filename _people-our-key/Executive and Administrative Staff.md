@@ -85,9 +85,10 @@ variant: markdown
 <p>Ms Sew Siok Leng
 <br>Ms Chio Soo Luang
 <br>Mr Sudilman
-<br>Mr Harun Bin Ismail</p>
-<p>Mdm Lily</p>
-<p>Mdm Chan Chai Fong</p>
+<br>Mr Harun Bin Ismail
+<br>Mdm Lily
+<br>Mdm Chan Chai Fong<br>
+</p>
 </td>
 </tr>
 <tr>
