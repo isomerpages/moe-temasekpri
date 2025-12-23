@@ -358,9 +358,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Ng_Chin_Ngoh@schools.gov.sg</a>
-<a href="mailto:Ng_Chin_Ngoh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a rel="noopener noreferrer nofollow" target="_blank">Raelene_Koh@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Raelene_Koh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
