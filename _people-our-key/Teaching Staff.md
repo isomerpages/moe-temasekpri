@@ -510,9 +510,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Wei_Khim@schools.gov.sg</a>
-<a href="mailto:Tan_Wei_Khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>
+
 </p>
 </td>
 </tr>
@@ -541,9 +540,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Chen_Yunting@schools.gov.sg</a>
-<a href="mailto:Chen_Yunting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a rel="noopener noreferrer nofollow" target="_blank">sharul_hisham_ishak@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">sharul_hisham_ishak@schools.gov.sg</a>
 </p>
 </td>
 </tr>
