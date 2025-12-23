@@ -41,9 +41,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Chong_Gek_Hui@schools.gov.sg</a>
-<a href="mailto:Chong_Gek_Hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a rel="noopener noreferrer nofollow" target="_blank">Lin_Haizhen@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Lin_Haizhen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -99,9 +97,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Shafiza_Ariff_Patail@schools.gov.sg</a>
-<a href="mailto:shafiza_ariff_patail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a rel="noopener noreferrer nofollow" target="_blank">Chan_Wai_Liem_William@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Chan_Wai_Liem_William@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,9 +111,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Vikirawati_Mohd_Nordin@schools.gov.sg</a>
-<a href="mailto:vikirawati_mohd_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a><a rel="noopener noreferrer nofollow" target="_blank">Sathya_Anbuchezhian@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">Sathya_Anbuchezhian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -319,9 +313,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Jia_Wei@schools.gov.sg</a>
-<a href="mailto:Jia_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">
 <br>
-</a>
+
 </p>
 </td>
 </tr>
