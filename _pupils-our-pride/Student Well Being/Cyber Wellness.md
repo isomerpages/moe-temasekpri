@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Well Being
 variant: tiptap
 ---
-<h3>Cyber Wellness</h3>
+<h2><strong>Cyber Wellness</strong></h2>
 <h5>New Media Literacies</h5>
 <p>New Media Literacies are defined as the competencies to create, connect
 and curate information in the digital networked environment. Acquiring
