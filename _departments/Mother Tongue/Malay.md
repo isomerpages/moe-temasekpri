@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 variant: tiptap
 ---
 <h3><strong><u>Malay Language</u></strong></h3>
-<h4><strong>Key Programmes/Activities</strong></h4>
+<h4><strong><u>Key Programmes/Activities</u></strong></h4>
 <ol>
 <li>
 <p>Primary 3 and Primary 4 Malay Language and Cultural Camp Conducted beyond
