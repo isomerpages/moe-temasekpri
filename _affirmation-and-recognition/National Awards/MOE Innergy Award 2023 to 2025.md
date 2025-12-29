@@ -14,7 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="6" colspan="1">
-<h4>MOE Innergy Winning Projects - Schools (T&amp;L) 2025 Commendation</h4>
+<h4>MOE Innergy Winning Projects - </h4>
+<h4>Schools (T&amp;L) 2025 Commendation</h4>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Carol Chen Yunting</p>
@@ -56,7 +57,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="8" colspan="1">
-<h4>MOE Innergy Winning Projects - Schools (T&amp;L) 2025 Commendation</h4>
+<h4>MOE Innergy Winning Projects - </h4>
+<h4>Schools (T&amp;L) 2025 Commendation</h4>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Azlinda Binte Abd Aziz</p>
@@ -108,7 +110,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="4" colspan="1">
-<h4>MOE Innergy Winning Projects - Schools (T&amp;L) 2025 Silver</h4>
+<h4>MOE Innergy Winning Projects - </h4>
+<h4>Schools (T&amp;L) 2025 Silver</h4>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Choon Guoxiang Ernest</p>
