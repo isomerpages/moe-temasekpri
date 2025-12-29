@@ -2,7 +2,7 @@
 title: Executive and Administrative Staff
 permalink: /people-our-key/executive-and-admin-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>Executive and Administrative Staff</h3>
 <table style="minWidth: 50px">
@@ -34,8 +34,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jaclyn Kwan</p>
-<p>Mr Jagjeet Singh</p>
+<p>Ms Alison Tan
+<br>Mr Jagjeet Singh</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +44,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Begum Bte Ikbal</p>
-<p>Ms Joyce Beh</p>
+<p>Mdm Zarina Begum Bte Ikbal
+<br>Ms Faith Koh</p>
 </td>
 </tr>
 <tr>
@@ -83,10 +83,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sew Siok Leng
-<br>Mdm Lily
 <br>Ms Chio Soo Luang
 <br>Mr Sudilman
-<br>Mr Harun Bin Ismail</p>
+<br>Mr Harun Bin Ismail
+<br>Mdm Lily
+<br>Mdm Chan Chai Fong<br>
+</p>
 </td>
 </tr>
 <tr>

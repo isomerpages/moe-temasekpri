@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student Well Being
 variant: tiptap
 ---
-<h3>Cyber Wellness</h3>
+<h2><strong>Cyber Wellness</strong></h2>
 <h5>New Media Literacies</h5>
 <p>New Media Literacies are defined as the competencies to create, connect
 and curate information in the digital networked environment. Acquiring
@@ -41,12 +41,6 @@ to cyber wellness lessons, student leaders also known as Cyber Wellness
 Ambassadors are supported with platforms for learning and sharing. Student
 leaders undergo training and are tasked to reach out to their peers on
 cyber wellness topics such as ‘Oversharing’ and ‘Fake News’.</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/cw1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/cw2.png">
-</div>
 <p><strong>CW curriculum: at a glance</strong>
 </p>
 <table style="minWidth: 50px">
