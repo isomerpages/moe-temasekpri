@@ -5,32 +5,131 @@ description: ""
 third_nav_title: National Awards
 variant: tiptap
 ---
-### MOE Innergy Award 2019-2021
-
-<b>MOE Outstanding Innovator Award (OIA) 2020</b><br>
-Mr Lim Wu Yi
-
-<b> MOE Innergy Award 2021</b><br>
-
-| Recipients 	| Category 	| Title 	|
-|:---:	|:---:	|:---:	|
-| Mr Lim Wu Yi<br>Mrs Jamie Lee<br>Mdm Rafizah bte Wahab<br>Mdm Vanishree d/o Kaneson (Mrs Siva) 	| Silver 	| Project Eureka: Respecting Diversity  	|
-| Mr Mohamed Akramullah<br>Mr Martin Goh Poh Huat<br>Ms Ivy Lai<br>Ms Nancy Chia<br>Mdm Arveen Kaur 	| Bronze 	| Game of Equivalence 	|
-| Mrs Ong-Koh Cai Ling<br>Mrs Yee Sin Nee - Lua Sin Nee<br>Mdm Siti Azaliyah	<br>Mrs Vikirawati Choo<br>Ms Loh Ooi Wan 	|  Commendation 	| Story-Matics  	|
-
-<b> MOE Innergy Award 2020</b><br>
-
-| Recipients 	| Category 	| Title 	|
-|:---:	|:---:	|:---:	|
-| Mr Lim Wu YiMr Muhammad Diyar Bin Mustapa	<br>Mr Ernest Choon Guoxiang <br>Miss Jocelyn Goh 	| Gold 	| Project Zero:  A Fun and Student-Centric Approach Towards Zero Waste 	|
-| Mdm Azlinah Bte Abu BakarMs Janane d/o Elangkovan	<br>Mr Muhammad Haziq <br>Mr Syed Ali Omar Bin Syed Halid<br>Mr Muhamad Fadly Bin Mohd Ariff<br>Mr Muhamad Iskandar Bin Sarkawai<br>Dr Shawn Peh Yi Ching  	| Silver 	| RAMS with a 360° View 	|
-| Mdm Raihanawati Bte Abdul RazakMdm Zalinah Hassan<br>Mdm Nur Suhaila <br>Mdm Farhati Bte Kamsani<br>Mr Mohamed Azrai bin Ahmad 	|  Bronze 	|  iAnnotate  	|
-|  Mr Marcus Lau Kok HiongMs May O Guat Bee<br>Mr Vincent Neo Say Khim<br>Mdm Tan Shih Ray<br>Ms Arunah Bebe D/O Abdul Rahman<br>Mdm Arveen Kaur<br>Mrs Reavathiy Kumar 	| Commendation  	| Positive Discipline Choice 	|
-| Mr Muhammad Dzulqarni Bin Mohamad SafiiMdm Connie Soon Swee Lian<br>Mdm Toh Fui Ming<br>Mdm Tracy Huang 	|  Commendation  	|  Virtual Reality, Science Lessons Come Alive 	|
-
-<b> MOE Innergy Award 2019</b><br>
-
-| Recipients 	| Category 	| Title 	|
-|:---:	|:---:	|:---:	|
-| Mr Lim Wu Yi<br>Mrs Jamie Lee<br>Mdm Vanishree d/o Kaneson (Mrs Siva) 	| Silver 	| Symbiosis Environmental Role-Playing Game 	|
-| Mdm Lim Chye Hoon<br>Mdm Li Nan<br>Mdm Liu Jing<br>Mrs Han-Tay Seok Kuan 	| Bronze 	| See, Think, Wonder 2.0 	|
+<h3><strong>MOE Innergy Award 2023-2025</strong><br></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="6" colspan="1">
+<h4>MOE Innergy Winning Projects - Schools (T&amp;L) 2025 Commendation</h4>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Carol Chen Yunting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elfy Lee Yi Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jessica Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kel Yap-Gibson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Koh-Li Simin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yi Wei Joy</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="8" colspan="1">
+<h4>MOE Innergy Winning Projects - Schools (T&amp;L) 2025 Commendation</h4>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Azlinda Binte Abd Aziz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Charis Quek-Kang Leng Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Connie Soon Swee Lian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jamie Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wu Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Low Xin Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Dzulqarni Bin Mohd Safii</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vanishree d/o Kaneson</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="4" colspan="1">
+<h4>MOE Innergy Winning Projects - Schools (T&amp;L) 2025 Silver</h4>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr Choon Guoxiang Ernest</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jocelyn Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wu Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Diyar Bin Mustapa</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
