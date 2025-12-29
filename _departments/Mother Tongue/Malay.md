@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h2><strong><u>Malay Language</u></strong></h2>
+<h3><strong><u>Malay Language</u></strong></h3>
 <h4><strong>Key Programmes/Activities</strong></h4>
 <ol>
 <li>
