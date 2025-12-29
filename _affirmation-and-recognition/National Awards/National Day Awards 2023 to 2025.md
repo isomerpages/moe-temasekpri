@@ -5,31 +5,43 @@ description: ""
 third_nav_title: National Awards
 variant: tiptap
 ---
-#### The Commendation Medal
-
-<b>The Commendation Medal 2022</b><br>
-Mdm Salina Bte Ramat
-
-<b>The Commendation Medal 2021</b><br>
-Mdm Salina Bte Ramat
-
-<b>The Commendation Medal 2020</b><br>
-Mr Muhamad Fadly Bin Mohd Ariff
-
-#### The Efficiency Medal 
-<b>The Efficiency Medal 2019</b><br>
-Ms Ong May Chin
-
-#### The Long Service Medal
-<b>The Long Service Medal 2022</b><br>
-Mdm Serene Tay Li Tze<br>
-Ms Ong Seow Peng<br>
-Mrs Alison Ho
-
-<b>The Long Service Medal 2021</b><br>
-Mr Mohamed Izzat Bin Mohamed Sarip
-
-<b>The Long Service Medal 2020</b><br>
-Mdm Lim Chye Hoon<br>
-Mrs Joanne Chong - Tan Wai Hing <br>
-Mr William Chan
+<h3><strong>National Day Awards</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>THE COMMENDATION MEDAL 2023</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Ms Loh Ooi Wan</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>THE COMMENDATION MEDAL 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Yeo-Ng Siok Hoon</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>THE COMMENDATION MEDAL 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Sharon Koh-Li Simin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
