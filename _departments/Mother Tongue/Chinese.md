@@ -3,91 +3,98 @@ title: Chinese
 permalink: /departments/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
-variant: markdown
+variant: tiptap
 ---
-### Chinese
-
-| Head of Department: 	|
-|---	|---	|
-| Level Head: 	| - 	|
-| Senior Teacher: 	| - 	|
-| Members: 	| Mdm Tan Shih Ray<br>Mdm Yeow Puay Geok<br>Mdm Liu Jing<br>Mdm Serene Tay<br>Ms Wong Mei Chu<br>Mdm Lin Haizhen<br>Ms Kwang Kir Hwee<br>Mdm Jia Wei<br>Mdm Li Pei<br>Mdm Low Shu Fen Jayne<br>Ms Luo Xi<br>Mr Roland Ng<br>Ms Jaslynn Lai 	|
-| Flexi-Adjunct: 	| Ms Sarah Goh  	|
-
-Vision: To nurture a generation of passionate learners embracing culture in Mother Tongue Language learning. To make the language learning Fun and Engaging.  
-  
-
-##### Goals / Objectives
-
-*   To provide students with fun, enjoyable and engaging experiences in the learning of Chinese language.
-*   To nurture students to become Active Learners and Proficient Users of Chinese Language
-*   To inculcate good values in students
-*   To enhance students' appreciation of the Chinese culture.
-
-  
-
-##### Programmes in 2022
-
-| LEVEL 	| ACTIVITIES 	| IMPLEMENTATION 	|
-|---	|:---:	|---	|
-| P1 	| Story Reading and Sharing 	| Whole Year 	|
-| P1 &amp; 2 	| Rising Stars 	| Term 4 Week 9 &amp; 10 	|
-| P3 &amp; P4 	| Inter-Class C-Idioms Game Competition 	| Term 4 	|
-|  P1 to P6 	| Mother Tongue Fortnight 	| P1 &amp; 2: Term 3 Week 3 &amp; 4<br>P3 -6: Term 2 Week 1 &amp; 2  	|
-| P1 to P6 	| Internal Competition 	|  Whole Year 	|
-| P1 to P6 	| Learning Tapestry 	| P1 Term 3 Week 2 &amp; 3<br>P2 Term 1 Week 8 &amp; 9<br>P3 Term 3 Week 10 &amp; Term 4 Week 1<br>P4 Term 3 Week 8 &amp; 9<br>P5 Term 2 Week 9 &amp; 10<br>P6 Term 4 Week 5 	|
-
-##### Events/Programme
-
-  
-
-**Chinese New Year Celebration**
-
-Insert image here.
-
-During Chinese New Year celebration, some of the Temasekians displayed their talents in the concert and they have displayed our school core values, Responsibility, Perseverance and Open-mindedness by putting in extra efforts in practicing for their performance. Classroom activities like On-The-Spot Colouring Contest for Primary 1 and Primary 2 students and Chinese New Year Card Making Contest for Primary 3 to Primary 6 students are also held&nbsp;on that day.
-
-Insert images here.
-
-**Mother Tongue Fortnight 2021**  
-<br>The Chinese Language Mother Tongue Language Fortnight was held from 1 March till 12 March 2021 for the P3-P6 students and P1-P2 students 12 July 2021 to 23 July 2021. The purpose of this school-wide event is to create an immersive environment for the learning of Mother Tongue languages, through various activities to raise awareness for students to know more about their culture.&nbsp;
-
-  
-
-Chinese Culture has a rich heritage and history and filled with wisdom and knowledge. In orders to broaden the students’ horizon and having a deeper understanding of one’s culture, the Chinese department has planned 6 different cultural themes for various levels as below.
-
-  
-
-P1 and P2 students were exposed to Chinese traditional games. P1 students had fun time decorating their spinning top and competing against each other using their colourful tops.&nbsp; P2 students made shuttlecock out of recycled materials and had their share of fun kicking their handmade shuttlecock.
-
-  
-
-P3 and P4 students learnt about traditional great inventions where they became aware of the origin and significant role the invention played in the olden days. P3 students got to know how printing was done and had opportunity to arrange the Chinese characters blocks and tried printing out the words themselves. P4 students learnt about the use of kites in war time and had fun making the kite and trying to fly them after it is completed.
-
-  
-
-P5 and P6 students were introduced to the Chinese traditional arts. P5 students tried to make their own bamboo book while the P6 tried painting their own traditional fans.
-
-<img src="/images/chi1.png" style="width:60%">
-		 
-**2021 Chinese Language Game Competition for P4**
-
-**《天才西游》华文智力游戏比赛**  
-
-  
-
-The much anticipated Annual C-idiom competition for Primary Fours were held in Term 4.&nbsp; As the C-Idiom Game used to be board games, due to Covid-19 pandemic, the C-Idiom Game Team from the Chinese Department had revamped the game and digitalized it. We made use of Gimkit to engage our students from various P4 Chinese Class.
-
-For this digitalized version of C-idiom competition, all participants had to go through a few rounds where the top three finalists would emerge from each class.&nbsp; Each classroom was filled with excitement and energy where everyone tried their best to outwit their opponents to advance in the game.&nbsp;
-
-  
-
-After several rounds of intense competition of wits and knowledge of the Chinese Idioms and sayings, there are three winners from each class.
-
-<img src="/images/chi2.png" style="width:60%">
-		 
-**2019 Mid-Autumn Festival**
-
-2019年华文部举办中秋节活动，各族同胞来欢庆。大家在学习文化的同时，也享用佳节美食，享受猜灯谜的乐趣。
-
-<img src="/images/chi3.png" style="width:60%">
+<h3><strong><u>Chinese Language</u></strong></h3>
+<h4><strong><u>Key Programmes / Activities</u></strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Mother Tongue Fortnight and Chinese Language Cultural Camp</strong>
+</p>
+</li>
+</ol>
+<p><strong>Mother Tongue Fortnight</strong> provides a rich and immersive
+experience for students to discover, explore, and connect with Chinese
+language and culture in meaningful ways. Spanning two weeks, students participate
+in a variety of interactive classroom activities conducted in-house and
+by external vendors, as well as fun recess activities supported by parent
+volunteers. Beyond the classroom, the <strong>Chinese Language and Cultural Camp</strong> offers
+students’ hands-on experiences that make learning Chinese language and
+culture more authentic and engaging. Focusing on themes such as Chinese
+performing arts and traditional games, students learn new vocabulary and
+gain first-hand exposure to cultural practices. Through these activities,
+our lower-primary students experience the joy of learning and develop a
+greater awareness and appreciation of Chinese language and culture.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Reading Programme</strong>
+</p>
+</li>
+</ol>
+<p>The reading programme aims to cultivate a love for reading and develop
+literacy skills. Students are exposed to a wide variety of genres through
+our Chinese Language Class Library, which offers both fiction and non-fiction
+books. In class, students share book reviews to demonstrate their understanding
+of the texts they have read. Additionally, publications such as <strong>“Xin Peng You”</strong> (lower
+primary), <strong>“Xin Tian Di”</strong> (mid primary), <strong>“Xin Lie Che”</strong> (upper
+primary), and <strong>“Da Mu Zhi”</strong> (Upper Primary Chinese/Higher
+Chinese) further enhance students’ language development and engagement
+with Chinese texts.</p>
+<p>The school also uses the digital interactive <strong>“Ezhishi”</strong> which
+allows students to access it both at school and from home.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Internal Chinese Language Competitions</strong>
+</p>
+</li>
+</ol>
+<p>In conjunction with <strong>World Book Day</strong>, which promotes the
+use and appreciation of the Chinese language, students participate in a
+variety of internal competitions. These include <strong>Penmanship</strong> for
+lower primary, <strong>Idioms and Proverbs Quiz</strong> for mid-primary,
+and <strong>Creative Essay Writing</strong> for upper primary, providing
+opportunities for students to apply their language skills in a competitive
+yet enjoyable environment.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>External Chinese Language and Cultural Competitions</strong>
+</p>
+</li>
+</ol>
+<p>Throughout the year, students are encouraged to take part in Chinese language
+and cultural competitions organized by external organizations and schools.
+Notable competitions include the <strong>National Chinese Moo-O Competition</strong>, <strong>National Primary School On-the-Spot Chinese Creative Writing Competition</strong>, <strong>Chinese Text Recitation National Competition</strong>,
+and the <strong>International Chinese Language Competition for Primary Schools</strong>.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong>Cultural Performance Exposure Scheme (CPES)</strong>
+</p>
+</li>
+</ol>
+<p>The <strong>Cultural Performance Exposure Scheme (CPES)</strong> aims to
+deepen students’ interest in the Chinese language and culture by providing
+opportunities to attend Chinese cultural performances in theatres. Students
+participate in Chinese dramas and related performances by both local and
+overseas arts groups, gaining appreciation for the performing arts and
+cultural expression.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>Annual Publication of Students’ Compositions – 《青苗·淡写》</strong>
+</p>
+</li>
+</ol>
+<p>The annual edition of <strong>《青苗·淡写》</strong> seeks to inspire students
+to excel in Chinese composition writing by providing exemplary model essays.
+This publication is supported by the <strong>Committee to Promote Chinese Language Learning (Ministry of Education)</strong>.
+All works and the cover page design are written and created by our students,
+reflecting their creativity, dedication, and passion for the Chinese language.</p>
