@@ -5,63 +5,349 @@ description: ""
 third_nav_title: National Awards
 variant: tiptap
 ---
-### MOE Service Excellence Awards 2019-2022
-
-<b> MOE Service Excellence Awards 2022</b><br>
-
-| Recipients 	| Category 	|
-|:---:	|:---:	|
-| Ms Nancy Chia 	| Gold 	|
-| Ms Low Shu Fen, Jayne 	| Gold 	|
-| Ms Chen Yunting, Carol	| Silver 	|
-| Mdm Farhati Binte Kamsani 	| Silver 	|
-| Mr Fabian Lee	| Silver 	|
-| Mdm Liu Jing	| Silver 	|
-| Miss Michelle Lim 	| Silver 	|
-| Mr Muhammad Diyar Bin Mustapa 	| Silver 	|
-| Mdm Nariman Bte Saruan 	| Silver 	|
-| Mrs Vikirawati Choo 	| Silver 	|
-
-<b> MOE Service Excellence Awards 2021</b><br>
-
-| Recipients 	| Category 	|
-|:---:	|:---:	|
-| Mdm Salina Bte Ramat 	| Platinum &amp; Gold 	|
-| Mdm Choo Ping Li	 	| Gold 	|
-|  Ms Loh Ooi Wan 	| Gold 	|
-|  Ms Ong May Chin 	| Gold 	|
-| Mrs Ong-Koh Cai Ling  	| Gold 	|
-|  Mr Syed Ali Omar Bin Syed Halid 	| Gold 	|
-| Mdm Ammerline Tan  	| Silver 	|
-| Mdm Arveen Kaur	  	| Silver 	|
-|  Ms Nancy Chia	 	| Silver 	|
-|  Mdm Lim Chye Hoon	 	| Silver 	|
-|  Ms Low Shu Fen, Jayne  	| Silver 	|
-|  Mr Mohamed Akramullah	 	| Silver 	|
-
-<b>MOE Service Excellence Awards 2020</b><br>
-
-| Recipients 	| Category 	|
-|:---:	|:---:	|
-| Mr Marcus Lau Kok Hiong 	| Gold 	|
-| Mdm Choo Ping Li	 	| Silver 	|
-| Dr Shawn Peh Yi Ching	  	|  Silver 	|
-| Mrs Ong-Koh Cai Ling	  	|  Silver 	|
-| Mr Muhammad Dzulqarni Bin Mohamad Safii  	|  Silver 	|
-|  Mdm Raihanawati Binte Abdul Razak 	|  Silver 	|
-| Mrs Vanessa Chua	  	|  Silver 	|
-| Mdm Yeow Puay Geok  	|  Silver 	|
-
-<b>MOE Service Excellence Awards 2019</b><br>
-
-| Recipients 	| Category 	|
-|:---:	|:---:	|
-| Ms May O Guat Bee 	| Platinum &amp; Gold 	|
-| Mr Martin Goh Poh Huat  	| Gold 	|
-|  Mdm Salina Bte Ramat 	| Gold 	|
-|  Ms Sheela Devi d/o Tet Baahadur 	| Gold 	|
-|  Mr Ernest Choon Guoxiang 	| Silver 	|
-|  Mr Bernard Lee Shuh Koon 	| Silver 	|
-| Mr Marcus Lau Kok Hiong  	| Silver 	|
-|  Mdm Shafiza Bte Ariff Patail 	| Silver 	|
-|  Mr Syed Ali Omar Bin Syed Halid 	| Silver 	|
+<h3><strong>MOE Service Excellence Awards 2023-2025</strong></h3>
+<p><strong>MOE Service Excellence Awards 2025</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Charis Quek-Kang Leng Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong-Koh Cai Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elfy Lee Yi Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Si Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Dzulqarni Bin Mohd Safii</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms May O Guat Bee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seri Zalikha Mohamed Zakariah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Syazwani Bte Ashraff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Vanishree Kaneson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vivian Chong Gek Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeow Puay Geok</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Azlinda Binte Abd Aziz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Carol Chen Yunting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Poh Huat Martin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Ooi Wan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamad Fadly Bin Mohd Ariff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shafiza Bte Ariff Patail</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Koh-Li Simin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2025 (Platinum)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Haziq Bin Othman</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>MOE Service Excellence Awards 2024</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Azlinda Binte Abd Aziz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fauziah Binte Mohamed Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Janane d/o Elangkovan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Anas Bin Muhammad Nasser</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sathya Anbuchezhian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Heng Jing Hui Melody</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Haziq Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Mong Seng Roland</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2024 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Vikirawati Choo</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>MOE Service Excellence Awards 2023</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Haziq Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Mong Seng Roland</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norhayati Bte Che'Lah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Jun Xuan Beverly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yvonne Tan Bee Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Arveen Kaur</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Sheng Jie Fabian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Jing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Diyar Bin Mustapa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Gold)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong May Chin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award 2023 (Platinum)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong May Chin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
