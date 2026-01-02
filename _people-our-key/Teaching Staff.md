@@ -363,9 +363,7 @@ variant: markdown
 </table>
 <p><strong>Primary 4</strong> 
 <br><strong>Year Head: Mrs Kel Gibson</strong>
-</p>
-<p><strong>Assistant Year Head: Mdm Azlinah Bte Abu Bakar</strong>
-</p>
+<br><strong>Assistant Year Head: Mdm Azlinah Bte Abu Bakar</strong>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -461,7 +459,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 5</strong> 
+</p><p><strong>Primary 5</strong> 
 <br><strong>Year Head: Mr Goh Poh Huat Martin</strong>
 <br><strong>Assistant Year Head: Ms Arunah Rahman</strong>
 </p>
