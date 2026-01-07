@@ -265,7 +265,6 @@ variant: markdown
 </table>
 <p><strong>Primary 3</strong> 
 <br><strong>Year Head: Mrs Kel Gibson</strong>
-<br><strong>Assistant Year Head: Mdm Azlinah Bte Abu Bakar</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -298,7 +297,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Lim_Wu_Yi@schools.gov.sg</a>
-<a href="mailto:Lim_Wu_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">Tan_Sze_Hua@schools.gov.sg</a>
 </p>
 </td>
@@ -314,7 +312,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Jia_Wei@schools.gov.sg</a>
 <br>
-
 </p>
 </td>
 </tr>
@@ -366,7 +363,7 @@ variant: markdown
 </table>
 <p><strong>Primary 4</strong> 
 <br><strong>Year Head: Mrs Kel Gibson</strong>
-</p>
+<br><strong>Assistant Year Head: Mdm Azlinah Bte Abu Bakar</strong>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -462,7 +459,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p><strong>Primary 5</strong> 
+</p><p><strong>Primary 5</strong> 
 <br><strong>Year Head: Mr Goh Poh Huat Martin</strong>
 <br><strong>Assistant Year Head: Ms Arunah Rahman</strong>
 </p>
@@ -509,7 +506,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Tan_Wei_Khim@schools.gov.sg</a>
 <br>
-
 </p>
 </td>
 </tr>
