@@ -1,13 +1,13 @@
 ---
 title: Music
-permalink: /departments/Aesthetics/music
+permalink: /departments/Aesthetics/music/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ### Music
 
-<img src="/images/music1.png" 
-     style="width:80%">
+<img src="/images/music1.png" style="width:80%">
 		 
 ##### Temasek Talent Fiesta  
 
@@ -51,14 +51,10 @@ As listening is a key process in music education, students learn how to activate
 
 We hope that through these programmes, students will develop their ability for creative expression and be able to communicate with others effectively through music. Our programmes require no musical expertise so every child can benefit from the varied programmes offered in Temasek.
 
-<img src="/images/music2.png" 
-     style="width:60%">
+<img src="/images/music2.png" style="width:60%">
 
-<img src="/images/music3.png" 
-     style="width:60%">
+<img src="/images/music3.png" style="width:60%">
 
-<img src="/images/music4.png" 
-     style="width:60%">
+<img src="/images/music4.png" style="width:60%">
 
-<img src="/images/music5.png" 
-     style="width:60%">
+<img src="/images/music5.png" style="width:60%">
