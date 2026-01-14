@@ -6,42 +6,6 @@ third_nav_title: Aesthetics
 variant: tiptap
 ---
 <h3>Art</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Art Coordinator:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Wei Khim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Art Members:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nadiah Binte Abdul Wahab</p>
-<p>Ms Liao Wanting</p>
-<p>Mr William Chan (FAJT)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Arts Department Strategic Destination</strong>&nbsp;</p>
 <p>A visually captivating and welcoming learning campus which brings people
 together to inspire, nurture to enjoy arts and culture by going through
