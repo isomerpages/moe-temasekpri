@@ -10,44 +10,6 @@ guide students in hands-on experiments that allow them to experience the
 scientific process first-hand. Through careful observation and the use
 of data and evidence, students learn to make thoughtful inferences and
 communicate their findings effectively.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Connie Soon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Members:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Dzulqarni
-<br>Mrs Vanishree Siva
-<br>Mrs Jamie Lee
-<br>Mr Lim Wu Yi
-<br>Mrs Charis Quek
-<br>Ms Azlinda
-<br>Ms Low Xin Jie</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Key Approach</strong></h4>
 <p>Students engage in inquiry-based learning that promotes curiosity, exploration
 and critical thinking. Through hands-on experiments, they apply scientific
