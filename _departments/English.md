@@ -5,54 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>English</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head Of Department:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharon Koh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Members:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shafiza (LH EL)</p>
-<p>Mrs Kel Gibson (YH)
-<br>Ms Arunah Rahman (AYH)
-<br>Ms Nazlie Abdul Rashid (ST EL)
-<br>Mdm Norhayati Chelah (LSC / RRP Instructor)</p>
-<p>Ms Elfy Lee (LSP/RRP)
-<br>Ms Vivian Chong (SDR Instructor)
-<br>Mdm Nariman Bte Saruan (RRP Instructor)
-<br>Ms Joy Tan Yi Wei
-<br>Ms Chen YunTing, Carol
-<br>Ms Syazwani Binte Ashraff
-<br>Ms Melody Heng Jing Hui</p>
-<p>Mdm Salha Bte Ghazali</p>
-<p>Ms Jessica Lim (CAJT)</p>
-<p>Mdm Rafizah (FAJT)
-<br>Mrs Nirmala Sharma (FAJT)
-<br>Ms Sharon Lai (FAJT)</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The vision of the English Language department is for our students to become&nbsp;<strong>future global citizens who are articulate and effective users of the English Language</strong>.
 This is in alignment with our school's student learner outcome of 'Effective
 Communicator' and MOE's C2015 student outcome of 'Confident Person'.&nbsp;</p>
@@ -170,7 +122,6 @@ Reading, KWL and Retelling.</p>
 the pupils engage in 'STAGE IT' where they work collaboratively with their
 parents and teachers on their speech before presenting to their classmates.
 Feedback from the teacher and peers is then given through the use of rubrics.</p>
-<p>&nbsp; &nbsp;</p>
 <h5>Reading Programme – Take the Lead, Start to Read!&nbsp; &nbsp;</h5>
 <p>In Temasek, we believe that reading is the foundation for effective language
 literacy acquisition. We aim to build a community of avid, lifelong readers
