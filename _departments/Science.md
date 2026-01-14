@@ -143,6 +143,3 @@ students’ appreciation of how Science and technology can drive sustainability.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Renewable_Energy.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
