@@ -5,11 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>Physical Education&nbsp; (PE)</h3>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PE 2025" src="/images/IMG_9179.jpg">
-</div>
 <p>The purpose of physical education is to enable students to demonstrate
 individually and with others, the physical skills, practices and values
 to enjoy a lifetime of active, healthy living. The teaching of values is
@@ -31,104 +26,9 @@ regardless of their talent or ability.</p>
 to make healthy choices. Together with other school programmes, physical
 education contributes to the holistic education and the development of
 21st Century Competencies to better prepare each Temasekian.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Head of Department:</strong>
+<h4><strong>PE Curriculum</strong></h4>
+<p><strong>Learning Areas</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Fadly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Muhamad_fadly_mohd_ariff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhamad_fadly_mohd_ariff@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Members:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Janane Elangkovan
-<br>(Covering Level Head - Physical Education/CCA)</p>
-<p></p>
-<p>Mrs Annie Choy</p>
-<p></p>
-<p>Mdm Azlinah
-<br>(Assistant Year Head - Lower Pri)
-<br>
-<br>Mr Muhammad Haziq
-<br>(Subject Head - Student Management)</p>
-<p></p>
-<p>Mr Muhammad Diyar</p>
-<p></p>
-<p></p>
-<p>
-<br>Ms Lim Si Qi</p>
-<p></p>
-<p></p>
-<p>Mr Yazid Dasmin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Janane_elangkovan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Janane_elangkovan@schools.gov.sg</u></a>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="mailto:low_teck_chua_annie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_teck_chua_annie@schools.gov.sg</a>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="mailto:Azlinah_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Azlinah_abu_bakar@schools.gov.sg</a>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br><a href="mailto:Muhammad_haziq_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_haziq_othman@schools.gov.sg</a>
-<br>
-</p>
-<p></p>
-<p></p>
-<p>
-<br><a href="mailto:Muhammad_diyar_mustapa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_diyar_mustapa@schools.gov.sg</a>
-</p>
-<p></p>
-<p></p>
-<p><a href="mailto:Lim_Si_Qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Si_Qi@schools.gov.sg</a>
-</p>
-<p></p>
-<p></p>
-<p><a href="mailto:yazid_dasimin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yazid_dasimin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>PE Curriculum</h4>
-<h5>Learning Areas</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

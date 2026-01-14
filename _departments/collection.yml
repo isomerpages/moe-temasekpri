@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics/.keep
-      - Aesthetics/Overview.md
       - Aesthetics/Art Crafts.md
       - Aesthetics/Music.md
       - English.md
@@ -16,4 +15,3 @@ collections:
       - Physical Education.md
       - Sexuality Education.md
       - Science.md
-      - Staff Development Team.md

@@ -1,13 +1,12 @@
 ---
 title: Growing Years
 permalink: /departments/sexuality-education/
-date: 2022-11-10
+date: 2026-01-14
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-
-
 ## Calendar of Events for SEMESTER 1
 
          
