@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Principal's Message </strong></h4>
+<h4><strong>Principal's Message</strong></h4>
 <p>As we go into 2026, on behalf of the school, I would like to thank parents,
 guardians and all caregivers in the Temasek community for your trust in
 and support for the school over the years. It is not something we take
