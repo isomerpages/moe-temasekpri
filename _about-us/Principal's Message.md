@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Principal's Message</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P Message" src="/images/WhatsApp_Image_2026_01_29_at_10_40_20.jpg">
+</div>
 <p>As we go into 2026, on behalf of the school, I would like to thank parents,
 guardians and all caregivers in the Temasek community for your trust in
 and support for the school over the years. It is not something we take
