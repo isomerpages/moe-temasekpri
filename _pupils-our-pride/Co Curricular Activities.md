@@ -43,10 +43,9 @@ variant: tiptap
 <br>
 <br>Teachers in charge:
 <br>Mr Diyar
-<br>Ms Nancy Chia</p>
-<p>Mdm Suhaila</p>
+<br>Mdm Fauziah</p>
 <p>Ms Tan Sze Hua</p>
-<p>Miss Briner</p>
+<p>Ms Lim Mei Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/cca/Aesthetics/art-and-crafts" rel="noopener noreferrer nofollow" target="_blank">Art and Crafts</a>
@@ -60,9 +59,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/cca/Club-and-Societies/content-creators-club" rel="noopener noreferrer nofollow" target="_blank">Content Creators Club</a>
 <br>
-<br>Teacher in charge:
+<br>Teacher in charge:</p>
+<p>Ms Nancy Chia
 <br>Miss Luo Xi</p>
-<p>Ms Chen Yunting</p>
+<p>Mdm Rajeswari</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ variant: tiptap
 <p>Ms Zalikha</p>
 <p>Mr Roland Ng</p>
 <p>Mr Haziq</p>
-<p>Mr Yazid</p>
+<p>Mr Akram</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/cca/Aesthetics/choir" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
@@ -89,7 +89,7 @@ variant: tiptap
 <br>Teachers in charge:
 <br>Mr Denzel Lim</p>
 <p>Ms Jia Wei</p>
-<p>Mdm Salha</p>
+<p>Ms Lynn Koh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/cca/Club-and-Societies/club-eureka" rel="noopener noreferrer nofollow" target="_blank">Club Eureka</a> 
@@ -98,7 +98,6 @@ variant: tiptap
 <br>Ms Azlinda</p>
 <p>Mrs Jamie Lee</p>
 <p>Ms Ng Chin Ngoh</p>
-<p>Mdm Rajeswari</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +109,9 @@ variant: tiptap
 <br>
 <br>Teachers in charge:
 <br>Ms Lim Siqi
-<br>Mdm Li Pei</p>
+<br>Mdm Serene Tay</p>
+<p>Mdm Azlinah</p>
+<p>Ms Nurul Ain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://staging.d19higur8fqack.amplifyapp.com/cca/Aesthetics/guitar-ensemble" rel="noopener noreferrer nofollow" target="_blank"><u>Guitar Ensemble</u></a>
@@ -118,6 +119,7 @@ variant: tiptap
 <br>Teachers in charge:
 <br>Mrs Charis Quek</p>
 <p>Ms Jasmine Sim</p>
+<p>Mr Bernard Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://staging.d19higur8fqack.amplifyapp.com/cca/Club-and-Societies/robotics" rel="noopener noreferrer nofollow" target="_blank"><u>Robotics</u></a>
@@ -125,7 +127,8 @@ variant: tiptap
 <br>Teacher in charge:
 <br>Mr Lim Wu Yi
 <br>Mdm Yeow</p>
-<p>Ms Raihanawati</p>
+<p>Ms Sathya</p>
+<p>Ms Arveen Kaur</p>
 </td>
 </tr>
 <tr>
@@ -137,10 +140,10 @@ variant: tiptap
 <br>
 <br>Teachers in charge:</p>
 <p>Ms Janane</p>
-<p>Mrs Vani Siva
-<br>Mdm Fauziah
+<p>Mrs Vani Siva</p>
+<p>Mdm Suhaila
 <br>Miss Low Xin Jie</p>
-<p>Ms Sathya</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://staging.d19higur8fqack.amplifyapp.com/cca/Aesthetics/modern-dance" rel="noopener noreferrer nofollow" target="_blank"><u>International Dance</u></a>
@@ -148,14 +151,13 @@ variant: tiptap
 <br>Teachers in charge:
 <br>Miss Liao Wang Ting</p>
 <p>Ms Tang Siaw Wen</p>
-<p>Ms Jastina</p>
-<p>Ms Jocelyn Goh</p>
+<p>Mrs Vikirawati Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://staging.d19higur8fqack.amplifyapp.com/cca/Club-and-Societies/drama-and-debate-society" rel="noopener noreferrer nofollow" target="_blank"><u>Drama and Debate Society</u></a>
 <br>
 <br>Teachers in charge:</p>
-<p>Ms Elfy
+<p>Ms Chen Yunting
 <br>Ms Nazlie</p>
 <p>Mdm Shafiza</p>
 </td>
@@ -168,11 +170,10 @@ variant: tiptap
 <p><a href="https://staging.d19higur8fqack.amplifyapp.com/cca/Sports-and-Games/taekwondo" rel="noopener noreferrer nofollow" target="_blank"><u>Taekwondo</u></a>
 <br>
 <br>Teachers in charge:</p>
-<p>Ms Low Shu Fen Jayne
-<br>Mrs Ong-Koh Cai Ling
-<br>Ms Wong Mei Chu</p>
-<p>Mr Bernard Lee</p>
-<p>Ms Nurul Ain</p>
+<p>Ms Low Shu Fen Jayne</p>
+<p>Ms Wong Mei Chu
+<br>Mrs Ong-Koh Cai Ling</p>
+<p>Mdm Raihanawati</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
