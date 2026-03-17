@@ -73,6 +73,7 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yvonne Tan
+<br>Mdm Lim Shy Yiing
 <br>Mdm Masita Idrus</p>
 </td>
 </tr>
@@ -84,10 +85,10 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Ms Sew Siok Leng
 <br>Ms Chio Soo Luang
-<br>Mr Sudilman
+<br>Mr Sudilma Bin Amid
 <br>Mr Harun Bin Ismail
 <br>Mdm Lily
-<br>Mdm Chan Chai Fong<br>
+<br>Mdm Norbaya Bte Taib<br>
 </p>
 </td>
 </tr>
