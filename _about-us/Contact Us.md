@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/contact-us/
 description: ""
+variant: markdown
 ---
 ### Contact Us
 
@@ -17,7 +18,9 @@ description: ""
 
 **Vice Principal (Education)** <br> Mdm Haslindah Bahrom
 
-**Vice Principal (Admin)** <br> Ms Ong Seow Peng
+**Vice Principal (Education)** <br> Mdm Chong Hui Min Charis (Mrs Yuon)
+
+**Vice Principal (Admin)** <br> Mdm Leng Bing Ling
 
 | School Address 	| Contact Numbers 	| Email 	|
 |---	|---	|---	|
