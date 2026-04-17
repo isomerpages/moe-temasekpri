@@ -85,7 +85,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Ms Sew Siok Leng
 <br>Ms Chio Soo Luang
-<br>Mr Sudilma Bin Amid
+<br>Mr Sudilman Bin Amid
 <br>Mr Harun Bin Ismail
 <br>Mdm Lily
 <br>Mdm Norbaya Bte Taib<br>
