@@ -79,8 +79,9 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Growing_Years_P5_2.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Growing_Years_P6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Updated_P6.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
