@@ -3,7 +3,7 @@ title: School Canteen
 permalink: /about-us/school-services/school-canteen/
 description: ""
 third_nav_title: School Services
-variant: markdown
+variant: tiptap
 ---
 <h3>School Canteen</h3>
 <table style="minWidth: 75px">
@@ -70,6 +70,17 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Pasta, Burrito, Chicken chop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stall 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
