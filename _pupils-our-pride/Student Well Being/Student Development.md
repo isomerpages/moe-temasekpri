@@ -58,6 +58,7 @@ development of our students.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
