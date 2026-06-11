@@ -2,7 +2,7 @@
 title: Teaching Staff
 permalink: /people-our-key/teaching-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Teaching Staff</h3>
 <h4><strong>Class Form Teachers 2026</strong></h4>
@@ -206,12 +206,12 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mrs Ong-Koh Cai Ling
 <br>Ms Sarah Goh
-<br>Mrs Nirmala Sharma</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_cai_ling@schools.gov.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">Goh_Yu_Ling_Sarah@schools.gov.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">Nirmala_Sharma@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -237,11 +237,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Si Qi
-<br>Ms Heng Jing Hui Melody</p>
+<br>Ms Syazwani Binte Ashraff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lim_si_qi@schools.gov.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">heng_jing_hui@schools.gov.sg</a>
+<br><a href="mailto:syazwani_ashraff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syazwani_ashraff@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -250,13 +250,11 @@ variant: markdown
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah Abdul Wahab
-<br>Mrs Annie Choy
+<p>Mrs Annie Choy
 <br>Ms Denise Watt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nadiah_abdul_wahab@schools.gov.sg</a>
-<br><a rel="noopener noreferrer nofollow" target="_blank">low_teck_chua_annie@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">low_teck_chua_annie@schools.gov.sg</a>
 <br><a rel="noopener noreferrer nofollow" target="_blank">Watt_Ai_Wen_Denise@schools.gov.sg</a>
 </p>
 </td>
@@ -307,10 +305,15 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jia Wei
-<br>Ms Michelle Lim</p>
+<br>Ms Tan Yi Wei Joy</p>
+<p>Mr Yazid Bin Dasimin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Jia_Wei@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Tan_Yi_Wei_Joy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Yi_Wei_Joy@schools.gov.sg</a>
+</p>
+<p>
 <br>
 </p>
 </td>
@@ -322,6 +325,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mrs Jamie Lee
 <br>Mr Clement Lim</p>
+<p>Mdm Aisha Binte Annuar Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Chong_Kah_Mun_Jamie@schools.gov.sg</a>
@@ -364,6 +368,7 @@ variant: markdown
 <p><strong>Primary 4</strong> 
 <br><strong>Year Head: Mrs Kel Gibson</strong>
 <br><strong>Assistant Year Head: Mdm Azlinah Bte Abu Bakar</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -459,7 +464,8 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-</p><p><strong>Primary 5</strong> 
+<p></p>
+<p><strong>Primary 5</strong> 
 <br><strong>Year Head: Mr Goh Poh Huat Martin</strong>
 <br><strong>Assistant Year Head: Ms Arunah Rahman</strong>
 </p>
