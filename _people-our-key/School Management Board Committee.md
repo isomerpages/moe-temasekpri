@@ -2,7 +2,7 @@
 title: School Management Board Committee
 permalink: /people-our-key/management-board-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>School Management Board Committee</h3>
 <h4>Principal/Vice Principals</h4>
@@ -206,6 +206,15 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Subject Head<br>(National Education &amp; Social Studies)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vivian Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Level Head<br>(English)</strong>
 </p>
 </td>
@@ -220,15 +229,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Mong Seng Roland</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Level Head<br>(Mathematics)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jastina Putri Bte Marhajas</p>
 </td>
 </tr>
 <tr>
